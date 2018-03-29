@@ -1,2994 +1,3022 @@
-WEBVTT
-
 1
-00:00:00.500 --> 00:00:01.600
+00:00:00,500 --> 00:00:01,600
 Val House El!
 
 2
-00:00:01.702 --> 00:00:03.802
+00:00:01,702 --> 00:00:03,802
 Anda dengan ini dijatuhi hukuman mati.
 
 3
-00:00:03.904 --> 00:00:06.648
+00:00:03,904 --> 00:00:06,648
 Keluargamu sekarang
 dianggap Rankless,
 
 4
-00:00:06.727 --> 00:00:09.128
+00:00:06,727 --> 00:00:09,128
 tanpa nama, tanpa kehormatan.
 
 5
-00:00:09.230 --> 00:00:11.330
+00:00:09,230 --> 00:00:11,330
 Tidak! Kakek!
 
 6
-00:00:11.432 --> 00:00:14.266
+00:00:11,432 --> 00:00:14,266
 - Dia punya bom!
 - Meninggal pada Suara Rao!
 
 7
-00:00:14.368 --> 00:00:15.500
+00:00:14,368 --> 00:00:15,500
 <i> Kamu melakukan hal yang berani. </ i>
 
 8
-00:00:15.602 --> 00:00:17.970
+00:00:15,602 --> 00:00:17,970
 Anda akan diberi nama keluarga baru.
 
 9
-00:00:18.072 --> 00:00:20.638
+00:00:18,072 --> 00:00:20,638
 Namaku. Menyusahkan.
 
 10
-00:00:20.740 --> 00:00:23.474
+00:00:20,740 --> 00:00:23,474
 Kami tidak pernah meminta belas kasihan.
 
 11
-00:00:23.576 --> 00:00:26.144
+00:00:23,576 --> 00:00:26,144
 Apakah kamu mengerti, Lyta-Zod?
 
 12
-00:00:26.246 --> 00:00:27.745
+00:00:26,246 --> 00:00:27,745
 Ya ibu.
 
 13
-00:00:27.847 --> 00:00:29.647
+00:00:27,847 --> 00:00:29,647
 Apa yang kamu pikirkan, Seg?
 
 14
-00:00:29.749 --> 00:00:31.615
+00:00:29,749 --> 00:00:31,615
 Anda akan memborgol saya atau apa?
 
 15
-00:00:31.717 --> 00:00:33.985
+00:00:31,717 --> 00:00:33,985
 Nyssa di sini belum
 untuk dipasangkan dengan seseorang.
 
 16
-00:00:34.087 --> 00:00:35.219
+00:00:34,087 --> 00:00:35,219
 Sebagai putri bungsu saya,
 
 17
-00:00:35.322 --> 00:00:36.487
+00:00:35,322 --> 00:00:36,487
 Anda akan Mengikatnya.
 
 18
-00:00:36.589 --> 00:00:37.854
+00:00:36,589 --> 00:00:37,854
 Aku bahagia untukmu.
 
 19
-00:00:37.957 --> 00:00:40.246
+00:00:37,957 --> 00:00:40,246
 - Bukannya aku ingin menjadi Vex.
 - Apa yang tidak diinginkan?
 
 20
-00:00:40.316 --> 00:00:42.392
+00:00:40,316 --> 00:00:42,392
 <i> Kamu punya makanan yang lebih baik, udara yang lebih baik. </ i>
 
 21
-00:00:42.441 --> 00:00:44.641
+00:00:42,441 --> 00:00:44,641
 - Kamu akan menjadi salah satu dari mereka lagi.
 - Tapi bukan sebagai El.
 
 22
-00:00:44.680 --> 00:00:46.496
+00:00:44,680 --> 00:00:46,496
 - Ibu?
 - Sudah waktunya kamu belajar kebenaran.
 
 23
-00:00:46.566 --> 00:00:49.046
+00:00:46,566 --> 00:00:49,046
 Kakekmu bukan pengkhianat.
 Dia adalah seorang pahlawan.
 
 24
-00:00:49.124 --> 00:00:51.921
+00:00:49,124 --> 00:00:51,921
 Putraku tidak mencuri skimmer. Aku melakukannya!
 
 25
-00:00:52.074 --> 00:00:53.905
+00:00:52,074 --> 00:00:53,905
 Siapa komplotanmu, Charys?
 
 26
-00:00:53.992 --> 00:00:54.891
+00:00:53,992 --> 00:00:54,891
 Itu aku!
 
 27
-00:00:54.993 --> 00:00:55.undefined
+00:00:54,993 --> 00:00:55.993
+Tidak!
+
+28
+00:00:56.060 --> 00:00:57,326
 Tidak!
 
 29
-00:00:57.428 --> 00:00:58.995
+00:00:57,428 --> 00:00:58,995
 <i> Namaku Adam Strange. </ i>
 
 30
-00:00:59.097 --> 00:01:01.497
+00:00:59,097 --> 00:01:01,497
 Seseorang dari masa depan
 akan datang untuk menghancurkan Krypton.
 
 31
-00:01:01.599 --> 00:01:03.768
+00:01:01,599 --> 00:01:03,768
 Ini milik cucu Anda, Kal-El.
 
 32
-00:01:03.854 --> 00:01:05.401
+00:01:03,854 --> 00:01:05,401
 Setelah jubah ini hilang, waktu kita habis.
 
 33
-00:01:05.503 --> 00:01:06.836
+00:01:05,503 --> 00:01:06,836
 <i> Benda ini yang datang ... </ i>
 
 34
-00:01:06.938 --> 00:01:08.470
+00:01:06,938 --> 00:01:08,470
 <i> Dikenal sebagai Kolektor Dunia, </ i>
 
 35
-00:01:08.572 --> 00:01:10.606
+00:01:08,572 --> 00:01:10,606
 <i> tapi nama aslinya adalah Jenius, </ i>
 
 36
-00:01:10.708 --> 00:01:12.700
+00:01:10,708 --> 00:01:12,700
 <i> dan sepertinya orang tuamu
 memberi hidup mereka </ i>
 
 37
-00:01:12.763 --> 00:01:14.740
+00:01:12,763 --> 00:01:14,740
 <i> karena mereka tahu ancaman ini
 harus dihentikan, </ i>
 
 38
-00:01:14.764 --> 00:01:17.918
+00:01:14,764 --> 00:01:17,918
 dan mereka percaya
 Anda bisa menghentikannya.
 
 39
-00:01:30.913 --> 00:01:34.815
+00:01:30,913 --> 00:01:34,815
 Apakah ini benar-benar milik cucuku?
 
 40
-00:01:34.917 --> 00:01:36.183
+00:01:34,917 --> 00:01:36,183
 Ya.
 
 41
-00:01:36.285 --> 00:01:38.685
+00:01:36,285 --> 00:01:38,685
 Lalu mengapa dia tidak di sini?
 
 42
-00:01:38.787 --> 00:01:40.054
+00:01:38,787 --> 00:01:40,054
 Kenapa kamu?
 
 43
-00:01:41.824 --> 00:01:43.857
+00:01:41,824 --> 00:01:43,857
 Eh, dia mengirim saya di tempatnya.
 
 44
-00:01:43.960 --> 00:01:46.859
+00:01:43,960 --> 00:01:46,859
 Agak masalah besar dari mana saya berasal.
 
 45
-00:01:46.962 --> 00:01:48.661
+00:01:46,962 --> 00:01:48,661
 Banyak alasan, tetapi terutama karena
 
 46
-00:01:48.763 --> 00:01:50.129
+00:01:48,763 --> 00:01:50,129
 Saya bisa teleport melintasi tahun cahaya
 
 47
-00:01:50.231 --> 00:01:52.231
+00:01:50,231 --> 00:01:52,231
 menggunakan sedikit sesuatu
 disebut Zeta Beam.
 
 48
-00:01:53.468 --> 00:01:55.568
+00:01:53,468 --> 00:01:55,568
 Aku tahu. Itu nama yang keren, ya?
 
 49
-00:01:57.605 --> 00:01:59.638
+00:01:57,605 --> 00:01:59,638
 Datang sendiri.
 
 50
-00:01:59.740 --> 00:02:01.640
+00:01:59,740 --> 00:02:01,640
 Satu-satunya masalah adalah, uh,
 
 51
-00:02:01.742 --> 00:02:04.209
+00:02:01,742 --> 00:02:04,209
 satu penumpang per perjalanan, saya,
 
 52
-00:02:04.311 --> 00:02:07.579
+00:02:04,311 --> 00:02:07,579
 dan ... itu sedikit temperamental.
 
 53
-00:02:07.681 --> 00:02:09.848
+00:02:07,681 --> 00:02:09,848
 Kamu tidak percaya padaku.
 
 54
-00:02:09.950 --> 00:02:13.751
+00:02:09,950 --> 00:02:13,751
 Bagaimana menurut Anda
 bahwa saya sampai di benteng ini?
 
 55
-00:02:13.854 --> 00:02:15.120
+00:02:13,854 --> 00:02:15,120
 Apakah kamu...
 
 56
-00:02:15.222 --> 00:02:17.689
+00:02:15,222 --> 00:02:17,689
 Anda berpikir bahwa saya berjalan dengan kekuatan
 melintasi es untuk sampai ke sini?
 
 57
-00:02:17.791 --> 00:02:22.360
+00:02:17,791 --> 00:02:22,360
 Semua yang saya miliki
 memberitahumu itu benar.
 
 58
-00:02:23.788 --> 00:02:25.029
+00:02:23,788 --> 00:02:25,029
 Percayalah kepadaku.
 
 59
-00:02:26.966 --> 00:02:28.726
+00:02:26,966 --> 00:02:28,726
 Bahkan jika saya melakukannya,
 itu tidak akan membuat perbedaan.
 
 60
-00:02:30.103 --> 00:02:32.236
+00:02:30,103 --> 00:02:32,236
 Tidak dapat membantu Anda.
 
 61
-00:02:32.338 --> 00:02:33.537
+00:02:32,338 --> 00:02:33,537
 Ada apa dengan Anda?
 
 62
-00:02:33.639 --> 00:02:34.984
+00:02:33,639 --> 00:02:34,984
 Dengar, saya tidak tahu
 apa yang kamu harapkan dari saya,
 
 63
-00:02:35.008 --> 00:02:36.784
+00:02:35,008 --> 00:02:36,784
 tapi saya tidak mengerti apa-apa
 tentang semua ini.
 
 64
-00:02:36.808 --> 00:02:38.786
+00:02:36,808 --> 00:02:38,786
 Orang tuaku meninggal sebelumnya
 mereka bisa menjelaskannya kepada saya.
 
 65
-00:02:38.810 --> 00:02:40.576
+00:02:38,810 --> 00:02:40,576
 Hebat, maka kita bisa
 pikirkan ini bersama.
 
 66
-00:02:40.678 --> 00:02:41.922
+00:02:40,678 --> 00:02:41,922
 Saya tidak punya waktu untuk berdebat ini.
 
 67
-00:02:41.946 --> 00:02:43.846
+00:02:41,946 --> 00:02:43,846
 Saya harus kembali ke Kandor.
 
 68
-00:02:43.948 --> 00:02:45.015
+00:02:43,948 --> 00:02:45,015
 Waktu?
 
 69
-00:02:45.117 --> 00:02:46.816
+00:02:45,117 --> 00:02:46,816
 Kami tidak punya. Brainiac akan datang,
 
 70
-00:02:46.918 --> 00:02:48.229
+00:02:46,918 --> 00:02:48,229
 dan dia tidak menunggumu
 untuk mengambil ancang-ancang
 
 71
-00:02:48.253 --> 00:02:50.020
+00:02:48,253 --> 00:02:50,020
 apa pun yang menurut Anda perlu dilakukan.
 
 72
-00:02:50.122 --> 00:02:52.855
+00:02:50,122 --> 00:02:52,855
 Sekarang, saya sedang berbicara tentang
 jutaan nyawa,
 
 73
-00:02:52.957 --> 00:02:55.724
+00:02:52,957 --> 00:02:55,724
 jadi pergilah dari dirimu
 pantat dan ke dalam permainan.
 
 74
-00:02:55.826 --> 00:02:57.659
+00:02:55,826 --> 00:02:57,659
 Saya tidak peduli apa masalah besar
 kamu mungkin
 
 75
-00:02:57.761 --> 00:02:58.860
+00:02:57,761 --> 00:02:58,860
 di planet Detroit.
 
 76
-00:02:58.962 --> 00:03:01.463
+00:02:58,962 --> 00:03:01,463
 Ini Krypton.
 
 77
-00:03:01.565 --> 00:03:04.066
+00:03:01,565 --> 00:03:04,066
 Saya memberi Anda jawaban saya.
 
 78
-00:03:04.168 --> 00:03:06.568
+00:03:04,168 --> 00:03:06,568
 Kira saya punya orang yang salah.
 
 79
-00:03:10.414 --> 00:03:12.113
+00:03:10,414 --> 00:03:12,113
 Dan itu Bumi.
 
 80
-00:03:12.712 --> 00:03:13.931
+00:03:12,712 --> 00:03:13,931
 Maaf?
 
 81
-00:03:13.994 --> 00:03:16.195
+00:03:13,994 --> 00:03:16,195
 Saya adalah masalah besar di Bumi,
 
 82
-00:03:16.297 --> 00:03:18.430
+00:03:16,297 --> 00:03:18,430
 bukan planet Detroit.
 
 83
-00:03:18.533 --> 00:03:19.965
+00:03:18,533 --> 00:03:19,965
 Yah, saya sarankan
 
 84
-00:03:20.067 --> 00:03:21.545
+00:03:20,067 --> 00:03:21,545
 Anda mendapatkan balok Anda dan kembali ke sana.
 
 85
-00:03:21.569 --> 00:03:23.536
+00:03:21,569 --> 00:03:23,536
 Ada seseorang yang harus aku hadapi.
 
 86
-00:03:23.638 --> 00:03:25.037
+00:03:23,638 --> 00:03:25,037
 Tunggu!
 
 87
-00:03:26.940 --> 00:03:28.773
+00:03:26,940 --> 00:03:28,773
 Apakah Anda berpikir bahwa saya bisa saja
 
 88
-00:03:28.875 --> 00:03:30.599
+00:03:28,875 --> 00:03:30,599
 mendapatkan tumpangan kembali ke kota?
 
 89
-00:03:34.347 --> 00:03:35.943
+00:03:34,347 --> 00:03:35,943
 <i> Jadi orang ini kamu sangat ingin melihat ... </ i>
 
 90
-00:03:36.021 --> 00:03:37.693
+00:03:36,021 --> 00:03:37,693
 <i> - Daron-Vex.
 - Ya, dia. </ I>
 
 91
-00:03:37.779 --> 00:03:39.417
+00:03:37,779 --> 00:03:39,417
 <i> Kamu bilang dia adalah ketua apa sekarang? </ i>
 
 92
-00:03:39.519 --> 00:03:43.521
+00:03:39,519 --> 00:03:43,521
 - Kepala hakim kota.
 - Hakim Kepala, ya?
 
 93
-00:03:43.623 --> 00:03:44.799
+00:03:43,623 --> 00:03:44,799
 Orang seperti itu mungkin punya
 
 94
-00:03:44.882 --> 00:03:46.182
+00:03:44,882 --> 00:03:46,182
 banyak informasi berharga
 
 95
-00:03:46.260 --> 00:03:47.757
+00:03:46,260 --> 00:03:47,757
 tepat di ujung jarinya.
 
 96
-00:03:47.782 --> 00:03:48.709
+00:03:47,782 --> 00:03:48,709
 Aneh, hanya tidak.
 
 97
-00:03:48.734 --> 00:03:50.935
+00:03:48,734 --> 00:03:50,935
 Saya hanya mengatakan, jika Anda penasaran,
 
 98
-00:03:51.037 --> 00:03:52.317
+00:03:51,037 --> 00:03:52,317
 Anda mungkin bisa menggunakan pria ini,
 
 99
-00:03:52.398 --> 00:03:54.638
+00:03:52,398 --> 00:03:54,638
 mendapatkan akses ke kota
 sensor luar angkasa,
 
 100
-00:03:54.740 --> 00:03:55.918
+00:03:54,740 --> 00:03:55,918
 yang saya janji, akan menunjukkan kepada Anda
 
 101
-00:03:55.942 --> 00:03:57.542
+00:03:55,942 --> 00:03:57,542
 bentuk kehidupan organik yang besar dan jelek
 
 102
-00:03:57.643 --> 00:04:00.144
+00:03:57,643 --> 00:04:00,144
 menuju ke arah ini.
 
 103
-00:04:00.246 --> 00:04:02.179
+00:04:00,246 --> 00:04:02,179
 Jika Anda ingin menghormati
 untuk apa orang tuamu meninggal,
 
 104
-00:04:02.281 --> 00:04:03.313
+00:04:02,281 --> 00:04:03,313
 - paling sedikit...
 - jangan
 
 105
-00:04:03.415 --> 00:04:04.614
+00:04:03,415 --> 00:04:04,614
 bicaralah padaku tentang orang tuaku.
 
 106
-00:04:04.716 --> 00:04:06.950
+00:04:04,716 --> 00:04:06,950
 Saya tahu persis bagaimana caranya
 Saya akan menghormati mereka.
 
 107
-00:04:07.052 --> 00:04:09.219
+00:04:07,052 --> 00:04:09,219
 Saya hanya perlu mendekatinya,
 
 108
-00:04:09.321 --> 00:04:11.488
+00:04:09,321 --> 00:04:11,488
 dan tidak ditangkap saat itu
 Saya menginjakkan kaki di sana.
 
 109
-00:04:11.590 --> 00:04:13.656
+00:04:11,590 --> 00:04:13,656
 Jika kamu berpikir tentang balas dendam,
 
 110
-00:04:13.758 --> 00:04:15.992
+00:04:13,758 --> 00:04:15,992
 yang kamu jelaskan, tidak.
 
 111
-00:04:16.095 --> 00:04:19.061
+00:04:16,095 --> 00:04:19,061
 Setidaknya lihat ke dalam
 apa yang aku katakan dulu,
 
 112
-00:04:19.163 --> 00:04:21.297
+00:04:19,163 --> 00:04:21,297
 dan jika saya salah, hei, kawan, miliki itu.
 
 113
-00:04:21.399 --> 00:04:22.731
+00:04:21,399 --> 00:04:22,731
 Balas dendammu.
 
 114
-00:04:22.833 --> 00:04:24.333
+00:04:22,833 --> 00:04:24,333
 Tetapi jika saya benar,
 
 115
-00:04:24.435 --> 00:04:26.135
+00:04:24,435 --> 00:04:26,135
 bekerja sama dengan saya.
 
 116
-00:04:26.237 --> 00:04:28.undefined
+00:04:26,237 --> 00:04:28.170
 Ketika selesai menempatkan
 kaki ke pantat alien,
 
 117
-00:04:28.272 --> 00:04:31.207
+00:04:28,272 --> 00:04:31,207
 Aku akan membantumu
 bajingan ini sendiri.
 
 118
-00:04:31.309 --> 00:04:32.575
+00:04:31,309 --> 00:04:32,575
 Berurusan?
 
 119
-00:04:32.676 --> 00:04:34.643
+00:04:32,676 --> 00:04:34,643
 Anda tahu, Anda benar-benar
 menonjol, memakai ini.
 
 120
-00:04:34.745 --> 00:04:36.611
+00:04:34,745 --> 00:04:36,611
 Pergi temukan Kem di kedai.
 Katakan padanya aku mengutus kamu.
 
 121
-00:04:36.713 --> 00:04:38.646
+00:04:36,713 --> 00:04:38,646
 Dia akan, uh, menghubungkanmu
 dengan baju ganti.
 
 122
-00:04:41.751 --> 00:04:44.486
+00:04:41,751 --> 00:04:44,486
 Serius?
 
 123
-00:04:50.093 --> 00:04:51.226
+00:04:50,093 --> 00:04:51,226
 Halo, Seg.
 
 124
-00:04:51.328 --> 00:04:52.493
+00:04:51,328 --> 00:04:52,493
 Kami sudah mencarimu.
 
 125
-00:04:52.595 --> 00:04:53.994
+00:04:52,595 --> 00:04:53,994
 Ya, apa yang baru?
 
 126
-00:05:20.832 --> 00:05:23.863
+00:05:20,832 --> 00:05:23,863
 Orang amatir tanpa pamrih.
 
 127
-00:05:28.495 --> 00:05:30.695
+00:05:28,495 --> 00:05:30,695
 Ayolah. Maret!
 
 128
-00:05:41.508 --> 00:05:42.974
+00:05:41,508 --> 00:05:42,974
 Saya harap Anda tidak melanggarnya.
 
 129
-00:05:43.076 --> 00:05:45.309
+00:05:43,076 --> 00:05:45,309
 Tidak, hanya sedikit ketukan cinta.
 
 130
-00:05:45.411 --> 00:05:47.545
+00:05:45,411 --> 00:05:47,545
 Dia akan baik-baik saja.
 
 131
-00:05:47.647 --> 00:05:49.513
+00:05:47,647 --> 00:05:49,513
 Dia lebih baik.
 
 132
-00:05:49.615 --> 00:05:51.148
+00:05:49,615 --> 00:05:51,148
 Anda bisa pergi sekarang.
 
 133
-00:06:01.226 --> 00:06:02.559
+00:06:01,226 --> 00:06:02,559
 Apa yang sedang terjadi?
 
 134
-00:06:04.563 --> 00:06:06.796
+00:06:04,563 --> 00:06:06,796
 Ayah saya sedang menunggumu,
 
 135
-00:06:06.898 --> 00:06:08.598
+00:06:06,898 --> 00:06:08,598
 bersama dengan Penghormatan-Nya.
 
 136
-00:06:11.303 --> 00:06:14.370
+00:06:11,303 --> 00:06:14,370
 Saya sarankan Anda membersihkan diri
 dan berubah.
 
 137
-00:06:14.472 --> 00:06:18.307
+00:06:14,472 --> 00:06:18,307
 Anda benar-benar tidak mau
 membuat mereka menunggu lebih lama.
 
 138
-00:06:18.409 --> 00:06:19.474
+00:06:18,409 --> 00:06:19,474
 Percayalah kepadaku.
 
 139
-00:06:19.577 --> 00:06:22.277
+00:06:19,577 --> 00:06:22,277
 Anda menanggung sigil
 House Vex mulai sekarang.
 
 140
-00:06:33.253 --> 00:06:36.430
+00:06:33,253 --> 00:06:36,430
 <font color = "# 0080ff"> Disinkronkan & dikoreksi oleh </ font> kinglouisxx
 <font color = "# 0080ff"> www. </ font> addic7ed <font color = "# 0080ff">. com </ font>
 
 141
-00:06:44.133 --> 00:06:46.100
+00:06:44,133 --> 00:06:46,100
 Kami telah menunggu Anda ...
 
 142
-00:06:46.202 --> 00:06:47.801
+00:06:46,202 --> 00:06:47,801
 Untuk beberapa waktu.
 
 143
-00:06:47.903 --> 00:06:49.136
+00:06:47,903 --> 00:06:49,136
 Maaf, Ayah.
 
 144
-00:06:49.244 --> 00:06:50.908
+00:06:49,244 --> 00:06:50,908
 Sepenuhnya salahku.
 
 145
-00:06:55.777 --> 00:06:57.744
+00:06:55,777 --> 00:06:57,744
 Sekarang, Seg.
 
 146
-00:07:00.315 --> 00:07:01.814
+00:07:00,315 --> 00:07:01,814
 Oh
 
 147
-00:07:01.916 --> 00:07:04.217
+00:07:01,916 --> 00:07:04,217
 Anda tertarik dengan topeng?
 
 148
-00:07:04.319 --> 00:07:05.818
+00:07:04,319 --> 00:07:05,818
 Tentu saja, ini akan menjadi yang pertama kalinya
 
 149
-00:07:05.920 --> 00:07:08.287
+00:07:05,920 --> 00:07:08,287
 Anda telah melihat banyak wajah dari dekat.
 
 150
-00:07:11.091 --> 00:07:13.459
+00:07:11,091 --> 00:07:13,459
 Wajah melambangkan
 masing-masing dewa lama kita.
 
 151
-00:07:15.563 --> 00:07:17.296
+00:07:15,563 --> 00:07:17,296
 Cythonna,
 
 152
-00:07:17.398 --> 00:07:19.197
+00:07:17,398 --> 00:07:19,197
 Telle,
 
 153
-00:07:19.300 --> 00:07:20.999
+00:07:19,300 --> 00:07:20,999
 Lorra,
 
 154
-00:07:21.101 --> 00:07:22.735
+00:07:21,101 --> 00:07:22,735
 Mordo,
 
 155
-00:07:22.836 --> 00:07:26.undefined
+00:07:22,836 --> 00:07:26.070
 Yuda,
 
 156
-00:07:26.172 --> 00:07:28.539
+00:07:26,172 --> 00:07:28,539
 dan akhirnya, satu tuhan yang benar,
 
 157
-00:07:28.642 --> 00:07:31.409
+00:07:28,642 --> 00:07:31,409
 Dewa tertinggi kami, Rao.
 
 158
-00:07:31.511 --> 00:07:34.211
+00:07:31,511 --> 00:07:34,211
 Dia yang menyalakan matahari.
 
 159
-00:07:35.715 --> 00:07:38.616
+00:07:35,715 --> 00:07:38,616
 Kami biasa memuja semua dewa,
 
 160
-00:07:38.718 --> 00:07:41.653
+00:07:38,718 --> 00:07:41,653
 tapi sekarang, hanya satu.
 
 161
-00:07:44.423 --> 00:07:45.622
+00:07:44,423 --> 00:07:45,622
 Apa kamu tahu kenapa?
 
 162
-00:07:46.725 --> 00:07:49.025
+00:07:46,725 --> 00:07:49,025
 Pada saat penciptaan,
 
 163
-00:07:49.127 --> 00:07:50.927
+00:07:49,127 --> 00:07:50,927
 Rao melihat ke arah kekacauan itu
 
 164
-00:07:51.029 --> 00:07:52.996
+00:07:51,029 --> 00:07:52,996
 dan melihat potensi yang terbuang,
 
 165
-00:07:53.098 --> 00:07:57.200
+00:07:53,098 --> 00:07:57,200
 dan dia membentuk bintang dan planet,
 
 166
-00:07:57.303 --> 00:08:00.845
+00:07:57,303 --> 00:08:00,845
 yang paling sempurna
 menjadi Krypton.
 
 167
-00:08:04.676 --> 00:08:06.undefined
+00:08:04,676 --> 00:08:06.008
 Kamu melihat,
 
 168
-00:08:06.110 --> 00:08:08.477
+00:08:06,110 --> 00:08:08,477
 planet kita adalah simbol dari
 
 169
-00:08:08.579 --> 00:08:10.579
+00:08:08,579 --> 00:08:10,579
 sepenuhnya menyadari potensi, Seg.
 
 170
-00:08:10.682 --> 00:08:14.550
+00:08:10,682 --> 00:08:14,550
 Ini juga kasar dan tidak ramah.
 
 171
-00:08:16.287 --> 00:08:18.787
+00:08:16,287 --> 00:08:18,787
 Satu-satunya yang melindungi kita
 adalah kubah kekuatan,
 
 172
-00:08:18.888 --> 00:08:21.756
+00:08:18,888 --> 00:08:21,756
 dan satu-satunya
 melindungi kubah adalah ...
 
 173
-00:08:24.461 --> 00:08:26.494
+00:08:24,461 --> 00:08:26,494
 Memesan.
 
 174
-00:08:27.831 --> 00:08:31.199
+00:08:27,831 --> 00:08:31,199
 Sayangnya, orang tua Anda memilih kekacauan.
 
 175
-00:08:32.602 --> 00:08:34.134
+00:08:32,602 --> 00:08:34,134
 Saya perlu tahu jika Anda berniat
 
 176
-00:08:34.236 --> 00:08:35.902
+00:08:34,236 --> 00:08:35,902
 untuk mengikuti jejak mereka.
 
 177
-00:08:38.474 --> 00:08:39.606
+00:08:38,474 --> 00:08:39,606
 Bukan saya.
 
 178
-00:08:43.512 --> 00:08:46.380
+00:08:43,512 --> 00:08:46,380
 Upacara Investigasi
 akan diadakan besok malam,
 
 179
-00:08:46.482 --> 00:08:49.683
+00:08:46,482 --> 00:08:49,683
 dan kemudian Anda secara resmi menjadi Vex.
 
 180
-00:08:49.785 --> 00:08:50.850
+00:08:49,785 --> 00:08:50,850
 Jangan terlambat.
 
 181
-00:08:53.521 --> 00:08:54.721
+00:08:53,521 --> 00:08:54,721
 Anda diberhentikan.
 
 182
-00:09:04.521 --> 00:09:05.654
+00:09:04,521 --> 00:09:05,654
 Ayolah teman-teman. Berbaris.
 
 183
-00:09:05.709 --> 00:09:07.951
+00:09:05,709 --> 00:09:07,951
 Datang dan dapatkan yang baru,
 senjata state-of-the-art.
 
 184
-00:09:08.053 --> 00:09:09.896
+00:09:08,053 --> 00:09:09,896
 Semua blasters baru.
 
 185
-00:09:09.975 --> 00:09:11.840
+00:09:09,975 --> 00:09:11,840
 Meniup seluruh rongga dada Anda.
 
 186
-00:09:11.942 --> 00:09:14.249
+00:09:11,942 --> 00:09:14,249
 Rasakan bobotnya, jauh lebih ringan
 
 187
-00:09:14.320 --> 00:09:15.419
+00:09:14,320 --> 00:09:15,419
 dan lebih cepat.
 
 188
-00:09:15.521 --> 00:09:17.654
+00:09:15,521 --> 00:09:17,654
 Anda menjaganya.
 
 189
-00:09:17.756 --> 00:09:19.546
+00:09:17,756 --> 00:09:19,546
 Komandan?
 
 190
-00:09:19.617 --> 00:09:20.949
+00:09:19,617 --> 00:09:20,949
 Apa ini semua?
 
 191
-00:09:21.051 --> 00:09:23.418
+00:09:21,051 --> 00:09:23,418
 Ibu tidak memberitahumu?
 
 192
-00:09:23.521 --> 00:09:25.254
+00:09:23,521 --> 00:09:25,254
 Serangan baru.
 
 193
-00:09:25.356 --> 00:09:26.600
+00:09:25,356 --> 00:09:26,600
 Kami akan turun ke Rankless
 
 194
-00:09:26.624 --> 00:09:27.855
+00:09:26,624 --> 00:09:27,855
 untuk menghisap Black Zero.
 
 195
-00:09:27.957 --> 00:09:31.025
+00:09:27,957 --> 00:09:31,025
 Sepertinya kita akan berperang.
 
 196
-00:09:31.127 --> 00:09:33.394
+00:09:31,127 --> 00:09:33,394
 Yah, sial ya, kita akan berperang.
 
 197
-00:09:33.496 --> 00:09:35.429
+00:09:33,496 --> 00:09:35,429
 The Rankless bukan musuh kita.
 
 198
-00:09:35.532 --> 00:09:36.564
+00:09:35,532 --> 00:09:36,564
 Nol Hitam adalah.
 
 199
-00:09:36.666 --> 00:09:38.399
+00:09:36,666 --> 00:09:38,399
 Nah, siapa yang bisa diganggu
 
 200
-00:09:38.501 --> 00:09:40.234
+00:09:38,501 --> 00:09:40,234
 memilah teroris Anda yang sebenarnya
 
 201
-00:09:40.336 --> 00:09:42.236
+00:09:40,336 --> 00:09:42,236
 dari rutin Anda, setiap hari,
 
 202
-00:09:42.338 --> 00:09:45.405
+00:09:42,338 --> 00:09:45,405
 Pengasuh tak berujung?
 
 203
-00:09:45.507 --> 00:09:48.542
+00:09:45,507 --> 00:09:48,542
 Baiklah, anak laki-laki. Siapa yang siap retak
 beberapa tengkorak Rankless?
 
 204
-00:09:53.448 --> 00:09:54.648
+00:09:53,448 --> 00:09:54,648
 Quex benar.
 
 205
-00:09:54.749 --> 00:09:57.417
+00:09:54,749 --> 00:09:57,417
 Anda tahu nama El
 sudah identik
 
 206
-00:09:57.519 --> 00:09:59.419
+00:09:57,519 --> 00:09:59,419
 dengan resistensi di antara Rankless.
 
 207
-00:09:59.521 --> 00:10:01.620
+00:09:59,521 --> 00:10:01,620
 Eksekusi Val-El memastikannya.
 
 208
-00:10:01.722 --> 00:10:03.722
+00:10:01,722 --> 00:10:03,722
 Sekarang dengan Ter dan Charys,
 
 209
-00:10:03.824 --> 00:10:06.225
+00:10:03,824 --> 00:10:06,225
 Black Zero memiliki martir baru
 untuk seruan mereka.
 
 210
-00:10:06.327 --> 00:10:07.526
+00:10:06,327 --> 00:10:07,526
 Mereka bukan teroris.
 
 211
-00:10:07.628 --> 00:10:09.027
+00:10:07,628 --> 00:10:09,027
 Mereka mengakuinya,
 
 212
-00:10:09.129 --> 00:10:10.496
+00:10:09,129 --> 00:10:10,496
 dan aku mempertaruhkan nyawaku
 
 213
-00:10:10.598 --> 00:10:11.897
+00:10:10,598 --> 00:10:11,897
 putra mereka juga,
 
 214
-00:10:11.999 --> 00:10:13.031
+00:10:11,999 --> 00:10:13,031
 dan sekarang dia tiba
 
 215
-00:10:13.133 --> 00:10:14.866
+00:10:13,133 --> 00:10:14,866
 berjalan di antara kami di sini di guild.
 
 216
-00:10:14.968 --> 00:10:16.095
+00:10:14,968 --> 00:10:16,095
 Itu tidak benar.
 
 217
-00:10:16.197 --> 00:10:17.603
+00:10:16,197 --> 00:10:17,603
 Anda tahu seperti apa Quex.
 
 218
-00:10:17.674 --> 00:10:20.004
+00:10:17,674 --> 00:10:20,004
 Jika dia memimpin hal ini,
 itu akan menjadi pertumpahan darah.
 
 219
-00:10:20.106 --> 00:10:21.106
+00:10:20,106 --> 00:10:21,106
 Kehidupan yang tidak berdosa akan ...
 
 220
-00:10:21.174 --> 00:10:23.675
+00:10:21,174 --> 00:10:23,675
 Anda tahu, saya tidak pernah benar-benar
 peduli tentang bekas luka.
 
 221
-00:10:23.776 --> 00:10:26.444
+00:10:23,776 --> 00:10:26,444
 Terkadang, saya bahkan lupa
 Saya masih memilikinya.
 
 222
-00:10:26.546 --> 00:10:27.986
+00:10:26,546 --> 00:10:27,986
 - Dev ...
 - Atau rasa sakit di pundakku
 
 223
-00:10:28.014 --> 00:10:31.349
+00:10:28,014 --> 00:10:31,349
 yang membangunkan saya setiap hari.
 
 224
-00:10:31.451 --> 00:10:32.750
+00:10:31,451 --> 00:10:32,750
 Saya bisa hidup dengan itu juga.
 
 225
-00:10:32.852 --> 00:10:34.652
+00:10:32,852 --> 00:10:34,652
 Apa yang saya tidak bisa hidup dengan
 
 226
-00:10:34.754 --> 00:10:36.486
+00:10:34,754 --> 00:10:36,486
 adalah mengetahui orang yang bertanggung jawab
 
 227
-00:10:36.589 --> 00:10:37.654
+00:10:36,589 --> 00:10:37,654
 tidak pernah ditemukan.
 
 228
-00:10:37.756 --> 00:10:39.155
+00:10:37,756 --> 00:10:39,155
 Mereka bisa hidup bebas di suatu tempat,
 
 229
-00:10:39.258 --> 00:10:41.157
+00:10:39,258 --> 00:10:41,157
 sementara keluargaku ...
 
 230
-00:10:43.562 --> 00:10:44.994
+00:10:43,562 --> 00:10:44,994
 Mungkin...
 
 231
-00:10:45.097 --> 00:10:48.332
+00:10:45,097 --> 00:10:48,332
 tidak semua Rankless adalah Black Zero,
 
 232
-00:10:48.434 --> 00:10:50.934
+00:10:48,434 --> 00:10:50,934
 tetapi mereka menyediakan perlindungan bagi mereka,
 
 233
-00:10:51.036 --> 00:10:52.668
+00:10:51,036 --> 00:10:52,668
 jadi tolong jangan bicara lagi dengan saya
 
 234
-00:10:52.770 --> 00:10:54.437
+00:10:52,770 --> 00:10:54,437
 tentang kehidupan yang tidak bersalah.
 
 235
-00:11:02.913 --> 00:11:07.082
+00:11:02,913 --> 00:11:07,082
 Primus Zod, tolong katakan.
 
 236
-00:11:07.184 --> 00:11:08.384
+00:11:07,184 --> 00:11:08,384
 Segera.
 
 237
-00:11:08.486 --> 00:11:10.452
+00:11:08,486 --> 00:11:10,452
 Serangan baru ini.
 
 238
-00:11:10.554 --> 00:11:11.964
+00:11:10,554 --> 00:11:11,964
 The Rankless Initiative. Ada apa dengan itu?
 
 239
-00:11:11.988 --> 00:11:14.789
+00:11:11,988 --> 00:11:14,789
 Ini hanya akan berkembang biak
 lebih banyak kebencian.
 
 240
-00:11:14.891 --> 00:11:17.692
+00:11:14,891 --> 00:11:17,692
 Orang-orang kita cukup terbagi
 tanpa ini.
 
 241
-00:11:17.794 --> 00:11:21.529
+00:11:17,794 --> 00:11:21,529
 Nol hampir hitam
 membunuh Suara Rao.
 
 242
-00:11:21.632 --> 00:11:24.198
+00:11:21,632 --> 00:11:24,198
 Sampai dia diselamatkan oleh Rankless.
 
 243
-00:11:24.301 --> 00:11:27.701
+00:11:24,301 --> 00:11:27,701
 Saya tidak bisa melihat mereka meletakkan
 hidup mereka di garis untuknya
 
 244
-00:11:27.803 --> 00:11:31.037
+00:11:27,803 --> 00:11:31,037
 setelah kita menghancurkan yang sedikit
 mereka ada di sana,
 
 245
-00:11:31.140 --> 00:11:33.887
+00:11:31,140 --> 00:11:33,887
 atau setelah kamu menembak mati
 dua milik mereka
 
 246
-00:11:33.973 --> 00:11:35.142
+00:11:33,973 --> 00:11:35,142
 di Tribunal.
 
 247
-00:11:35.244 --> 00:11:37.833
+00:11:35,244 --> 00:11:37,833
 Saya mengeksekusi dua teroris yang mengaku diri
 
 248
-00:11:37.895 --> 00:11:40.581
+00:11:37,895 --> 00:11:40,581
 yang menarik senjata
 pada hakim kepala,
 
 249
-00:11:40.683 --> 00:11:42.650
+00:11:40,683 --> 00:11:42,650
 seperti halnya tugas saya.
 
 250
-00:11:44.419 --> 00:11:45.885
+00:11:44,419 --> 00:11:45,885
 Anda sebaiknya berhati-hati
 
 251
-00:11:45.987 --> 00:11:48.655
+00:11:45,987 --> 00:11:48,655
 dari apa yang keluar
 mulutmu selanjutnya, Lyta.
 
 252
-00:11:48.757 --> 00:11:50.055
+00:11:48,757 --> 00:11:50,055
 Atau mungkin Anda ingin menjelaskannya
 
 253
-00:11:50.158 --> 00:11:51.758
+00:11:50,158 --> 00:11:51,758
 apa yang memaksa Anda untuk mempertahankan Rankless
 
 254
-00:11:51.859 --> 00:11:53.526
+00:11:51,859 --> 00:11:53,526
 di setiap kesempatan yang Anda dapatkan?
 
 255
-00:11:53.628 --> 00:11:55.161
+00:11:53,628 --> 00:11:55,161
 Saya hanya ...
 
 256
-00:11:55.263 --> 00:11:58.364
+00:11:55,263 --> 00:11:58,364
 Saya harus percaya ada cara lain.
 
 257
-00:11:58.466 --> 00:12:00.232
+00:11:58,466 --> 00:12:00,232
 Anda tidak memiliki hak
 
 258
-00:12:00.334 --> 00:12:02.734
+00:12:00,334 --> 00:12:02,734
 atau pangkat untuk mempertanyakan ini.
 
 259
-00:12:02.836 --> 00:12:04.969
+00:12:02,836 --> 00:12:04,969
 Dan mengingat Anda baru-baru ini
 pertunjukan latihan,
 
+260
+00:12:05.071 --> 00:12:07,539
+Fokus Anda harus tetap hidup.
+
 261
-00:12:07.641 --> 00:12:09.240
+00:12:07,641 --> 00:12:09,240
 Tidak ada lagi,
 
 262
-00:12:09.343 --> 00:12:11.677
+00:12:09,343 --> 00:12:11,677
 tidak kurang.
 
 263
-00:12:11.779 --> 00:12:13.512
+00:12:11,779 --> 00:12:13,512
 Apakah itu cukup jelas untukmu?
 
 264
-00:12:13.614 --> 00:12:16.481
+00:12:13,614 --> 00:12:16,481
 Keras dan jelas, Primus.
 
 265
-00:12:35.467 --> 00:12:36.733
+00:12:35,467 --> 00:12:36,733
 Saya mendapat pesan Anda.
 
 266
-00:12:36.835 --> 00:12:38.501
+00:12:36,835 --> 00:12:38,501
 Anda baik-baik saja?
 
 267
-00:12:49.348 --> 00:12:52.514
+00:12:49,348 --> 00:12:52,514
 Apa yang terjadi pada orang tuaku ...
 
 268
-00:12:52.616 --> 00:12:55.217
+00:12:52,616 --> 00:12:55,217
 Aku tahu itu tidak ada hubungannya denganmu ...
 
 269
-00:12:55.319 --> 00:12:57.085
+00:12:55,319 --> 00:12:57,085
 sungguh, aku ...
 
 270
-00:12:57.187 --> 00:12:58.817
+00:12:57,187 --> 00:12:58,817
 tetapi pada saat yang sama, saya tidak bisa lupa
 
 271
-00:12:58.895 --> 00:13:00.463
+00:12:58,895 --> 00:13:00,463
 apa yang ibumu lakukan.
 
 272
-00:13:04.495 --> 00:13:07.095
+00:13:04,495 --> 00:13:07,095
 Saya mengerti.
 
 273
-00:13:07.197 --> 00:13:09.230
+00:13:07,197 --> 00:13:09,230
 Saya hanya tidak tahu
 apa yang harus saya lakukan sekarang.
 
 274
-00:13:11.200 --> 00:13:14.602
+00:13:11,200 --> 00:13:14,602
 Ada banyak hal
 dalam hidup kita, kita tidak bisa mengendalikan.
 
 275
-00:13:14.704 --> 00:13:16.203
+00:13:14,704 --> 00:13:16,203
 Hanya kamu yang tahu
 
 276
-00:13:16.305 --> 00:13:18.172
+00:13:16,305 --> 00:13:18,172
 apa yang ada di dalam dirimu,
 
 277
-00:13:18.274 --> 00:13:20.241
+00:13:18,274 --> 00:13:20,241
 apa yang kamu mampu.
 
 278
-00:13:22.945 --> 00:13:25.145
+00:13:22,945 --> 00:13:25,145
 Anda hanya perlu jujur ​​pada diri sendiri.
 
 279
-00:13:25.248 --> 00:13:26.713
+00:13:25,248 --> 00:13:26,713
 Kami berdua melakukannya.
 
 280
-00:13:41.029 --> 00:13:43.295
+00:13:41,029 --> 00:13:43,295
 Seg?
 
 281
-00:13:43.398 --> 00:13:47.065
+00:13:43,398 --> 00:13:47,065
 Anda terlihat bermasalah.
 
 282
-00:13:47.167 --> 00:13:49.101
+00:13:47,167 --> 00:13:49,101
 Apakah ada sesuatu di pikiranmu?
 
 283
-00:13:49.203 --> 00:13:51.837
+00:13:49,203 --> 00:13:51,837
 Saya ingin bertanya tentang orang tua saya.
 
 284
-00:13:51.939 --> 00:13:55.307
+00:13:51,939 --> 00:13:55,307
 Saya ingin tampil
 hak pemakaman tradisional.
 
 285
-00:13:55.410 --> 00:13:58.577
+00:13:55,410 --> 00:13:58,577
 Itu diluar pertanyaanku, aku takut.
 
 286
-00:13:58.679 --> 00:14:00.578
+00:13:58,679 --> 00:14:00,578
 Orang tuamu meninggal
 
 287
-00:14:00.680 --> 00:14:03.281
+00:14:00,680 --> 00:14:03,281
 musuh negara.
 
 288
-00:14:03.383 --> 00:14:04.949
+00:14:03,383 --> 00:14:04,949
 Maafkan aku, Seg.
 
 289
-00:14:05.051 --> 00:14:07.752
+00:14:05,051 --> 00:14:07,752
 Saya kehilangan orang tua saya ketika saya, eh ...
 
 290
-00:14:07.854 --> 00:14:09.921
+00:14:07,854 --> 00:14:09,921
 beberapa tahun lebih muda dari Anda sekarang.
 
 291
-00:14:10.023 --> 00:14:12.457
+00:14:10,023 --> 00:14:12,457
 Saya pikir saya tidak akan pernah sembuh,
 
 292
-00:14:12.559 --> 00:14:13.825
+00:14:12,559 --> 00:14:13,825
 tapi saya lakukan,
 
 293
-00:14:13.927 --> 00:14:17.728
+00:14:13,927 --> 00:14:17,728
 dan Anda juga akan melakukannya.
 
 294
-00:14:17.830 --> 00:14:19.996
+00:14:17,830 --> 00:14:19,996
 Anda mengingatkan saya padanya, Anda tahu.
 
 295
-00:14:20.098 --> 00:14:21.532
+00:14:20,098 --> 00:14:21,532
 Kakekmu, itu.
 
+296
+00:14:24.036 --> 00:14:26,870
+Anda akan segera menjadi Vex.
+
 297
-00:14:26.972 --> 00:14:28.639
+00:14:26,972 --> 00:14:28,639
 Mungkin sudah waktunya kita bicara
 
 298
-00:14:28.741 --> 00:14:30.731
+00:14:28,741 --> 00:14:30,731
 sejarah antara dua rumah kami.
 
 299
-00:14:32.812 --> 00:14:34.844
+00:14:32,812 --> 00:14:34,844
 Mungkin saya bisa membantu Anda memahami
 
 300
-00:14:34.946 --> 00:14:37.613
+00:14:34,946 --> 00:14:37,613
 apa yang terjadi bertahun-tahun yang lalu.
 
 301
-00:14:38.850 --> 00:14:41.451
+00:14:38,850 --> 00:14:41,451
 Dengan kakekmu.
 
 302
-00:14:41.553 --> 00:14:43.285
+00:14:41,553 --> 00:14:43,285
 Apa yang gagal disadari orang
 
 303
-00:14:43.387 --> 00:14:45.354
+00:14:43,387 --> 00:14:45,354
 betapa aku mengagumi Val.
 
 304
-00:14:47.191 --> 00:14:49.926
+00:14:47,191 --> 00:14:49,926
 Kami sangat dekat, sekali.
 
 305
-00:14:52.529 --> 00:14:55.730
+00:14:52,529 --> 00:14:55,730
 Tapi apa yang Val lakukan ...
 
 306
-00:14:55.833 --> 00:14:57.599
+00:14:55,833 --> 00:14:57,599
 Ini mengancam seluruh jalan hidup kita.
 
 307
-00:15:02.372 --> 00:15:05.039
+00:15:02,372 --> 00:15:05,039
 Ia berkembang sangat maju
 sistem komputer,
 
 308
-00:15:05.141 --> 00:15:08.542
+00:15:05,141 --> 00:15:08,542
 tetapi tentu saja, dia menolak
 untuk mengungkapkan lokasinya.
 
 309
-00:15:10.847 --> 00:15:13.447
+00:15:10,847 --> 00:15:13,447
 Melalui teknologi ini,
 dia mengaku memilikinya
 
 310
-00:15:13.549 --> 00:15:15.816
+00:15:13,549 --> 00:15:15,816
 mendeteksi ... kehadiran,
 
 311
-00:15:15.918 --> 00:15:18.886
+00:15:15,918 --> 00:15:18,886
 jutaan tahun cahaya jauhnya.
 
 312
-00:15:18.988 --> 00:15:23.624
+00:15:18,988 --> 00:15:23,624
 Dia mengatakan itu mengumpulkan dunia, dan ...
 
 313
-00:15:23.726 --> 00:15:27.393
+00:15:23,726 --> 00:15:27,393
 akhirnya, itu akan datang untuk Krypton.
 
 314
-00:15:28.830 --> 00:15:30.563
+00:15:28,830 --> 00:15:30,563
 Dan kamu tidak percaya padanya?
 
 315
-00:15:30.665 --> 00:15:32.832
+00:15:30,665 --> 00:15:32,832
 Tentu saja tidak.
 
 316
-00:15:32.934 --> 00:15:34.801
+00:15:32,934 --> 00:15:34,801
 Anda lihat, Seg ...
 
 317
-00:15:38.006 --> 00:15:40.974
+00:15:38,006 --> 00:15:40,974
 Bahkan pria hebat bisa tersesat,
 
 318
-00:15:41.075 --> 00:15:43.041
+00:15:41,075 --> 00:15:43,041
 dan itulah tragedinya di sini.
 
 319
-00:15:43.143 --> 00:15:44.309
+00:15:43,143 --> 00:15:44,309
 Jika bukan karena obsesi ini,
 
 320
-00:15:44.411 --> 00:15:45.655
+00:15:44,411 --> 00:15:45,655
 Val bisa saja mencapainya
 
 321
-00:15:45.679 --> 00:15:47.012
+00:15:45,679 --> 00:15:47,012
 jauh lebih banyak untuk orang-orang kita.
 
 322
-00:15:47.114 --> 00:15:48.514
+00:15:47,114 --> 00:15:48,514
 Warisannya bisa saja
 
 323
-00:15:48.616 --> 00:15:49.948
+00:15:48,616 --> 00:15:49,948
 hidup selamanya.
 
 324
-00:15:50.050 --> 00:15:52.851
+00:15:50,050 --> 00:15:52,851
 Dia bisa saja diabadikan.
 
 325
-00:15:52.953 --> 00:15:54.953
+00:15:52,953 --> 00:15:54,953
 Mungkin warisannya bisa terus hidup.
 
 326
-00:15:57.057 --> 00:15:58.923
+00:15:57,057 --> 00:15:58,923
 Jika kamu mengaguminya
 sebanyak yang kamu katakan, lalu ...
 
 327
-00:16:01.060 --> 00:16:02.527
+00:16:01,060 --> 00:16:02,527
 Biarkan saya melanjutkan pekerjaannya
 
 328
-00:16:02.629 --> 00:16:04.328
+00:16:02,629 --> 00:16:04,328
 Pekerjaan sebelumnya,
 
 329
-00:16:04.430 --> 00:16:05.663
+00:16:04,430 --> 00:16:05,663
 dengan Guild Sains.
 
 330
-00:16:05.765 --> 00:16:08.599
+00:16:05,765 --> 00:16:08,599
 Biarkan saya melayani Kandor seperti yang dia lakukan.
 
 331
-00:16:15.641 --> 00:16:18.575
+00:16:15,641 --> 00:16:18,575
 Wow, kamu lihat ...
 
 332
-00:16:18.677 --> 00:16:20.443
+00:16:18,677 --> 00:16:20,443
 Kamu lihat. Apakah kamu yakin
 
 333
-00:16:20.546 --> 00:16:22.546
+00:16:20,546 --> 00:16:22,546
 Seg akan membayarnya?
 
 334
-00:16:22.648 --> 00:16:24.undefined
+00:16:22,648 --> 00:16:24.047
 Benar.
 
 335
-00:16:24.149 --> 00:16:26.182
+00:16:24,149 --> 00:16:26,182
 Dan Anda tahu, saya tersinggung.
 
 336
-00:16:26.284 --> 00:16:28.685
+00:16:26,284 --> 00:16:28,685
 Dia sangat jelas. Ganti baju,
 
 337
-00:16:28.787 --> 00:16:29.953
+00:16:28,787 --> 00:16:29,953
 tidak ada biaya yang terhindar.
 
 338
-00:16:30.055 --> 00:16:32.121
+00:16:30,055 --> 00:16:32,121
 Oh, jelas sekali.
 
 339
-00:16:32.223 --> 00:16:33.255
+00:16:32,223 --> 00:16:33,255
 Dan, uh,
 
 340
-00:16:33.357 --> 00:16:36.792
+00:16:33,357 --> 00:16:36,792
 dia juga mengatakan sesuatu
 untuk memuaskan dahaga saya.
 
 341
-00:16:36.894 --> 00:16:38.493
+00:16:36,894 --> 00:16:38,493
 Sangat jelas tentang itu.
 
 342
-00:16:38.596 --> 00:16:40.128
+00:16:38,596 --> 00:16:40,128
 Apakah dia? Baik.
 
 343
-00:16:40.230 --> 00:16:41.564
+00:16:40,230 --> 00:16:41,564
 Selamat menikmati.
 
 344
-00:16:46.470 --> 00:16:49.938
+00:16:46,470 --> 00:16:49,938
 Nah, ini terlihat menarik secara positif,
 
 345
-00:16:50.040 --> 00:16:51.940
+00:16:50,040 --> 00:16:51,940
 dan saya ingin sekali mendengar semua tentang itu,
 
 346
-00:16:52.042 --> 00:16:53.074
+00:16:52,042 --> 00:16:53,074
 tapi bisakah kita ...
 
 347
-00:16:53.176 --> 00:16:54.909
+00:16:53,176 --> 00:16:54,909
 sedikit bicara secara pribadi dulu?
 
 348
-00:16:56.345 --> 00:16:57.879
+00:16:56,345 --> 00:16:57,879
 - Ya?
 - Ya, tentu.
 
 349
-00:16:57.981 --> 00:16:59.513
+00:16:57,981 --> 00:16:59,513
 - Ya
 - Ini bukan tentang kamu.
 
 350
-00:16:59.616 --> 00:17:01.248
+00:16:59,616 --> 00:17:01,248
 Hanya...
 
 351
-00:17:01.350 --> 00:17:02.550
+00:17:01,350 --> 00:17:02,550
 Baik.
 
 352
-00:17:04.320 --> 00:17:07.888
+00:17:04,320 --> 00:17:07,888
 Apa yang terjadi atas nama Rao?
 
 353
-00:17:07.990 --> 00:17:09.790
+00:17:07,990 --> 00:17:09,790
 Pertama, kamu menghilang tanpa jejak,
 
 354
-00:17:09.892 --> 00:17:11.135
+00:17:09,892 --> 00:17:11,135
 lalu Anda muncul, terlihat seperti ini,
 
 355
-00:17:11.159 --> 00:17:12.059
+00:17:11,159 --> 00:17:12,059
 maka orang ini muncul,
 
 356
-00:17:12.160 --> 00:17:13.526
+00:17:12,160 --> 00:17:13,526
 mengatakan bahwa kamu mengirimnya,
 
 357
-00:17:13.629 --> 00:17:15.006
+00:17:13,629 --> 00:17:15,006
 dan mulai bercerita
 cerita gila tentang ...
 
 358
-00:17:15.030 --> 00:17:16.897
+00:17:15,030 --> 00:17:16,897
 Saya tahu, saya tahu, saya tahu, mereka ...
 
 359
-00:17:16.999 --> 00:17:18.865
+00:17:16,999 --> 00:17:18,865
 - Mereka terdengar gila.
 - Ya
 
 360
-00:17:18.968 --> 00:17:20.567
+00:17:18,968 --> 00:17:20,567
 Mereka mungkin...
 
 361
-00:17:20.669 --> 00:17:22.502
+00:17:20,669 --> 00:17:22,502
 sebenarnya benar.
 
 362
-00:17:24.872 --> 00:17:26.undefined
+00:17:24,872 --> 00:17:26.205
 Seg, dengar.
 
 363
-00:17:26.307 --> 00:17:27.851
+00:17:26,307 --> 00:17:27,851
 Saya tahu Anda telah pergi
 melalui banyak hal belakangan ini.
 
 364
-00:17:27.875 --> 00:17:29.809
+00:17:27,875 --> 00:17:29,809
 Saya baik-baik saja.
 
 365
-00:17:29.911 --> 00:17:30.911
+00:17:29,911 --> 00:17:30,911
 Percayalah kepadaku.
 
 366
-00:17:32.747 --> 00:17:34.279
+00:17:32,747 --> 00:17:34,279
 Baiklah baiklah.
 
 367
-00:17:34.381 --> 00:17:37.382
+00:17:34,381 --> 00:17:37,382
 Anda tahu, saya suka Candy Crush
 sebanyak pria berikutnya,
 
 368
-00:17:37.485 --> 00:17:40.885
+00:17:37,485 --> 00:17:40,885
 - Tapi ini adalah...
 - Diam dan dengarkan, Manusia Bumi.
 
 369
-00:17:40.988 --> 00:17:42.954
+00:17:40,988 --> 00:17:42,954
 Saya menerima saran Anda sebelumnya,
 
 370
-00:17:43.056 --> 00:17:44.656
+00:17:43,056 --> 00:17:44,656
 jadi sekarang aku anggota
 dari Guild Sains.
 
 371
-00:17:44.758 --> 00:17:46.057
+00:17:44,758 --> 00:17:46,057
 Mereka memberi saya itu
 
 372
-00:17:46.159 --> 00:17:48.493
+00:17:46,159 --> 00:17:48,493
 dan akses tak terbatas
 ke bank data mereka.
 
 373
-00:17:48.595 --> 00:17:50.035
+00:17:48,595 --> 00:17:50,035
 Ah, begini, sudah kubilang itu tadi ...
 
 374
-00:17:50.130 --> 00:17:51.562
+00:17:50,130 --> 00:17:51,562
 Saya belum selesai.
 
 375
-00:17:51.665 --> 00:17:52.831
+00:17:51,665 --> 00:17:52,831
 Kamu bilang kamu bisa menemukan bukti
 
 376
-00:17:52.933 --> 00:17:54.966
+00:17:52,933 --> 00:17:54,966
 untuk mendukung klaim Anda tentang Jenius.
 
 377
-00:17:55.068 --> 00:17:56.434
+00:17:55,068 --> 00:17:56,434
 Inilah kesempatan Anda.
 
 378
-00:17:56.536 --> 00:17:58.736
+00:17:56,536 --> 00:17:58,736
 Tapi aku tidak akan membiarkanmu
 string saya bersama selamanya.
 
 379
-00:17:58.838 --> 00:18:00.638
+00:17:58,838 --> 00:18:00,638
 Anda punya dua jam.
 
 380
-00:18:00.740 --> 00:18:02.973
+00:18:00,740 --> 00:18:02,973
 Jika Anda tidak datang
 apapun saat itu,
 
 381
-00:18:03.075 --> 00:18:05.342
+00:18:03,075 --> 00:18:05,342
 Saya akan selesai
 apa yang saya lakukan di sana.
 
 382
-00:18:18.841 --> 00:18:19.932
+00:18:18,841 --> 00:18:19,932
 Komandan,
 
 383
-00:18:20.018 --> 00:18:21.441
+00:18:20,018 --> 00:18:21,441
 apakah kamu punya waktu sebentar?
 
 384
-00:18:23.474 --> 00:18:26.undefined
+00:18:23,474 --> 00:18:26.042
 Saya sudah diberitahu
 keluhan Anda.
 
 385
-00:18:26.144 --> 00:18:27.443
+00:18:26,144 --> 00:18:27,443
 Kekhawatiran, bukan keluhan.
 
 386
-00:18:27.545 --> 00:18:30.312
+00:18:27,545 --> 00:18:30,312
 Anda harus datang kepada saya terlebih dahulu.
 
 387
-00:18:30.415 --> 00:18:31.880
+00:18:30,415 --> 00:18:31,880
 Anda membuat saya terlihat seperti punk.
 
 388
-00:18:31.982 --> 00:18:34.417
+00:18:31,982 --> 00:18:34,417
 Anda tidak perlu bantuan saya dengan itu.
 
 389
-00:18:34.519 --> 00:18:36.152
+00:18:34,519 --> 00:18:36,152
 Apa yang baru saja Anda katakan?
 
 390
-00:18:37.588 --> 00:18:39.354
+00:18:37,588 --> 00:18:39,354
 Komandan Quex-Ul.
 
 391
-00:18:39.456 --> 00:18:40.922
+00:18:39,456 --> 00:18:40,922
 Saya, Lyta-Zod,
 
 392
-00:18:41.024 --> 00:18:43.691
+00:18:41,024 --> 00:18:43,691
 dengan ini memanggil roh Jo-Mon,
 
 393
-00:18:43.785 --> 00:18:45.056
+00:18:43,785 --> 00:18:45,056
 dan tradisi kuno kita,
 
 394
-00:18:45.134 --> 00:18:47.829
+00:18:45,134 --> 00:18:47,829
 dalam menantang Anda ke duel Kandorian.
 
 395
-00:18:47.900 --> 00:18:49.364
+00:18:47,900 --> 00:18:49,364
 - Lyta ...
 - Kamu gadis bodoh.
 
 396
-00:18:49.466 --> 00:18:50.765
+00:18:49,466 --> 00:18:50,765
 Di antaranya pemenang
 
 397
-00:18:50.867 --> 00:18:53.468
+00:18:50,867 --> 00:18:53,468
 akan mengambil alih komando divisi ini
 
 398
-00:18:53.570 --> 00:18:56.037
+00:18:53,570 --> 00:18:56,037
 dan hak untuk suara mereka
 untuk didengar
 
 399
-00:18:56.138 --> 00:18:57.304
+00:18:56,138 --> 00:18:57,304
 di atas semua yang lain.
 
 400
-00:18:59.975 --> 00:19:01.041
+00:18:59,975 --> 00:19:01,041
 Lyta, tolonglah.
 
 401
-00:19:01.143 --> 00:19:02.609
+00:19:01,143 --> 00:19:02,609
 Jangan lakukan ini.
 
 402
-00:19:02.711 --> 00:19:04.undefined
+00:19:02,711 --> 00:19:04.778
 Jika Anda melaluinya,
 tidak ada yang bisa saya lakukan.
 
 403
-00:19:04.880 --> 00:19:06.580
+00:19:04,880 --> 00:19:06,580
 Quex terikat dengan ritual Kandorian
 
 404
-00:19:06.682 --> 00:19:09.216
+00:19:06,682 --> 00:19:09,216
 untuk tidak menunjukkan belas kasihan.
 Itu berarti sampai mati.
 
 405
-00:19:09.318 --> 00:19:10.438
+00:19:09,318 --> 00:19:10,438
 Anda pikir saya tidak tahu itu?
 
 406
-00:19:10.486 --> 00:19:12.252
+00:19:10,486 --> 00:19:12,252
 Maka tolong jelaskan ini kepada saya.
 
 407
-00:19:12.304 --> 00:19:14.320
+00:19:12,304 --> 00:19:14,320
 - Katakan kenapa.
 - Sagitari Zod,
 
 408
-00:19:14.422 --> 00:19:15.955
+00:19:14,422 --> 00:19:15,955
 dalam.
 
 409
-00:19:16.057 --> 00:19:17.457
+00:19:16,057 --> 00:19:17,457
 Sekarang.
 
 410
-00:19:28.603 --> 00:19:31.303
+00:19:28,603 --> 00:19:31,303
 Apa artinya ini?
 
 411
-00:19:31.405 --> 00:19:32.670
+00:19:31,405 --> 00:19:32,670
 Saya menantang komandan saya
 
 412
-00:19:32.772 --> 00:19:34.084
+00:19:32,772 --> 00:19:34,084
 untuk hak memimpin divisi kita.
 
 413
-00:19:34.108 --> 00:19:37.342
+00:19:34,108 --> 00:19:37,342
 Saya tidak diharuskan memberi alasan.
 
 414
-00:19:37.444 --> 00:19:39.478
+00:19:37,444 --> 00:19:39,478
 Saya meminta satu.
 
 415
-00:19:39.580 --> 00:19:42.114
+00:19:39,580 --> 00:19:42,114
 Sebagai atasan saya?
 
 416
-00:19:42.216 --> 00:19:43.281
+00:19:42,216 --> 00:19:43,281
 Sebagai ibumu.
 
 417
-00:19:44.818 --> 00:19:47.184
+00:19:44,818 --> 00:19:47,184
 Ibuku yang tidak percaya anaknya
 
 418
-00:19:47.286 --> 00:19:48.519
+00:19:47,286 --> 00:19:48,519
 mampu menjadi seorang pejuang.
 
 419
-00:19:48.621 --> 00:19:50.854
+00:19:48,621 --> 00:19:50,854
 - Belum.
 - Tidak pernah.
 
 420
-00:19:50.956 --> 00:19:53.090
+00:19:50,956 --> 00:19:53,090
 Aku melihatnya di matamu, Ibu.
 
 421
-00:19:53.192 --> 00:19:54.758
+00:19:53,192 --> 00:19:54,758
 Aku selalu.
 
 422
-00:19:54.860 --> 00:19:56.727
+00:19:54,860 --> 00:19:56,727
 Anda mencoba menyembunyikannya, tetapi Anda tidak berpikir
 
 423
-00:19:56.829 --> 00:19:59.363
+00:19:56,829 --> 00:19:59,363
 Saya akan pernah layak untuk nama Zod.
 
 424
-00:19:59.465 --> 00:20:01.532
+00:19:59,465 --> 00:20:01,532
 - Itu tidak benar.
 - Ini.
 
 425
-00:20:03.402 --> 00:20:05.535
+00:20:03,402 --> 00:20:05,535
 Dan itu baik-baik saja.
 
 426
-00:20:06.407 --> 00:20:08.104
+00:20:06,407 --> 00:20:08,104
 Tapi itu tidak akan menghentikanku.
 
 427
-00:20:08.166 --> 00:20:09.532
+00:20:08,166 --> 00:20:09,532
 Anda dan saya sama-sama tahu
 
 428
-00:20:09.619 --> 00:20:11.845
+00:20:09,619 --> 00:20:11,845
 tidak ada jalan untuk kembali dari ini.
 
 429
-00:20:18.850 --> 00:20:21.950
+00:20:18,850 --> 00:20:21,950
 Semoga rahmat Rao menjadi perisai Anda.
 
 430
-00:20:33.096 --> 00:20:35.197
+00:20:33,096 --> 00:20:35,197
 Tidak ada di array satelit.
 
 431
-00:20:37.034 --> 00:20:39.undefined
+00:20:37,034 --> 00:20:39.800
 Tidak ada di sensor luar angkasa.
 
 432
-00:20:39.902 --> 00:20:41.262
+00:20:39,902 --> 00:20:41,262
 Bukan hanya Kota Kandor.
 
 433
-00:20:41.337 --> 00:20:42.936
+00:20:41,337 --> 00:20:42,936
 Ini terhubung ke
 
 434
-00:20:43.039 --> 00:20:44.605
+00:20:43,039 --> 00:20:44,605
 jaringan luas planet Persekutuan.
 
 435
-00:20:46.676 --> 00:20:48.108
+00:20:46,676 --> 00:20:48,108
 Tidak ada apa-apa di sana.
 
 436
-00:20:49.412 --> 00:20:51.546
+00:20:49,412 --> 00:20:51,546
 Tidak, itu tidak mungkin benar.
 
 437
-00:20:51.648 --> 00:20:53.314
+00:20:51,648 --> 00:20:53,314
 Itu kesalahan. Periksa itu lagi.
 
 438
-00:20:56.951 --> 00:20:58.251
+00:20:56,951 --> 00:20:58,251
 Seg ...
 
 439
-00:20:58.353 --> 00:20:59.631
+00:20:58,353 --> 00:20:59,631
 - Yah, itu saja, kalau begitu.
 - Seg ...
 
 440
-00:20:59.655 --> 00:21:00.687
+00:20:59,655 --> 00:21:00,687
 Seg, hei, ayo ...
 
 441
-00:21:00.789 --> 00:21:02.855
+00:21:00,789 --> 00:21:02,855
 Hei, hei, hei, tunggu!
 
 442
-00:21:02.957 --> 00:21:04.558
+00:21:02,957 --> 00:21:04,558
 Tunggu saja.
 
 443
-00:21:04.660 --> 00:21:05.660
+00:21:04,660 --> 00:21:05,660
 Beri kami waktu sebentar.
 
 444
-00:21:11.833 --> 00:21:16.168
+00:21:11,833 --> 00:21:16,168
 Seg, tolong pikirkan
 apa yang kamu lakukan.
 
 445
-00:21:16.270 --> 00:21:17.270
+00:21:16,270 --> 00:21:17,270
 Baik? Lupakan orang bodoh ini.
 
 446
-00:21:17.305 --> 00:21:18.537
+00:21:17,305 --> 00:21:18,537
 Mari kita dan aku saja
 
 447
-00:21:18.639 --> 00:21:19.871
+00:21:18,639 --> 00:21:19,871
 duduk dan membicarakannya.
 
 448
-00:21:19.973 --> 00:21:22.575
+00:21:19,973 --> 00:21:22,575
 Semua yang saya lakukan adalah memikirkan hal ini,
 
 449
-00:21:22.677 --> 00:21:24.210
+00:21:22,677 --> 00:21:24,210
 dan aku sudah selesai bicara.
 
 450
-00:21:24.312 --> 00:21:25.678
+00:21:24,312 --> 00:21:25,678
 Jika kamu melakukan ini,
 
 451
-00:21:25.779 --> 00:21:27.279
+00:21:25,779 --> 00:21:27,279
 Anda membuang segalanya.
 
 452
-00:21:27.381 --> 00:21:30.381
+00:21:27,381 --> 00:21:30,381
 Tidak ada yang tersisa untuk dibuang.
 
 453
-00:21:38.325 --> 00:21:39.624
+00:21:38,325 --> 00:21:39,624
 Anda melihat saya di mata
 
 454
-00:21:39.726 --> 00:21:41.593
+00:21:39,726 --> 00:21:41,593
 dan kamu beritahu aku
 
 455
-00:21:41.695 --> 00:21:43.361
+00:21:41,695 --> 00:21:43,361
 bahwa apa yang Anda katakan itu benar.
 
 456
-00:21:45.765 --> 00:21:47.531
+00:21:45,765 --> 00:21:47,531
 Aku bersumpah kepada Tuhan.
 
 457
-00:21:47.633 --> 00:21:49.966
+00:21:47,633 --> 00:21:49,966
 Baiklah, kalau begitu, kita lebih baik
 temukan cara lain untuk membuktikannya,
 
 458
-00:21:50.068 --> 00:21:52.854
+00:21:50,068 --> 00:21:52,854
 atau anak laki-laki kita
 akan membuat dirinya terbunuh.
 
 459
-00:22:20.835 --> 00:22:22.701
+00:22:20,835 --> 00:22:22,701
 Anda cepat belajar.
 
 460
-00:22:26.955 --> 00:22:28.150
+00:22:26,955 --> 00:22:28,150
 Anda hampir tidak di sini,
 
 461
-00:22:28.224 --> 00:22:30.541
+00:22:28,224 --> 00:22:30,541
 dan kamu sudah yakin akan dirimu sendiri.
 
 462
-00:22:33.886 --> 00:22:36.351
+00:22:33,886 --> 00:22:36,351
 Tentang ayahku,
 
 463
-00:22:36.606 --> 00:22:37.672
+00:22:36,606 --> 00:22:37,672
 dia ...
 
 464
-00:22:37.774 --> 00:22:39.918
+00:22:37,774 --> 00:22:39,918
 selalu punya bakat
 untuk yang dramatis, tapi ...
 
 465
-00:22:41.357 --> 00:22:43.757
+00:22:41,357 --> 00:22:43,757
 Anda mengatakan ayahmu
 hanya berpikir bahwa dia memilihku.
 
 466
-00:22:45.094 --> 00:22:46.460
+00:22:45,094 --> 00:22:46,460
 Jika ini benar-benar pilihanmu,
 
 467
-00:22:46.562 --> 00:22:47.961
+00:22:46,562 --> 00:22:47,961
 maka mungkin Anda bisa memberi tahu saya mengapa.
 
 468
-00:22:50.466 --> 00:22:52.699
+00:22:50,466 --> 00:22:52,699
 Pertama, saya ingin menunjukkan sesuatu kepada Anda.
 
 469
-00:23:03.245 --> 00:23:04.577
+00:23:03,245 --> 00:23:04,577
 Ini abu orang tuaku.
 
 470
-00:23:08.417 --> 00:23:10.282
+00:23:08,417 --> 00:23:10,282
 Tapi kamu bisa ditangkap untuk ini.
 
 471
-00:23:11.585 --> 00:23:13.185
+00:23:11,585 --> 00:23:13,185
 Aku tahu.
 
 472
-00:23:13.287 --> 00:23:15.020
+00:23:13,287 --> 00:23:15,020
 Lalu mengapa?
 
 473
-00:23:17.058 --> 00:23:18.323
+00:23:17,058 --> 00:23:18,323
 Setiap orang berhak mendapat kesempatan
 
 474
-00:23:18.426 --> 00:23:20.125
+00:23:18,426 --> 00:23:20,125
 untuk mengucapkan selamat tinggal kepada orang yang mereka cintai.
 
 475
-00:23:21.895 --> 00:23:23.962
+00:23:21,895 --> 00:23:23,962
 Tidak peduli situasinya.
 
 476
-00:23:30.970 --> 00:23:32.136
+00:23:30,970 --> 00:23:32,136
 Nyssa.
 
 477
-00:23:35.675 --> 00:23:36.874
+00:23:35,675 --> 00:23:36,874
 Terima kasih.
 
 478
-00:24:41.036 --> 00:24:43.337
+00:24:41,036 --> 00:24:43,337
 Laporan klimatologi,
 fisika atmosfer,
 
 479
-00:24:43.439 --> 00:24:46.039
+00:24:43,439 --> 00:24:46,039
 - fenomena meteorologi ...
 - Bam! Itu dia!
 
 480
-00:24:46.142 --> 00:24:47.142
+00:24:46,142 --> 00:24:47,142
 Periksa anomali.
 
 481
-00:24:47.176 --> 00:24:48.609
+00:24:47,176 --> 00:24:48,609
 Uh, anomali. Baik.
 
 482
-00:24:48.710 --> 00:24:50.744
+00:24:48,710 --> 00:24:50,744
 Um ... Hm.
 
 483
-00:24:50.846 --> 00:24:52.656
+00:24:50,846 --> 00:24:52,656
 Nah, ini dia sesuatu
 Anda tidak melihat setiap hari.
 
 484
-00:24:52.680 --> 00:24:55.undefined
+00:24:52,680 --> 00:24:55.080
 Hujan meteor dilaporkan
 di Outlands.
 
 485
-00:24:55.183 --> 00:24:56.215
+00:24:55,183 --> 00:24:56,215
 Apakah baru-baru ini?
 
 486
-00:24:56.317 --> 00:24:58.451
+00:24:56,317 --> 00:24:58,451
 Ya, tiga hari yang lalu.
 
 487
-00:24:58.553 --> 00:24:59.818
+00:24:58,553 --> 00:24:59,818
 Oke, kita harus memeriksanya.
 
 488
-00:24:59.920 --> 00:25:01.920
+00:24:59,920 --> 00:25:01,920
 Yah, oke, tapi maksud saya,
 
 489
-00:25:02.023 --> 00:25:04.357
+00:25:02,023 --> 00:25:04,357
 Saya kira kita bisa ikut serta
 dengan kru penyelamatan,
 
 490
-00:25:04.459 --> 00:25:05.525
+00:25:04,459 --> 00:25:05,525
 tapi itu ilegal,
 
 491
-00:25:05.627 --> 00:25:06.903
+00:25:05,627 --> 00:25:06,903
 jadi kita harus menyogok mereka.
 
 492
-00:25:06.927 --> 00:25:09.327
+00:25:06,927 --> 00:25:09,327
 Besar. Ayo pergi.
 
 493
-00:25:09.429 --> 00:25:10.795
+00:25:09,429 --> 00:25:10,795
 Apa?
 
 494
-00:25:10.897 --> 00:25:11.996
+00:25:10,897 --> 00:25:11,996
 Hm?
 
 495
-00:25:12.098 --> 00:25:13.309
+00:25:12,098 --> 00:25:13,309
 Kenapa kamu menatapku seperti itu?
 
 496
-00:25:13.333 --> 00:25:15.033
+00:25:13,333 --> 00:25:15,033
 Yah, aku tidak benar-benar menyiram,
 
 497
-00:25:15.135 --> 00:25:17.235
+00:25:15,135 --> 00:25:17,235
 tetapi mungkin ada cara lain.
 
 498
-00:25:17.337 --> 00:25:19.871
+00:25:17,337 --> 00:25:19,871
 Itu mungkin hanya membebani Anda dengan penutup kepala.
 
 499
-00:25:19.973 --> 00:25:21.373
+00:25:19,973 --> 00:25:21,373
 Saya...
 
 500
-00:25:35.488 --> 00:25:37.988
+00:25:35,488 --> 00:25:37,988
 Tidak ada lagi yang bersembunyi.
 
+501
+00:25:38.090 --> 00:25:39,256
+- Apa?
+- Semua hidupmu,
+
 502
-00:25:39.358 --> 00:25:40.524
+00:25:39,358 --> 00:25:40,524
 Anda telah menyembunyikan kebenaran Anda,
 
 503
-00:25:40.626 --> 00:25:42.793
+00:25:40,626 --> 00:25:42,793
 seperti itu sesuatu yang memalukan.
 
 504
-00:25:42.895 --> 00:25:44.561
+00:25:42,895 --> 00:25:44,561
 Saya selalu melihatnya,
 
 505
-00:25:44.663 --> 00:25:47.263
+00:25:44,663 --> 00:25:47,263
 ketika tidak ada orang lain, bahkan ibumu.
 
 506
-00:25:50.101 --> 00:25:52.034
+00:25:50,101 --> 00:25:52,034
 Anda bukan Sagitari.
 
 507
-00:25:54.206 --> 00:25:57.307
+00:25:54,206 --> 00:25:57,307
 Anda adalah Lyta dari House Zod.
 
 508
-00:25:57.409 --> 00:25:58.874
+00:25:57,409 --> 00:25:58,874
 Anda seorang pejuang ...
 
 509
-00:26:00.178 --> 00:26:01.443
+00:26:00,178 --> 00:26:01,443
 Dan kamu selalu begitu.
 
 510
-00:26:28.204 --> 00:26:30.738
+00:26:28,204 --> 00:26:30,738
 Rhom, Ona.
 
 511
-00:26:30.840 --> 00:26:32.106
+00:26:30,840 --> 00:26:32,106
 Saya m...
 
 512
-00:26:32.208 --> 00:26:34.007
+00:26:32,208 --> 00:26:34,007
 Maafkan saya. Aku ... aku, um ...
 
 513
-00:26:34.110 --> 00:26:36.676
+00:26:34,110 --> 00:26:36,676
 - Aku tidak mengharapkanmu.
 - Kami hanya ingin mampir
 
 514
-00:26:36.771 --> 00:26:38.044
+00:26:36,771 --> 00:26:38,044
 dan berikan penghormatan kami.
 
 515
-00:26:39.581 --> 00:26:40.913
+00:26:39,581 --> 00:26:40,913
 Ayah dan ibumu ...
 
 516
-00:26:41.015 --> 00:26:44.226
+00:26:41,015 --> 00:26:44,226
 Mereka selalu bersedia
 untuk menjaga Ona
 
 517
-00:26:44.296 --> 00:26:45.852
+00:26:44,296 --> 00:26:45,852
 ketika saya bekerja malam.
 
 518
-00:26:45.954 --> 00:26:48.521
+00:26:45,954 --> 00:26:48,521
 Tidak pernah meminta imbalan apa pun.
 
 519
-00:26:55.929 --> 00:26:58.629
+00:26:55,929 --> 00:26:58,629
 Aku harap kamu tahu
 seberapa besar arti mereka bagi kami.
 
 520
-00:27:06.340 --> 00:27:08.140
+00:27:06,340 --> 00:27:08,140
 Terima kasih.
 
 521
-00:27:11.144 --> 00:27:13.378
+00:27:11,144 --> 00:27:13,378
 Terima kasih semuanya.
 
 522
-00:27:14.661 --> 00:27:16.727
+00:27:14,661 --> 00:27:16,727
 Seribu siklus yang lalu,
 
 523
-00:27:16.809 --> 00:27:18.976
+00:27:16,809 --> 00:27:18,976
 Prajurit kuno Jo-Mon
 
 524
-00:27:19.057 --> 00:27:20.061
+00:27:19,057 --> 00:27:20,061
 menghadapi tantangan
 
 525
-00:27:20.147 --> 00:27:23.780
+00:27:20,147 --> 00:27:23,780
 yang akan mengubah Krypton selamanya.
 
 526
-00:27:23.882 --> 00:27:26.986
+00:27:23,882 --> 00:27:26,986
 Jo-Mon mengundang para pengkritiknya
 
+527
+00:27:27.073 --> 00:27:28,307
+ke puncak tertinggi
+
 528
-00:27:28.401 --> 00:27:30.643
+00:27:28,401 --> 00:27:30,643
 dari Pegunungan Permata
 
 529
-00:27:30.744 --> 00:27:32.645
+00:27:30,744 --> 00:27:32,645
 dan menantang mereka,
 
 530
-00:27:32.746 --> 00:27:34.380
+00:27:32,746 --> 00:27:34,380
 satu per satu,
 
 531
-00:27:34.482 --> 00:27:36.382
+00:27:34,482 --> 00:27:36,382
 untuk berduel sampai mati.
 
 532
-00:27:36.484 --> 00:27:39.050
+00:27:36,484 --> 00:27:39,050
 Kemenangannya
 
 533
-00:27:39.152 --> 00:27:39.984
+00:27:39,152 --> 00:27:39,984
 diantar masuk
 
 534
-00:27:40.086 --> 00:27:42.820
+00:27:40,086 --> 00:27:42,820
 masa keemasan pertama perdamaian
 
 535
-00:27:42.922 --> 00:27:45.390
+00:27:42,922 --> 00:27:45,390
 dalam sejarah Krypton.
 
 536
-00:27:45.492 --> 00:27:46.891
+00:27:45,492 --> 00:27:46,891
 Jika seseorang percaya
 
 537
-00:27:46.993 --> 00:27:49.827
+00:27:46,993 --> 00:27:49,827
 mereka layak untuk kepemimpinan sejati,
 
 538
-00:27:49.929 --> 00:27:52.530
+00:27:49,929 --> 00:27:52,530
 itu bukan hanya hak mereka,
 
 539
-00:27:52.632 --> 00:27:55.614
+00:27:52,632 --> 00:27:55,614
 tetapi kewajiban mereka untuk bertindak atasnya.
 
 540
-00:27:57.102 --> 00:28:00.036
+00:27:57,102 --> 00:28:00,036
 Bertarung dengan hormat.
 
 541
-00:28:01.340 --> 00:28:05.141
+00:28:01,340 --> 00:28:05,141
 Bertarung dengan bangga,
 
 542
-00:28:05.244 --> 00:28:08.478
+00:28:05,244 --> 00:28:08,478
 dan bertarung tanpa ampun.
 
 543
-00:28:09.615 --> 00:28:10.647
+00:28:09,615 --> 00:28:10,647
 Mulai.
 
 544
-00:29:35.529 --> 00:29:39.330
+00:29:35,529 --> 00:29:39,330
 "Darah House El
 selamanya akan mengikat kita. "
 
 545
-00:29:39.432 --> 00:29:41.299
+00:29:39,432 --> 00:29:41,299
 Darah House El.
 
 546
-00:30:27.878 --> 00:30:29.410
+00:30:27,878 --> 00:30:29,410
 Halo, Seg.
 
 547
-00:30:47.496 --> 00:30:48.895
+00:30:47,496 --> 00:30:48,895
 Kakek, kamu ...
 
 548
-00:30:48.997 --> 00:30:50.364
+00:30:48,997 --> 00:30:50,364
 Kamu bukan...
 
 549
-00:30:50.466 --> 00:30:51.565
+00:30:50,466 --> 00:30:51,565
 Saya tidak takut, Seg.
 
 550
-00:30:53.335 --> 00:30:55.335
+00:30:53,335 --> 00:30:55,335
 Saya seorang proyeksi.
 
 551
-00:30:55.437 --> 00:30:57.337
+00:30:55,437 --> 00:30:57,337
 Salinan Val-El.
 
 552
-00:30:57.439 --> 00:31:00.374
+00:30:57,439 --> 00:31:00,374
 Saya berbagi pikirannya
 dan kenangan, tapi ...
 
 553
-00:31:00.476 --> 00:31:02.441
+00:31:00,476 --> 00:31:02,441
 pada intinya,
 
 554
-00:31:02.543 --> 00:31:05.310
+00:31:02,543 --> 00:31:05,310
 Saya adalah program komputer.
 
 555
-00:31:05.413 --> 00:31:06.945
+00:31:05,413 --> 00:31:06,945
 Anda tahu mereka datang untuk Anda.
 
 556
-00:31:07.047 --> 00:31:09.448
+00:31:07,047 --> 00:31:09,448
 Saya menduga itu.
 
 557
-00:31:09.550 --> 00:31:12.852
+00:31:09,550 --> 00:31:12,852
 Tapi saya tahu saya punya
 tanggung jawab kepada Anda, Seg.
 
 558
-00:31:12.953 --> 00:31:15.454
+00:31:12,953 --> 00:31:15,454
 Itu sebabnya saya membuat program ini.
 
 559
-00:31:15.556 --> 00:31:17.322
+00:31:15,556 --> 00:31:17,322
 Untuk membimbing Anda.
 
 560
-00:31:17.425 --> 00:31:18.858
+00:31:17,425 --> 00:31:18,858
 Untuk mendidik Anda
 
 561
-00:31:18.959 --> 00:31:20.892
+00:31:18,959 --> 00:31:20,892
 ketika saatnya tiba.
 
 562
-00:31:20.994 --> 00:31:23.461
+00:31:20,994 --> 00:31:23,461
 Nah, ada peluang
 waktu itu telah tiba.
 
 563
-00:31:25.766 --> 00:31:27.399
+00:31:25,766 --> 00:31:27,399
 Baiklah, kalau begitu, kita sebaiknya mulai.
 
 564
-00:31:34.240 --> 00:31:36.394
+00:31:34,240 --> 00:31:36,394
 Tampaknya menyukai jam lengan itu.
 
 565
-00:31:36.448 --> 00:31:37.855
+00:31:36,448 --> 00:31:37,855
 Oh, ya, dia sangat menyukainya.
 
 566
-00:31:37.917 --> 00:31:41.211
+00:31:37,917 --> 00:31:41,211
 Ooh, ya, dia ... dia tangguh.
 
 567
-00:31:41.313 --> 00:31:43.380
+00:31:41,313 --> 00:31:43,380
 Digunakan bergulat.
 
 568
-00:31:43.482 --> 00:31:46.283
+00:31:43,482 --> 00:31:46,283
 Tapi, um, itu dia.
 
 569
-00:31:48.676 --> 00:31:49.686
+00:31:48,676 --> 00:31:49,686
 Kami baik-baik saja, ya?
 
 570
-00:31:49.785 --> 00:31:50.687
+00:31:49,785 --> 00:31:50,687
 - Mm-hmm.
 - Hebat.
 
 571
-00:31:50.790 --> 00:31:53.156
+00:31:50,790 --> 00:31:53,156
 Mm
 
 572
-00:31:53.258 --> 00:31:54.824
+00:31:53,258 --> 00:31:54,824
 - Aku ... sudah kubilang.
 - Ayo ...
 
 573
-00:31:54.926 --> 00:31:56.undefined
+00:31:54,926 --> 00:31:56.058
 Aku sudah bilang.
 
 574
-00:31:56.160 --> 00:31:57.605
+00:31:56,160 --> 00:31:57,605
 Anda mengatakan kami harus pergi ke Outlands.
 
 575
-00:31:57.629 --> 00:32:00.496
+00:31:57,629 --> 00:32:00,496
 Ini harga yang kami bayar, oke?
 
 576
-00:32:00.598 --> 00:32:02.298
+00:32:00,598 --> 00:32:02,298
 Kesepakatan bagus.
 
 577
-00:32:02.400 --> 00:32:03.400
+00:32:02,400 --> 00:32:03,400
 Ini aneh juga.
 
 578
-00:32:03.435 --> 00:32:05.100
+00:32:03,435 --> 00:32:05,100
 Itu seperti dahimu yang punya paruh.
 
 579
-00:32:05.202 --> 00:32:06.869
+00:32:05,202 --> 00:32:06,869
 Hanya...
 
 580
-00:32:10.774 --> 00:32:12.574
+00:32:10,774 --> 00:32:12,574
 Oh Oh
 
 581
-00:32:12.676 --> 00:32:15.310
+00:32:12,676 --> 00:32:15,310
 Mwa! Indah!
 
 582
-00:32:16.870 --> 00:32:18.503
+00:32:16,870 --> 00:32:18,503
 Cara ini.
 
 583
-00:32:18.941 --> 00:32:20.274
+00:32:18,941 --> 00:32:20,274
 Kami masuk.
 
 584
-00:32:22.653 --> 00:32:23.919
+00:32:22,653 --> 00:32:23,919
 Dia bahkan bukan penggemar.
 
 585
-00:32:26.490 --> 00:32:28.155
+00:32:26,490 --> 00:32:28,155
 Dan Tharb-El,
 
 586
-00:32:28.257 --> 00:32:30.223
+00:32:28,257 --> 00:32:30,223
 juga anggota Guild Sains,
 
 587
-00:32:30.326 --> 00:32:32.292
+00:32:30,326 --> 00:32:32,292
 menemukan obat untuk Kematian Hijau,
 
 588
-00:32:32.394 --> 00:32:35.930
+00:32:32,394 --> 00:32:35,930
 yang hampir menggerakkan planet kita
 menuju kepunahan.
 
 589
-00:32:36.031 --> 00:32:37.665
+00:32:36,031 --> 00:32:37,665
 Seg, itu akan memakan waktu ribuan tahun
 
 590
-00:32:37.767 --> 00:32:40.067
+00:32:37,767 --> 00:32:40,067
 bagi saya untuk detail
 pencapaian rumah kami.
 
 591
-00:32:40.169 --> 00:32:43.337
+00:32:40,169 --> 00:32:43,337
 Yang penting untuk diingat adalah
 
 592
-00:32:43.439 --> 00:32:45.346
+00:32:43,439 --> 00:32:45,346
 kebesaran mereka
 
 593
-00:32:45.409 --> 00:32:46.973
+00:32:45,409 --> 00:32:46,973
 tinggal di dalam kamu.
 
 594
-00:32:48.910 --> 00:32:50.176
+00:32:48,910 --> 00:32:50,176
 Darah House El.
 
 595
-00:32:50.278 --> 00:32:53.813
+00:32:50,278 --> 00:32:53,813
 Anda adalah pembawa obor
 untuk warisan kita sekarang.
 
 596
-00:32:53.915 --> 00:32:56.undefined
+00:32:53,915 --> 00:32:56.015
 Anda harus menjaga agar nyala itu tetap hidup,
 
 597
-00:32:56.117 --> 00:32:59.151
+00:32:56,117 --> 00:32:59,151
 menyebarkannya ke generasi berikutnya.
 
 598
-00:32:59.253 --> 00:33:00.987
+00:32:59,253 --> 00:33:00,987
 Jika kamu percaya pada dirimu sendiri,
 
 599
-00:33:01.089 --> 00:33:02.754
+00:33:01,089 --> 00:33:02,754
 seperti yang selalu saya miliki,
 
 600
-00:33:02.857 --> 00:33:04.400
+00:33:02,857 --> 00:33:04,400
 prestasi Anda
 akan berdiri berdampingan
 
 601
-00:33:04.424 --> 00:33:07.192
+00:33:04,424 --> 00:33:07,192
 semua orang yang datang sebelum kamu,
 
 602
-00:33:07.294 --> 00:33:10.261
+00:33:07,294 --> 00:33:10,261
 dan akan selamanya menginspirasi
 mereka yang mengikuti.
 
 603
-00:33:10.364 --> 00:33:13.599
+00:33:10,364 --> 00:33:13,599
 Lalu beri tahu saya tentang Jenius.
 
 604
-00:33:13.701 --> 00:33:15.767
+00:33:13,701 --> 00:33:15,767
 Bantu aku menemukan cara untuk menghentikannya.
 
 605
-00:33:15.870 --> 00:33:17.369
+00:33:15,870 --> 00:33:17,369
 Yah, tidak banyak yang bisa diceritakan.
 
 606
-00:33:17.471 --> 00:33:20.137
+00:33:17,471 --> 00:33:20,137
 Setelah Dewan bergerak untuk membungkam saya,
 
 607
-00:33:20.239 --> 00:33:22.640
+00:33:20,239 --> 00:33:22,640
 Saya melanjutkan pekerjaan saya di sini,
 
 608
-00:33:22.742 --> 00:33:26.911
+00:33:22,742 --> 00:33:26,911
 di mana saya buat
 teknologi paling luar biasa
 
 609
-00:33:27.013 --> 00:33:28.913
+00:33:27,013 --> 00:33:28,913
 yang memungkinkan saya untuk masuk
 
 610
-00:33:29.015 --> 00:33:30.748
+00:33:29,015 --> 00:33:30,748
 ranah interdimensional
 
 611
-00:33:30.850 --> 00:33:32.216
+00:33:30,850 --> 00:33:32,216
 yang berada di luar
 
 612
-00:33:32.318 --> 00:33:34.819
+00:33:32,318 --> 00:33:34,819
 kontinum ruang-waktu normal.
 
 613
-00:33:34.921 --> 00:33:37.020
+00:33:34,921 --> 00:33:37,020
 Saya menyebutnya "Zona Hantu."
 
 614
-00:33:38.790 --> 00:33:40.023
+00:33:38,790 --> 00:33:40,023
 Anda memiliki nama yang lebih baik?
 
 615
-00:33:40.125 --> 00:33:41.725
+00:33:40,125 --> 00:33:41,725
 Eh ...
 
 616
-00:33:41.827 --> 00:33:44.427
+00:33:41,827 --> 00:33:44,427
 Tidak, tidak, itu keren ...
 Itu nama yang keren. Sangat menarik.
 
 617
-00:33:44.530 --> 00:33:47.330
+00:33:44,530 --> 00:33:47,330
 Itu hanya prototipe,
 dan saya tahu itu berbahaya.
 
 618
-00:33:47.432 --> 00:33:50.099
+00:33:47,432 --> 00:33:50,099
 Saya menggunakannya untuk melakukan perjalanan di seluruh ruang,
 
 619
-00:33:50.201 --> 00:33:52.068
+00:33:50,201 --> 00:33:52,068
 di mana saya menemukan seluruh galaksi,
 
 620
-00:33:52.170 --> 00:33:54.803
+00:33:52,170 --> 00:33:54,803
 penuh dengan kehidupan cerdas,
 
 621
-00:33:54.906 --> 00:33:57.573
+00:33:54,906 --> 00:33:57,573
 semua di bawah ancaman ...
 
 622
-00:33:57.675 --> 00:33:59.341
+00:33:57,675 --> 00:33:59,341
 oleh makhluk biadab
 
 623
-00:33:59.443 --> 00:34:01.109
+00:33:59,443 --> 00:34:01,109
 bergerak tidak terkendali
 
 624
-00:34:01.211 --> 00:34:03.178
+00:34:01,211 --> 00:34:03,178
 di seluruh alam semesta,
 
 625
-00:34:03.280 --> 00:34:06.782
+00:34:03,280 --> 00:34:06,782
 melahap peradaban ini
 satu per satu.
 
 626
-00:34:06.884 --> 00:34:08.150
+00:34:06,884 --> 00:34:08,150
 Saya bergegas kembali,
 
 627
-00:34:08.252 --> 00:34:10.184
+00:34:08,252 --> 00:34:10,184
 entah bagaimana berhasil keluar dari Zona Hantu,
 
 628
-00:34:10.286 --> 00:34:12.820
+00:34:10,286 --> 00:34:12,820
 mencoba memperingatkan Dewan.
 
 629
-00:34:12.923 --> 00:34:14.321
+00:34:12,923 --> 00:34:14,321
 Kemudian...
 
 630
-00:34:14.424 --> 00:34:18.125
+00:34:14,424 --> 00:34:18,125
 Yah, kamu tahu bagaimana itu berakhir.
 
 631
-00:34:18.227 --> 00:34:20.528
+00:34:18,227 --> 00:34:20,528
 Ini belum berakhir, Kakek.
 
 632
-00:34:20.630 --> 00:34:22.864
+00:34:20,630 --> 00:34:22,864
 Kami akan menyelesaikan apa yang Anda mulai.
 
 633
-00:34:22.966 --> 00:34:24.undefined
+00:34:22,966 --> 00:34:24.098
 Saya berjanji.
 
 634
-00:34:24.200 --> 00:34:25.800
+00:34:24,200 --> 00:34:25,800
 Saya suka suara itu.
 
 635
-00:34:27.900 --> 00:34:29.099
+00:34:27,900 --> 00:34:29,099
 Tetapi Anda lebih baik melakukan sesuatu
 
 636
-00:34:29.180 --> 00:34:31.undefined
+00:34:29,180 --> 00:34:31.071
 tentang rumah ini dari situasi Vex pertama.
 
 637
-00:35:23.623 --> 00:35:25.623
+00:35:23,623 --> 00:35:25,623
 Belas kasihan!
 
 638
-00:35:37.035 --> 00:35:40.970
+00:35:37,035 --> 00:35:40,970
 Kami tidak pernah meminta belas kasihan.
 
 639
-00:36:21.630 --> 00:36:23.986
+00:36:21,630 --> 00:36:23,986
 Nah, Seg, ini sangat mengesankan.
 
 640
-00:36:24.045 --> 00:36:25.710
+00:36:24,045 --> 00:36:25,710
 Anda lebih awal.
 
 641
-00:36:25.812 --> 00:36:28.795
+00:36:25,812 --> 00:36:28,795
 Upacara Investigasi tidak
 untuk satu jam lagi.
 
 642
-00:36:32.756 --> 00:36:34.923
+00:36:32,756 --> 00:36:34,923
 Tidak akan ada upacara.
 
 643
-00:36:39.195 --> 00:36:40.294
+00:36:39,195 --> 00:36:40,294
 Maafkan saya?
 
 644
-00:36:40.396 --> 00:36:41.662
+00:36:40,396 --> 00:36:41,662
 Anda ingin saya menjadi Peringkat lagi?
 
 645
-00:36:41.764 --> 00:36:43.530
+00:36:41,764 --> 00:36:43,530
 Bergabunglah dengan Guild Sains,
 
 646
-00:36:43.632 --> 00:36:48.301
+00:36:43,632 --> 00:36:48,301
 Ikat dengan putrimu, oke?
 
 647
-00:36:48.403 --> 00:36:49.636
+00:36:48,403 --> 00:36:49,636
 Bahkan jika aku tidak pernah tahan
 
 648
-00:36:49.738 --> 00:36:51.638
+00:36:49,738 --> 00:36:51,638
 sigil rumah saya sendiri,
 
 649
-00:36:51.740 --> 00:36:54.981
+00:36:51,740 --> 00:36:54,981
 Aku tidak akan memakai milikmu.
 
 650
-00:37:04.686 --> 00:37:07.987
+00:37:04,686 --> 00:37:07,987
 Saya lebih baik mati Rankless.
 
 651
-00:37:08.089 --> 00:37:09.855
+00:37:08,089 --> 00:37:09,855
 Sekarang, dengarkan aku.
 
 652
-00:37:09.958 --> 00:37:11.690
+00:37:09,958 --> 00:37:11,690
 Dan Anda mendengarkan dengan baik, ...
 
 653
-00:37:21.453 --> 00:37:23.935
+00:37:21,453 --> 00:37:23,935
 Ini bisa diterima.
 
+654
+00:37:24.037 --> 00:37:27,789
+Anda akan memakai sigil
+dari Guild Sains.
+
 655
-00:37:28.842 --> 00:37:32.181
+00:37:28,842 --> 00:37:32,181
 - Mengapa, Yang Mulia ...
 - Tinggalkan kami sekarang, Seg.
 
 656
-00:37:32.237 --> 00:37:34.536
+00:37:32,237 --> 00:37:34,536
 Semoga cahaya Rao
 
 657
-00:37:34.639 --> 00:37:37.103
+00:37:34,639 --> 00:37:37,103
 selamanya memandu jalan Anda.
 
 658
-00:37:40.777 --> 00:37:42.176
+00:37:40,777 --> 00:37:42,176
 Kamu juga.
 
 659
-00:37:54.099 --> 00:37:55.198
+00:37:54,099 --> 00:37:55,198
 Silahkan.
 
 660
-00:37:56.713 --> 00:37:58.254
+00:37:56,713 --> 00:37:58,254
 Bantu saya mengerti.
 
 661
-00:37:58.317 --> 00:38:00.817
+00:37:58,317 --> 00:38:00,817
 Anda ingin mengendalikannya.
 
 662
-00:38:00.918 --> 00:38:02.985
+00:38:00,918 --> 00:38:02,985
 Begini caranya.
 
 663
-00:38:27.859 --> 00:38:31.693
+00:38:27,859 --> 00:38:31,693
 Kami sudah berada di sini selama berjam-jam!
 
 664
-00:38:31.765 --> 00:38:32.694
+00:38:31,765 --> 00:38:32,694
 Apa?
 
 665
-00:38:32.780 --> 00:38:35.397
+00:38:32,780 --> 00:38:35,397
 Saya minta maaf, tapi saya pikir
 kita perlu menyebutnya!
 
 666
-00:38:43.039 --> 00:38:46.374
+00:38:43,039 --> 00:38:46,374
 Anda tahu apa aturan pertama
 arkeologi adalah?
 
 667
-00:38:46.476 --> 00:38:49.443
+00:38:46,476 --> 00:38:49,443
 - Saya tidak punya ide!
 - Dan aku juga tidak.
 
 668
-00:38:49.545 --> 00:38:51.279
+00:38:49,545 --> 00:38:51,279
 Saya putus tahun pertama kuliah,
 
 669
-00:38:51.381 --> 00:38:55.616
+00:38:51,381 --> 00:38:55,616
 tapi saya pikir itu sesuatu
 seperti "tidak pernah berhenti mencari."
 
 670
-00:38:55.718 --> 00:38:57.485
+00:38:55,718 --> 00:38:57,485
 Itu cerita yang luar biasa,
 
 671
-00:38:57.587 --> 00:38:58.886
+00:38:57,587 --> 00:38:58,886
 tetapi kita harus pergi,
 
 672
-00:38:58.988 --> 00:39:01.521
+00:38:58,988 --> 00:39:01,521
 atau kita akan mati!
 
 673
-00:39:01.623 --> 00:39:02.956
+00:39:01,623 --> 00:39:02,956
 Tahan.
 
 674
-00:39:04.174 --> 00:39:06.687
+00:39:04,174 --> 00:39:06,687
 Aku menemukan sesuatu!
 
 675
-00:39:07.663 --> 00:39:10.964
+00:39:07,663 --> 00:39:10,964
 Oh, ya, kita sebut batu itu.
 
 676
-00:39:11.066 --> 00:39:12.933
+00:39:11,066 --> 00:39:12,933
 Ini bukan sembarang batu.
 
 677
-00:39:23.845 --> 00:39:26.412
+00:39:23,845 --> 00:39:26,412
 Lihat tanda-tandanya?
 
 678
-00:39:26.514 --> 00:39:27.680
+00:39:26,514 --> 00:39:27,680
 Ya.
 
 679
-00:39:27.782 --> 00:39:29.481
+00:39:27,782 --> 00:39:29,481
 Tanda hangus
 
 680
-00:39:29.583 --> 00:39:31.150
+00:39:29,583 --> 00:39:31,150
 dari sesuatu yang menabrak di sini.
 
 681
-00:39:31.252 --> 00:39:32.317
+00:39:31,252 --> 00:39:32,317
 Di sana.
 
 682
-00:39:55.174 --> 00:39:57.974
+00:39:55,174 --> 00:39:57,974
 The sigil pada guci itu sentuhan yang bagus.
 
 683
-00:40:00.913 --> 00:40:02.246
+00:40:00,913 --> 00:40:02,246
 Bukan itu yang penting.
 
 684
-00:40:06.718 --> 00:40:08.351
+00:40:06,718 --> 00:40:08,351
 Saya menyuarakan ketidaksenangan saya di sini,
 
 685
-00:40:08.453 --> 00:40:09.552
+00:40:08,453 --> 00:40:09,552
 kalau-kalau kamu tidak tahu.
 
 686
-00:40:09.654 --> 00:40:11.087
+00:40:09,654 --> 00:40:11,087
 Apa yang kamu ingin aku katakan?
 
 687
-00:40:11.189 --> 00:40:14.657
+00:40:11,189 --> 00:40:14,657
 Terbukti, dia tidak
 dapatkan penutupan yang kami harapkan.
 
 688
-00:40:14.759 --> 00:40:16.893
+00:40:14,759 --> 00:40:16,893
 Anda harapkan.
 
 689
-00:40:16.995 --> 00:40:19.462
+00:40:16,995 --> 00:40:19,462
 Itu usulmu.
 
 690
-00:40:21.666 --> 00:40:23.698
+00:40:21,666 --> 00:40:23,698
 Dan sekarang saya punya satu lagi.
 
 691
-00:40:23.800 --> 00:40:26.534
+00:40:23,800 --> 00:40:26,534
 Sabar.
 
 692
-00:40:26.636 --> 00:40:28.237
+00:40:26,636 --> 00:40:28,237
 Dia mempercayaiku sekarang.
 
 693
-00:40:28.339 --> 00:40:29.938
+00:40:28,339 --> 00:40:29,938
 Itu saja yang membuat ini berharga.
 
 694
-00:40:45.788 --> 00:40:48.189
+00:40:45,788 --> 00:40:48,189
 Kuharap itu sepadan.
 
 695
-00:40:48.291 --> 00:40:49.924
+00:40:48,291 --> 00:40:49,924
 Saya mencoba berbicara dengan Anda.
 
 696
-00:40:50.026 --> 00:40:51.926
+00:40:50,026 --> 00:40:51,926
 Saya tidak tahu mengapa Anda melindungi Seg,
 
 697
-00:40:52.028 --> 00:40:55.662
+00:40:52,028 --> 00:40:55,662
 tetapi jika Anda ingin mengambil risiko
 hidupmu untuk dia, biarlah.
 
 698
-00:40:55.765 --> 00:40:57.163
+00:40:55,765 --> 00:40:57,163
 Tapi bahkan Rao tidak akan membantumu
 
 699
-00:40:57.266 --> 00:40:58.994
+00:40:57,266 --> 00:40:58,994
 jika Anda mempertaruhkan orang-orang dari regu Anda.
 
 700
-00:41:04.706 --> 00:41:07.274
+00:41:04,706 --> 00:41:07,274
 Lyta-Zod,
 
 701
-00:41:07.376 --> 00:41:08.841
+00:41:07,376 --> 00:41:08,841
 Saya dengan ini menunjuk Anda
 
 702
-00:41:08.944 --> 00:41:11.511
+00:41:08,944 --> 00:41:11,511
 Komandan Skuad Keempat, Sagitari.
 
 703
-00:41:11.613 --> 00:41:15.114
+00:41:11,613 --> 00:41:15,114
 Anda wajib menanggungnya
 kesetiaan sejati dan iman
 
 704
-00:41:15.216 --> 00:41:16.882
+00:41:15,216 --> 00:41:16,882
 ke Persekutuan Militer Kota Kandor
 
 705
-00:41:16.984 --> 00:41:18.817
+00:41:16,984 --> 00:41:18,817
 melawan semua musuh
 
 706
-00:41:18.920 --> 00:41:22.388
+00:41:18,920 --> 00:41:22,388
 dan untuk mempertahankan dan mendukung
 Dewan Tertinggi,
 
 707
-00:41:22.489 --> 00:41:25.291
+00:41:22,489 --> 00:41:25,291
 dalam pelayanan setia dari His Reverence,
 
 708
-00:41:25.393 --> 00:41:27.626
+00:41:25,393 --> 00:41:27,626
 Suara Rao.
 
 709
-00:41:27.728 --> 00:41:29.694
+00:41:27,728 --> 00:41:29,694
 Semoga berkah dari Rao
 
+710
+00:41:29.797 --> 00:41:31,462
+menjadi tamengmu.
+
 711
-00:41:37.337 --> 00:41:40.334
+00:41:37,337 --> 00:41:40,334
 Hanya semakin sulit dari sini.
 
 712
-00:41:41.908 --> 00:41:44.775
+00:41:41,908 --> 00:41:44,775
 Diberhentikan, Komandan.
 
 713
-00:41:52.418 --> 00:41:53.861
+00:41:52,418 --> 00:41:53,861
 Ini lebih baik
 sesuatu yang nyata, manusia Bumi.
 
 714
-00:41:53.885 --> 00:41:55.085
+00:41:53,885 --> 00:41:55,085
 Aku mulai lelah ...
 
 715
-00:41:58.023 --> 00:41:59.023
+00:41:58,023 --> 00:41:59,023
 Apa itu?
 
 716
-00:42:01.209 --> 00:42:03.425
+00:42:01,209 --> 00:42:03,425
 Tidak yakin apa yang Anda sebut itu.
 
 717
-00:42:04.430 --> 00:42:06.162
+00:42:04,430 --> 00:42:06,162
 Jenius mengirim mereka ke planet mana pun
 
 718
-00:42:06.264 --> 00:42:08.464
+00:42:06,264 --> 00:42:08,464
 yang dianggapnya pantas ditaklukkan
 
 719
-00:42:08.566 --> 00:42:09.798
+00:42:08,566 --> 00:42:09,798
 sebagai pramuka maju.
 
 720
-00:42:12.003 --> 00:42:14.870
+00:42:12,003 --> 00:42:14,870
 Jenius tidak sedang dalam perjalanan.
 
 721
-00:42:14.973 --> 00:42:16.805
+00:42:14,973 --> 00:42:16,805
 Dia sudah ada di sini.
 
 722
-00:42:27.172 --> 00:42:32.172
+00:42:27,172 --> 00:42:32,172
 <font color = "# 0080ff"> Disinkronkan & dikoreksi oleh </ font> kinglouisxx
 <font color = "# 0080ff"> www. </ font> addic7ed <font color = "# 0080ff">. com </ font>
 
