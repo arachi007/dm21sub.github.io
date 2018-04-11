@@ -1,0 +1,5628 @@
+1
+00:00:00,000 --> 00:00:00,000
+Edited at https://subtitletools.com
+
+2
+00:00:37,390 --> 00:00:40,690
+Pasukan pengejar, laporkan posisi kedua unit saat ini.
+
+3
+00:00:40,690 --> 00:00:43,580
+Pod 02-Dash telah mencapai ketinggian operasi.
+
+4
+00:00:43,580 --> 00:00:45,290
+Sekarang di orbit yang ditargetkan.
+
+5
+00:00:45,290 --> 00:00:49,340
+Pod 08 mengalami masalah masuk ke orbit karena kurangnya ketinggian.
+
+6
+00:00:49,340 --> 00:00:50,420
+Baiklah.
+
+7
+00:00:50,420 --> 00:00:53,520
+Kita akan mangandalkan 02-Dash saja pada operasi ini.
+
+8
+00:00:53,520 --> 00:00:54,580
+Dipahami.
+
+9
+00:00:54,580 --> 00:00:56,200
+Pod 08 akan memberi dukungan.
+
+10
+00:00:56,200 --> 00:00:57,930
+Transisi bergeser ke tujuh.
+
+11
+00:00:57,930 --> 00:01:00,690
+Pod 02-Dash telah melewati poin tanpa kembali.
+
+12
+00:01:00,690 --> 00:01:02,660
+Memasuki Area 88.
+
+13
+00:01:02,660 --> 00:01:03,410
+Dipahami.
+
+14
+00:01:03,410 --> 00:01:05,740
+Mulai Operasi US.
+
+15
+00:01:05,740 --> 00:01:06,690
+Dipahami.
+
+16
+00:01:06,690 --> 00:01:10,170
+Pod 02-Dash memasuki orbit operasi terakhir.
+
+17
+00:01:10,170 --> 00:01:12,790
+Penyetelan RCS, aktivasi dikonfirmasi.
+
+18
+00:01:10,170 --> 00:01:11,820
+Beralih ke deselerasi.
+
+19
+00:01:11,820 --> 00:01:14,130
+Menyalakan semua mesin, tahap satu.
+
+20
+00:01:12,790 --> 00:01:15,240
+Tidak ada masalah dengan postur sistem kontrol.
+
+21
+00:01:14,130 --> 00:01:15,240
+Mulai pembakaran.
+
+22
+00:01:19,250 --> 00:01:21,580
+S1C pembakaran selesai.
+
+23
+00:01:19,250 --> 00:01:21,560
+Kontak cincin siap untuk pemisahan.
+
+24
+00:01:21,560 --> 00:01:23,530
+Mengkonfirmasi ulang penyetelan RCS.
+
+25
+00:01:21,580 --> 00:01:22,970
+Deselerasi dikonfirmasi.
+
+26
+00:01:22,970 --> 00:01:25,450
+Jettisoning unit pendorong, tahap satu.
+
+27
+00:01:23,530 --> 00:01:25,450
+Memasukkan variabel perubahan massa.
+
+28
+00:01:26,990 --> 00:01:28,290
+Pemisahan dikonfirmasi.
+
+29
+00:01:28,290 --> 00:01:29,630
+Memeriksa peralatan listrik.
+
+30
+00:01:29,630 --> 00:01:30,610
+Tidak ada masalah.
+
+31
+00:01:30,610 --> 00:01:31,710
+Dipahami.
+
+32
+00:01:31,710 --> 00:01:33,360
+Mengotomatisasikan waktu pembakaran.
+
+33
+00:01:33,360 --> 00:01:35,240
+Menyalakan semua mesin tahap dua.
+
+34
+00:01:39,150 --> 00:01:42,120
+Kontak cincin kedua siap untuk pemisahan.
+
+35
+00:01:39,160 --> 00:01:41,130
+S1C pembakaran selesai.
+
+36
+00:01:41,130 --> 00:01:42,640
+Menutup katup tekanan.
+
+37
+00:01:42,120 --> 00:01:44,840
+Penyetelan RCS dikonfirmasikan.
+
+38
+00:01:42,640 --> 00:01:44,840
+Jettisoning unit pendorong, tahap kedua.
+
+39
+00:01:45,550 --> 00:01:47,390
+Deselerasi dikonfirmasi.
+
+40
+00:01:47,390 --> 00:01:49,850
+Bersiap untuk memasuki orbit operasi terakhir.
+
+41
+00:01:49,850 --> 00:01:52,570
+Membalikan kepala unit. Dimulai rotasi.
+
+42
+00:01:52,570 --> 00:01:55,370
+Sudut penurunan dikonfirmasi berada dalam rentang kesalahan.
+
+43
+00:01:54,730 --> 00:01:56,470
+Tidak ada masalah dengan koreksi orbit.
+
+44
+00:01:55,370 --> 00:01:56,470
+Menghitung ulang kecepatan relatif.
+
+45
+00:01:56,470 --> 00:01:59,640
+Mengkonfirmasi ulang koordinat ketinggian.
+
+46
+00:01:56,470 --> 00:01:58,570
+Penurunan momentum dikonfirmasi.
+
+47
+00:01:59,640 --> 00:02:01,300
+Tidak ada masalah.
+
+48
+00:02:01,300 --> 00:02:03,320
+Koreksi orbit terakhir selesai.
+
+49
+00:02:03,320 --> 00:02:05,470
+Rotasi 180 derajat selesai.
+
+50
+00:02:05,470 --> 00:02:06,170
+Dipahami.
+
+51
+00:02:06,170 --> 00:02:09,260
+Pod 02-Dash akan mulai transisi ke arah memotong.
+
+52
+00:02:09,260 --> 00:02:11,440
+Sekarang memulai operasi.
+
+53
+00:02:11,440 --> 00:02:13,660
+Semua pemandu jarak jauh sekarang akan dipotong.
+
+54
+00:02:13,660 --> 00:02:15,260
+Unit akan dikontrol secara lokal.
+
+55
+00:02:15,260 --> 00:02:16,020
+Good luck.
+
+56
+00:02:17,720 --> 00:02:19,870
+Unit pada arah memotong dengan target.
+
+57
+00:02:19,870 --> 00:02:21,770
+80 langkah sampai kontak.
+
+58
+00:02:22,460 --> 00:02:24,000
+Mengkonfirmasi sasaran.
+
+59
+00:02:24,000 --> 00:02:25,570
+Titik kontak tidak berubah.
+
+60
+00:02:25,570 --> 00:02:27,770
+Mempertahankan Shift-M. Tidak ada masalah.
+
+61
+00:02:27,770 --> 00:02:29,930
+02-Dash, bersiap untuk pertemuan.
+
+62
+00:02:29,930 --> 00:02:35,310
+08 kurang ketinggian, jadi hanya dapat membantumu dalam 96 detik sampai masuk kembali.
+
+63
+00:02:35,310 --> 00:02:37,310
+Selesaikan ini sebelum itu.
+
+64
+00:02:38,050 --> 00:02:40,100
+Gelombang reflektif terdeteksi di wilayah sasaran.
+
+65
+00:02:40,100 --> 00:02:41,270
+Itu memacetkan kita!
+
+66
+00:02:41,270 --> 00:02:43,620
+Itu hanya senjata massal sistem pertahanan otomatis.
+
+67
+00:02:43,620 --> 00:02:44,520
+Tidak perlu khawatir.
+
+68
+00:02:45,620 --> 00:02:49,290
+Aku tidak sendirian, meong meong ~
+
+69
+00:02:46,650 --> 00:02:48,250
+Gelombang ledakan terdeteksi!
+
+70
+00:02:48,250 --> 00:02:51,490
+Masuk dalam tiga... dua... satu...
+
+71
+00:02:49,290 --> 00:02:52,750
+Itu sangat indah, meong meong ~
+
+72
+00:02:55,650 --> 00:02:57,720
+Gelombang kedua masuk, tipe darah biru.
+
+73
+00:02:57,730 --> 00:02:58,780
+Kelompok yang merepotkan.
+
+74
+00:02:58,780 --> 00:03:00,610
+Mengidentifikasi tubuh yang mendekat.
+
+75
+00:03:00,610 --> 00:03:01,770
+Dipastikan Mk. 04A.
+
+76
+00:03:10,870 --> 00:03:12,210
+Bidang Anti-A.T.!
+
+77
+00:03:16,970 --> 00:03:18,470
+Benda ini tidak berguna!
+
+78
+00:03:19,840 --> 00:03:22,010
+Dan ini hanya menganggu saja!
+
+79
+00:03:22,800 --> 00:03:25,700
+Jaringan Empat-mata, berhenti bernyanyi!
+
+80
+00:03:25,700 --> 00:03:26,730
+Itu menyebalkan sekali!
+
+81
+00:03:28,850 --> 00:03:31,680
+Tembakan dukungan terlambat dua detik!
+
+82
+00:03:34,650 --> 00:03:37,350
+Dan kau tiga detik di depan posisi.
+
+83
+00:03:37,350 --> 00:03:40,120
+Ini disebut beradaptasi dengan situasi. Tetap bersamaku!
+
+84
+00:03:40,120 --> 00:03:42,020
+Seperti yang anda inginkan,
+
+85
+00:03:42,020 --> 00:03:44,140
+Putri!
+
+86
+00:03:50,870 --> 00:03:52,490
+Melewati Fullerene Shift.
+
+87
+00:03:52,490 --> 00:03:54,940
+Menghancurkan pertahanan terakhir di Area 89.
+
+88
+00:03:56,010 --> 00:03:57,860
+Target bergerak!
+
+89
+00:04:01,250 --> 00:04:02,700
+Tidak ada waktu untuk memperbaiki orbitku!
+
+90
+00:04:02,700 --> 00:04:03,930
+Aku hanya akan memaksa ini!
+
+91
+00:04:25,320 --> 00:04:26,390
+Mengurangi kecepatan!
+
+92
+00:04:31,790 --> 00:04:32,780
+8!
+
+93
+00:04:32,780 --> 00:04:33,390
+7!
+
+94
+00:04:33,830 --> 00:04:34,720
+6!
+
+95
+00:04:34,720 --> 00:04:35,390
+5!
+
+96
+00:04:35,870 --> 00:04:36,880
+4!
+
+97
+00:04:36,880 --> 00:04:37,880
+3!
+
+98
+00:04:37,880 --> 00:04:38,910
+2!
+
+99
+00:04:38,910 --> 00:04:39,600
+1!
+
+100
+00:04:40,100 --> 00:04:41,650
+Mengakhiri pembakaran!
+
+101
+00:04:49,090 --> 00:04:51,470
+02-Dash telah membuang pendorong terakhir.
+
+102
+00:04:51,470 --> 00:04:53,690
+Memastikan jarak aman untuk masuk kembali.
+
+103
+00:04:53,690 --> 00:04:57,230
+Kesalahan Peluncuran berada dalam rentang dapat diperbaiki.
+
+104
+00:04:55,000 --> 00:04:58,300
+Berhasil merebut target. Kembali.
+
+105
+00:04:58,300 --> 00:04:59,060
+Dipahami.
+
+106
+00:04:59,060 --> 00:05:00,800
+Kita akan menunggu di titik pengambilan.
+
+107
+00:05:00,800 --> 00:05:02,650
+Kode bergabung adalah Saturnus V.
+
+108
+00:05:02,650 --> 00:05:03,430
+Dipahami.
+
+109
+00:05:04,340 --> 00:05:07,130
+Tipe Darah biru? Dimana?!
+
+110
+00:05:10,350 --> 00:05:11,850
+Obyek penghambat adalah Mk. 04B.
+
+111
+00:05:11,850 --> 00:05:13,890
+Itu menyebarkan lapisan bidang reflektif!
+
+112
+00:05:13,890 --> 00:05:15,490
+Berani sekali!
+
+113
+00:05:15,490 --> 00:05:18,250
+Tepat sebelum masuk kembali, juga.
+
+114
+00:05:18,250 --> 00:05:19,970
+Jaringan Empat-mata! Bantu aku!
+
+115
+00:05:20,930 --> 00:05:21,970
+Soz!
+
+116
+00:05:21,970 --> 00:05:26,010
+Aku tidak memiliki cukup ketinggian, jadi sampai jumpa!
+
+117
+00:05:26,010 --> 00:05:27,890
+Selamat bersenang-senang!
+
+118
+00:05:27,890 --> 00:05:29,390
+Ugh, dia tidak berguna!
+
+119
+00:05:29,750 --> 00:05:31,520
+Sialan, benda ini keras kepala!
+
+120
+00:05:31,520 --> 00:05:33,260
+Tidak ada yang memberitahuku tentang ini!
+
+121
+00:05:44,720 --> 00:05:46,260
+Kenapa dengan cahaya ini?!
+
+122
+00:05:46,260 --> 00:05:48,850
+Bidang A.T. bukan menetralkan itu!
+
+123
+00:05:48,850 --> 00:05:50,760
+Harus menghancurkan penghalang inti!
+
+124
+00:05:51,240 --> 00:05:52,550
+Kau tidak akan bisa lari!
+
+125
+00:05:54,700 --> 00:05:57,650
+Gawat! Aku tidak dapat mempertahankan sudut keturunanku!
+
+126
+00:05:57,650 --> 00:05:59,800
+Unitku akan hancur berantakan!
+
+127
+00:05:59,800 --> 00:06:02,730
+02-Dash, menyelesaikan misi adalah prioritas utama!
+
+128
+00:06:02,730 --> 00:06:05,690
+Jangan biarkan objek target pergi,
+bahkan jika itu berarti kehilangan unit.
+
+129
+00:06:05,690 --> 00:06:08,050
+Aku sudah tahu itu!
+
+130
+00:06:26,440 --> 00:06:29,510
+Lakukan sesuatu, Shinji Bodoh!
+
+131
+00:07:07,870 --> 00:07:10,270
+Selamat datang kembali, Ikari Shinji-kun.
+
+132
+00:07:11,240 --> 00:07:12,130
+Aku sudah menunggumu.
+
+133
+00:07:26,970 --> 00:07:28,810
+Fungsi Cardiopulmonary normal.
+
+134
+00:07:28,810 --> 00:07:31,430
+Tidak ada kelumpuhan pada ekstremitas yang jelas.
+
+135
+00:07:31,430 --> 00:07:33,490
+Ya, dia telah membuka matanya.
+
+136
+00:07:35,180 --> 00:07:37,390
+Apa kau mengerti apa yang aku katakan?
+
+137
+00:07:40,490 --> 00:07:42,880
+Aku... dimana?
+
+138
+00:07:42,880 --> 00:07:44,650
+Dia mampu berbicara.
+
+139
+00:07:44,650 --> 00:07:46,330
+Kesadarannya telah kembali.
+
+140
+00:07:47,810 --> 00:07:51,140
+Bukankah aku... menyelamatkan Ayanami...
+
+141
+00:07:51,140 --> 00:07:55,200
+Ya, tampaknya ingatannya menjadi utuh.
+
+142
+00:07:55,960 --> 00:07:58,050
+Um... dimana Ayanami?
+
+143
+00:07:58,050 --> 00:08:00,260
+Apa kau tahu siapa orang ini?
+
+144
+00:08:03,300 --> 00:08:05,330
+Aku.
+
+145
+00:08:06,060 --> 00:08:07,640
+Dia bisa mengenali dirinya sendiri.
+
+146
+00:08:07,640 --> 00:08:08,510
+Tidak ada masalah jelas.
+
+147
+00:08:08,510 --> 00:08:10,520
+Apa ini?
+
+148
+00:08:09,570 --> 00:08:11,340
+Apa kau memiliki keinginan untuk buang air kecil? Apa kau lapar?
+
+149
+00:08:13,650 --> 00:08:16,400
+Pengiriman daftar izin sampai 86%.
+
+150
+00:08:15,640 --> 00:08:19,240
+Jaga pembangkit listrik dari reaktor N2 pada 90%.
+
+151
+00:08:19,240 --> 00:08:21,490
+Tidak ada kapal yang terlihat dalam radius seribu dua ratus.
+
+152
+00:08:19,770 --> 00:08:22,220
+Buka katup tekanan dengan manual.
+
+153
+00:08:21,490 --> 00:08:23,690
+Tidak ada benda terbang tak dikenal terlihat.
+
+154
+00:08:22,220 --> 00:08:23,690
+Jangan khawatir tentang kondensor.
+
+155
+00:08:23,690 --> 00:08:26,870
+Prioritaskan kapal Blok D dalam mentransfer personil.
+
+156
+00:08:25,460 --> 00:08:28,320
+Kita perlu lebih banyak orang untuk membawa jatah!
+
+157
+00:08:27,490 --> 00:08:30,180
+Memeriksa gyrocompasses kapal tiga dan lima.
+
+158
+00:08:28,320 --> 00:08:29,420
+Cepat!
+
+159
+00:08:30,180 --> 00:08:32,750
+Alat ukur tidak akurat. Meminta kalibrasi ulang.
+
+160
+00:08:31,590 --> 00:08:34,050
+Memperlengkapi kapal. Memeriksa peta jalan.
+
+161
+00:08:34,050 --> 00:08:36,520
+Persenjataan kerja adalah 3% di belakang jadwal.
+
+162
+00:08:38,340 --> 00:08:41,320
+Kita telah membawa Spesimen BM03!
+
+163
+00:08:41,320 --> 00:08:42,500
+Bagus.
+
+164
+00:08:42,500 --> 00:08:43,680
+Lepaskan dia.
+
+165
+00:08:45,520 --> 00:08:46,670
+Kau boleh pergi.
+
+166
+00:08:57,050 --> 00:08:59,850
+Mengecek kembali peralatan kemudi kapal. Tidak ada masalah.
+
+167
+00:09:10,480 --> 00:09:12,330
+Misato-san...
+
+168
+00:09:13,260 --> 00:09:14,890
+Ikari Shinji-kun.
+
+169
+00:09:14,890 --> 00:09:15,890
+Bisakah aku memanggilnya begitu?
+
+170
+00:09:15,890 --> 00:09:17,560
+Kurasa.
+
+171
+00:09:17,560 --> 00:09:21,720
+Data fisiologis dengan sempurna cocok dengan Bocah Kode Nomor 3.
+
+172
+00:09:21,720 --> 00:09:27,650
+Profil gigi dan komposisi tubuh 100% identik dengan pada saat menjelang Third Impact.
+
+173
+00:09:28,110 --> 00:09:31,750
+Hasil uji tingkat sinkronisasi yang mendalam saat ini sedang dianalisis.
+
+174
+00:09:31,750 --> 00:09:33,970
+Bagaimana dengan DSS Choker dilehernya?
+
+175
+00:09:31,750 --> 00:09:33,970
+DSS Choker (Deification Shutdown System Choker) adalah kerah dikembangkan oleh WILLE
+
+176
+00:09:33,970 --> 00:09:35,350
+Itu telah terinstal pada dirinya,
+
+177
+00:09:35,790 --> 00:09:36,730
+Kapten Katsuragi.
+
+178
+00:09:37,260 --> 00:09:39,100
+Kapten Katsuragi?
+
+179
+00:09:39,850 --> 00:09:41,570
+Kau benar-benar Misato-san.
+
+180
+00:09:43,450 --> 00:09:44,450
+Huh?
+
+181
+00:09:48,430 --> 00:09:49,990
+Ini berfungsi.
+
+182
+00:09:49,990 --> 00:09:52,190
+Aku sudah mengatur ke kode sandi pribadimu, Kapten.
+
+183
+00:09:52,190 --> 00:09:52,840
+Baiklah.
+
+184
+00:09:55,970 --> 00:09:58,210
+Benda apa ini?
+
+185
+00:09:58,850 --> 00:10:01,470
+Bantu aku melepasnya!
+
+186
+00:10:03,680 --> 00:10:06,630
+Tidak mungkin kita akan melepasnya.
+
+187
+00:10:07,250 --> 00:10:08,970
+Kita sudah selesai dengan dia.
+
+188
+00:10:08,970 --> 00:10:10,270
+Bawa dia ke karantina.
+
+189
+00:10:12,890 --> 00:10:15,360
+Umpan 01 dan 05 hancur.
+
+190
+00:10:15,360 --> 00:10:16,770
+Gelombang diidentifikasi.
+
+191
+00:10:16,770 --> 00:10:18,490
+Apa ini?
+
+192
+00:10:18,490 --> 00:10:19,740
+Ini tipe darah biru!
+
+193
+00:10:19,740 --> 00:10:21,250
+Sasaran diidentifikasi.
+
+194
+00:10:21,250 --> 00:10:22,440
+Ini Mk. 04C.
+
+195
+00:10:22,440 --> 00:10:23,640
+Seri Nemesis!
+
+196
+00:10:24,250 --> 00:10:25,560
+Mereka kembali.
+
+197
+00:10:25,560 --> 00:10:27,600
+Serangan mereka adalah tiga-dimensi.
+
+198
+00:10:25,560 --> 00:10:28,230
+Sasaran diidentifikasi. Ini Mk. 04C.
+
+199
+00:10:27,600 --> 00:10:30,280
+Mereka ingin memulai dengan mengunci kita disini.
+
+200
+00:10:30,280 --> 00:10:33,060
+Kita tidak bisa meninggalkan tempat ini.
+
+201
+00:10:33,060 --> 00:10:34,760
+Berhenti mengandalkan pada segalanya kecuali mesin utama.
+
+202
+00:10:35,610 --> 00:10:37,930
+Semua kapal, Stasiun Pertempuran Dua.
+
+203
+00:10:37,930 --> 00:10:40,650
+Targetkan ke seluruh Seri Nemesis!
+
+204
+00:10:40,650 --> 00:10:41,590
+Dipahami.
+
+205
+00:10:41,590 --> 00:10:43,430
+Semua kapal, Stasiun Pertempuran Dua.
+
+206
+00:10:43,430 --> 00:10:46,680
+Siapkan untuk udara, laut, atau konfrontasi bawah air!
+
+207
+00:10:46,680 --> 00:10:48,480
+Abaikan transfer persediaan.
+
+208
+00:10:48,480 --> 00:10:49,960
+Prioritaskan transfer personil!
+
+209
+00:10:49,960 --> 00:10:53,380
+Semua kapal, tinggalkan transfer persediaan dan prioritaskan transfer personil.
+
+210
+00:10:52,060 --> 00:10:55,020
+Siapkan untuk udara, laut, atau konfrontasi bawah air.
+
+211
+00:10:53,380 --> 00:10:55,550
+Lanjutkan bekerja pada mesin utama.
+
+212
+00:10:55,020 --> 00:10:57,270
+Bersiap untuk pertempuran sinar meriam jarak jauh.
+
+213
+00:10:55,550 --> 00:10:57,960
+Konfirmasi kondisi pembuka dari setiap jalur suplai listrik.
+
+214
+00:10:59,170 --> 00:11:02,430
+Semua pesawat, tinggalkan ruang udara saat ini segera.
+
+215
+00:11:02,430 --> 00:11:05,450
+Pergi ke 2 Titik Bertemu dengan cepat.
+
+216
+00:11:04,120 --> 00:11:05,450
+Tinggalkan semua kargo yang tersisa.
+
+217
+00:11:05,450 --> 00:11:07,310
+Memindahkan personil adalah prioritas utama.
+
+218
+00:11:07,310 --> 00:11:08,700
+Lanjutkan memperlengkapi kapal.
+
+219
+00:11:08,700 --> 00:11:10,680
+Lanjutkan pekerjaan sampai menit terakhir!
+
+220
+00:11:10,680 --> 00:11:13,330
+Siapa saja yang dapat membantu dengan saluran listrik, berkumpul di perahu utilitas.
+
+221
+00:11:13,330 --> 00:11:15,490
+Semua menara meriam, bersiap untuk menembak.
+
+222
+00:11:15,490 --> 00:11:18,250
+Aktifkan semua kendali jarak jauh dan sistem keterkaitan.
+
+223
+00:11:18,250 --> 00:11:19,770
+Bersiaplah untuk setiap serangan kejutan.
+
+224
+00:11:19,770 --> 00:11:22,930
+Tetap bekerja pada injeksi dari sistem transmisi mesin utama.
+
+225
+00:11:22,930 --> 00:11:24,270
+Cepat!
+
+226
+00:11:24,270 --> 00:11:27,920
+N2 Reaktor beroperasi pada keluaran 99%.
+
+227
+00:11:27,920 --> 00:11:29,660
+Bekerja pada injeksi.
+
+228
+00:11:29,660 --> 00:11:31,610
+Membuka 90 katup.
+
+229
+00:11:31,610 --> 00:11:33,450
+Pipa-pipa listrik telah tersambung.
+
+230
+00:11:33,450 --> 00:11:36,480
+Tidak ada penyimpangan dengan stasiun hub 3 dan 4 ke port.
+
+231
+00:11:36,480 --> 00:11:37,350
+Baiklah.
+
+232
+00:11:37,350 --> 00:11:39,450
+Membuka 90 katup pertama.
+
+233
+00:11:39,450 --> 00:11:40,520
+Memulai pasokan energi.
+
+234
+00:11:40,520 --> 00:11:43,850
+Power supply ke Reaktor N2 berjalan lancar.
+
+235
+00:11:43,850 --> 00:11:46,410
+Memeriksa pompa sirkulasi LCL.
+
+236
+00:11:46,410 --> 00:11:47,860
+Memeriksa sistem penyaringan.
+
+237
+00:11:47,860 --> 00:11:49,350
+Stasiun Pertempuran, semuanya.
+
+238
+00:11:49,350 --> 00:11:51,450
+Ambil posisi kalian segera.
+
+239
+00:11:51,450 --> 00:11:53,420
+Kau di sana! Cepat bergerak!
+
+240
+00:11:53,420 --> 00:11:55,350
+Ini tidak berguna, Ketua.
+
+241
+00:11:55,350 --> 00:11:58,660
+Kita adalah awak beraneka ragam dengan warga sipil di antara kita.
+
+242
+00:11:58,660 --> 00:12:00,100
+Tidak ada alasan!
+
+243
+00:12:00,100 --> 00:12:01,640
+Kembali bekerja!
+
+244
+00:12:03,730 --> 00:12:05,770
+Itu sebabnya aku tidak tahan dengan pria muda.
+
+245
+00:12:05,770 --> 00:12:06,970
+Kita lihat...
+
+246
+00:12:06,970 --> 00:12:09,330
+Berhenti memperlengkapi di sini...
+
+247
+00:12:09,330 --> 00:12:11,290
+Mulai penutupan dinding penghalang...
+
+248
+00:12:11,290 --> 00:12:12,220
+Apakah ini?
+
+249
+00:12:12,220 --> 00:12:14,850
+Perhatikan langit dengan hati-hati...
+
+250
+00:12:14,850 --> 00:12:16,710
+Dan ini adalah arah sonar.
+
+251
+00:12:16,710 --> 00:12:17,800
+Kitakami!
+
+252
+00:12:17,800 --> 00:12:19,180
+Status pada pekerjaan dek?
+
+253
+00:12:19,180 --> 00:12:21,640
+Aku bertanggung jawab pada itu?
+
+254
+00:12:21,640 --> 00:12:23,410
+Tentu saja! pekerjaan ganda!
+
+255
+00:12:23,410 --> 00:12:26,180
+Hah? Serius?
+
+256
+00:12:28,530 --> 00:12:30,260
+Ini berbahaya untuk bergerak.
+
+257
+00:12:30,260 --> 00:12:31,500
+Kau harus tetap di sini.
+
+258
+00:12:32,100 --> 00:12:36,890
+Meriam anti-udara dan rudal siap pada semua kapal.
+
+259
+00:12:34,020 --> 00:12:39,020
+Aku harus mengatakannya, meskipun, ada begitu banyak ketegangan di sekitar jembatan selama stasiun pertempuran!
+
+260
+00:12:36,890 --> 00:12:38,180
+Bagus.
+
+261
+00:12:38,180 --> 00:12:39,890
+Hubungkan sistem anti-udara bersama-sama.
+
+262
+00:12:39,890 --> 00:12:41,720
+Melindungi Unit 01 adalah prioritas utama kita.
+
+263
+00:12:41,720 --> 00:12:43,440
+Unit 01?
+
+264
+00:12:52,060 --> 00:12:52,900
+Sudah datang!
+
+265
+00:12:52,900 --> 00:12:54,810
+Pilar cahaya dari target dikonfirmasi!
+
+266
+00:12:55,240 --> 00:12:56,610
+Um...
+
+267
+00:12:56,610 --> 00:12:58,230
+Jumlahnya entah bagaimana meningkat!
+
+268
+00:12:58,230 --> 00:13:00,690
+Mengidentifikasi penghalang inti target tidak mungkin.
+
+269
+00:13:00,690 --> 00:13:03,710
+Mungkin bersembunyi di dalam kepompong penyelubungan.
+
+270
+00:13:03,710 --> 00:13:04,810
+Itu gawat.
+
+271
+00:13:05,530 --> 00:13:07,610
+Kalau terus seperti ini, kita akan duduk membungkuk untuk serangan saturasi.
+
+272
+00:13:07,610 --> 00:13:09,370
+600 detik sampai kontak!
+
+273
+00:13:09,370 --> 00:13:10,340
+Kapten Katsuragi.
+
+274
+00:13:10,770 --> 00:13:12,930
+Saya mengusulkan penyebaran armada segera.
+
+275
+00:13:14,430 --> 00:13:16,830
+Kita memiliki personil yang kurang terampil.
+
+276
+00:13:16,830 --> 00:13:19,800
+Kapal kita juga dalam proses untuk dilengkapi.
+
+277
+00:13:19,800 --> 00:13:23,340
+Dan terburuk dari semua, kita tidak dapat mengidentifikasi sasaran penghalang inti kita.
+
+278
+00:13:23,340 --> 00:13:26,770
+Dengan kata lain, peluang kita untuk meraih kemenangan adalah nol.
+
+279
+00:13:26,770 --> 00:13:31,410
+Kita tidak punya pilihan selain untuk mundur seperti biasa yang kita lakukan, Kapten Katsuragi!
+
+280
+00:13:32,410 --> 00:13:36,930
+Semua alasan untuk mengubah situasi dan membatalkan semua kecemasan untuk masa depan.
+
+281
+00:13:36,930 --> 00:13:39,610
+Kita terbang, Wakil Kapten.
+
+282
+00:13:39,610 --> 00:13:40,620
+Terbang?
+
+283
+00:13:40,620 --> 00:13:42,310
+Jangan katakan anda berniat untuk menggunakan mesin utama!
+
+284
+00:13:42,850 --> 00:13:44,680
+Semua kapal, bersiap untuk peluncuran!
+
+285
+00:13:44,680 --> 00:13:46,620
+Bersiap untuk menyalakan mesin utama!
+
+286
+00:13:46,620 --> 00:13:48,350
+Apa?!
+
+287
+00:13:48,350 --> 00:13:51,020
+Ini gila untuk menggunakan kapal ini dalam pertempuran sekarang, Kapten Katsuragi.
+
+288
+00:13:51,020 --> 00:13:52,340
+Saya setuju!
+
+289
+00:13:52,340 --> 00:13:54,470
+Kita tidak pernah melakukan uji terbang tunggal!
+Ini terlalu berbahaya!
+
+290
+00:13:54,470 --> 00:13:57,000
+Aku tidak punya pengalaman dalam mengendalikan gravitasi.
+
+291
+00:13:57,000 --> 00:13:58,020
+Saya ragu bisa melakukannya.
+
+292
+00:13:58,020 --> 00:14:00,610
+Aku lebih suka tidak melawan pertempuran yang tidak bisa kita menangkan.
+
+293
+00:14:00,610 --> 00:14:02,180
+Aku tidak ingin mati dulu.
+
+294
+00:14:02,180 --> 00:14:04,870
+Kau akan mati ketika saatnya. Sesederhana itu.
+
+295
+00:14:04,870 --> 00:14:06,570
+Kau pemuda harus berhenti mengeluh
+
+296
+00:14:07,480 --> 00:14:10,270
+Bukankah kau orang tua yang harus menjaga dirimu sendiri?
+
+297
+00:14:10,270 --> 00:14:11,880
+Aku tahu ini gila!
+
+298
+00:14:11,880 --> 00:14:14,630
+Kita akan menggunakan kapal kita sebagai umpan untuk menarik target keluar.
+
+299
+00:14:15,070 --> 00:14:17,820
+Kekuatan untuk membunuh Dewa?
+Aku akan melihat apa yang bisa dilakukan.
+
+300
+00:14:17,820 --> 00:14:21,290
+Tapi sistem pembakaran belum dipasang.
+
+301
+00:14:21,290 --> 00:14:23,480
+Tidak, kau akan menggunakan EVA?!
+
+302
+00:14:24,120 --> 00:14:24,930
+Mari?
+
+303
+00:14:24,930 --> 00:14:26,770
+Unit 08 belum siap.
+
+304
+00:14:26,770 --> 00:14:27,410
+Asuka!
+
+305
+00:14:27,920 --> 00:14:28,840
+Asuka?
+
+306
+00:14:31,100 --> 00:14:32,530
+Aku sudah siap.
+
+307
+00:14:32,530 --> 00:14:34,760
+Aku hanya harus mendorong penyala dalam, kan?
+
+308
+00:14:34,770 --> 00:14:35,890
+Aku mengandalkanmu.
+
+309
+00:14:35,890 --> 00:14:39,130
+Tapi ada masalah kepadatan penghalang di sekitar mesin utama.
+
+310
+00:14:39,130 --> 00:14:41,060
+Dan apakah kita tidak punya orang yang bekerja pada itu sekarang?
+
+311
+00:14:41,060 --> 00:14:45,260
+Nah, kolonel mengadopsi "prioritaskan tujuan daripada kehidupan manusia" sebagai motto nya.
+
+312
+00:14:45,260 --> 00:14:46,780
+Aku hanya akan keluar dan melakukan hal ini.
+
+313
+00:14:46,780 --> 00:14:49,050
+EVA Unit 02-Dash, aktifkan!
+
+314
+00:14:50,390 --> 00:14:52,280
+Meluncurkan Unit 02-Dash.
+
+315
+00:14:52,280 --> 00:14:53,090
+Dipahami.
+
+316
+00:14:53,090 --> 00:14:55,020
+Meluncurkan EVA Unit 02-Dash.
+
+317
+00:14:55,020 --> 00:14:59,430
+Sebarkan juga motor bawah air dan Kontainer Kiri No 1.
+
+318
+00:15:05,170 --> 00:15:10,760
+Cara yang payah untuk debut unitku setelah makeover baru.
+
+319
+00:15:16,390 --> 00:15:18,510
+Itu benar-benar EVA Unit 02.
+
+320
+00:15:18,510 --> 00:15:19,830
+Syukurlah.
+
+321
+00:15:20,450 --> 00:15:22,200
+Kau baik-baik saja, Asuka.
+
+322
+00:15:25,430 --> 00:15:28,380
+Misato-san, bagaimana denganku?
+
+323
+00:15:28,380 --> 00:15:30,840
+Semua kapal, Stasiun Pertempuran Satu.
+
+324
+00:15:31,640 --> 00:15:33,900
+Semua kapal, Stasiun Pertempuran Satu.
+
+325
+00:15:33,900 --> 00:15:34,910
+Saya ulangi.
+
+326
+00:15:34,910 --> 00:15:37,180
+Semua kapal, Stasiun Pertempuran Satu.
+
+327
+00:15:37,180 --> 00:15:39,150
+Beralih ke sistem komando tempur.
+
+328
+00:15:39,150 --> 00:15:41,170
+Semua personil kunci, pergi ke jembatan.
+
+329
+00:15:41,170 --> 00:15:42,770
+Siapkan pemberat gravitasi.
+
+330
+00:15:42,770 --> 00:15:43,740
+Dipahami.
+
+331
+00:15:43,740 --> 00:15:44,970
+Memeriksa semua ventilasi.
+
+332
+00:15:44,970 --> 00:15:47,790
+Fokus semua kontrol utama kapal ke konektor penahan.
+
+333
+00:15:47,790 --> 00:15:48,580
+Dipahami.
+
+334
+00:15:48,580 --> 00:15:49,610
+Mempersiapkan penurunan.
+
+335
+00:15:49,610 --> 00:15:51,000
+Mengkonfirmasi injektor.
+
+336
+00:15:51,000 --> 00:15:52,170
+Mulai hitung mundur.
+
+337
+00:15:52,170 --> 00:15:54,750
+Bersiap untuk memindahkan menara Hirnstamm.
+
+338
+00:15:54,750 --> 00:15:55,760
+Misato-san!
+
+339
+00:15:55,760 --> 00:15:57,640
+Unit 01 di sini, bukan?
+
+340
+00:15:59,160 --> 00:16:00,370
+Aku akan menggunakannya!
+
+341
+00:16:00,370 --> 00:16:01,770
+Aku akan membantu Asuka!
+
+342
+00:16:05,720 --> 00:16:09,160
+Apakah kau yakin aku tidak perlu pergi ke sana, Misato-san?!
+
+343
+00:16:09,160 --> 00:16:10,930
+Menyiapkan pada steker pengisian.
+
+344
+00:16:10,930 --> 00:16:12,000
+Menyiapkan entri.
+
+345
+00:16:11,340 --> 00:16:11,970
+Itu benar.
+
+346
+00:16:11,970 --> 00:16:14,290
+Kau tidak perlu mempiloti EVA.
+
+347
+00:16:14,290 --> 00:16:16,230
+Memisahkan Menara Hirnstamm.
+
+348
+00:16:16,230 --> 00:16:17,410
+Memulai transportasi.
+
+349
+00:16:17,410 --> 00:16:21,100
+Sistem komando saat ini sedang diangkut ke jembatan.
+
+350
+00:16:21,100 --> 00:16:22,350
+Tidak perlu?
+
+351
+00:16:21,100 --> 00:16:22,350
+Aku ulangi.
+
+352
+00:16:22,350 --> 00:16:25,990
+Sistem komando saat ini sedang diangkut ke jembatan.
+
+353
+00:16:23,630 --> 00:16:24,810
+Uh...
+
+354
+00:16:24,810 --> 00:16:27,510
+Lalu apa yang harus aku lakukan?
+
+355
+00:16:28,930 --> 00:16:30,520
+Misato-san!
+
+356
+00:16:31,220 --> 00:16:33,200
+Ikari Shinji-kun.
+
+357
+00:16:35,630 --> 00:16:36,860
+Mulai sekarang...
+
+358
+00:16:37,470 --> 00:16:39,010
+...kau tidak akan melakukan apapun.
+
+359
+00:16:51,020 --> 00:16:52,510
+Menjenuhkan LCL dengan gas.
+
+360
+00:16:52,510 --> 00:16:53,770
+Densitas muatan telah dibersihkan.
+
+361
+00:16:53,770 --> 00:16:54,980
+Mulai entri.
+
+362
+00:16:54,980 --> 00:16:57,690
+Status pengisian LCL adalah normal.
+
+363
+00:16:57,690 --> 00:16:59,830
+Mulai semua sistem prosesor yang terintegrasi.
+
+364
+00:16:59,830 --> 00:17:00,820
+Status?
+
+365
+00:17:00,820 --> 00:17:02,450
+Semua personil hadir.
+
+366
+00:17:01,900 --> 00:17:04,100
+Tidak ada masalah dengan kontak awal.
+
+367
+00:17:02,450 --> 00:17:03,660
+Mengkonfirmasi stasiun.
+
+368
+00:17:04,100 --> 00:17:05,850
+Daftar pertama telah selesai.
+
+369
+00:17:05,850 --> 00:17:07,510
+Mengkonfirmasi penutupan semua dinding penghalang.
+
+370
+00:17:07,510 --> 00:17:08,780
+Memeriksa resistensi tekanan selesai.
+
+371
+00:17:08,780 --> 00:17:10,560
+Meningkatkan pembangkit listrik mesin cadangan.
+
+372
+00:17:10,560 --> 00:17:13,310
+Menyediakan sistem mesin utama dengan listrik untuk pembakaran.
+
+373
+00:17:13,310 --> 00:17:15,160
+5% lagi untuk mencapai titik kritis.
+
+374
+00:17:15,160 --> 00:17:16,610
+Memulai gyrocompass
+
+375
+00:17:16,610 --> 00:17:18,250
+Tidak ada masalah dengan penstabil.
+
+376
+00:17:18,250 --> 00:17:20,030
+Memulai pengolahan data visual.
+
+377
+00:17:20,030 --> 00:17:22,120
+Menghidupkan monitor utama.
+
+378
+00:17:22,910 --> 00:17:25,210
+Target masih mendekat.
+
+379
+00:17:25,210 --> 00:17:27,010
+Itu mengelilingi kita, perlahan tapi pasti.
+
+380
+00:17:27,010 --> 00:17:30,880
+Unit 02-Dash sedang membuang perangkat pendorong dan beralih ke tangan kiri.
+
+381
+00:17:30,880 --> 00:17:32,470
+Kita mulai!
+
+382
+00:17:38,080 --> 00:17:39,180
+Yep.
+
+383
+00:17:39,180 --> 00:17:40,340
+Nah..
+
+384
+00:17:41,600 --> 00:17:42,970
+Ayo kita lakukan ini!
+
+385
+00:17:49,970 --> 00:17:52,050
+Aktifkan bidang A.T.
+
+386
+00:17:54,940 --> 00:17:56,340
+Pilar-pilar cahaya berubah!
+
+387
+00:17:56,340 --> 00:17:58,540
+Energi mereka meningkat dengan cepat!
+
+388
+00:17:58,540 --> 00:18:00,010
+Mereka semua mulai bergerak!
+
+389
+00:18:03,450 --> 00:18:05,250
+Sekutu kapal penjelajah menguap!
+
+390
+00:18:05,250 --> 00:18:06,510
+Serangan penyerapan!
+
+391
+00:18:06,510 --> 00:18:09,180
+Jika itu mengenai kapal ini, ini akan berakhir bagi kita.
+
+392
+00:18:09,850 --> 00:18:12,140
+360 detik sampai kontak!
+
+393
+00:18:23,970 --> 00:18:25,730
+Unit 02-Dash sudah mulai operasi.
+
+394
+00:18:25,730 --> 00:18:28,130
+Pemasukan tekanan pada 300%!
+
+395
+00:18:28,130 --> 00:18:29,220
+Tidak masalah!
+
+396
+00:18:29,220 --> 00:18:33,500
+flywheel adalah perangkat mekanik berputar yang digunakan untuk menyimpan energi rotasi.
+
+397
+00:18:29,220 --> 00:18:31,500
+Arahkan semua energi untuk Flywheel!
+
+398
+00:18:31,500 --> 00:18:32,460
+Prioritas utama!
+
+399
+00:18:42,390 --> 00:18:45,560
+Barisan ke-83 terbakar! Pemadaman api tidak memungkinkan!
+
+400
+00:18:42,950 --> 00:18:45,100
+Gugus pengkonversi ke 7 telah meledak!
+
+401
+00:18:45,100 --> 00:18:46,960
+Barisan yang hancur tidak penting!
+
+402
+00:18:46,960 --> 00:18:48,390
+Lanjutkan dengan injeksi paksa!
+
+403
+00:18:48,390 --> 00:18:50,180
+Abaikan semua alat pengukur tekanan!
+
+404
+00:18:50,180 --> 00:18:52,410
+Melepaskan kunci pada flywheel terkompresi.
+
+405
+00:18:52,410 --> 00:18:53,660
+Memulai rotasi!
+
+406
+00:19:01,890 --> 00:19:04,410
+Pompa energi dari mesin utama telah dimulai.
+
+407
+00:19:04,410 --> 00:19:06,930
+Mesin cadangan beroperasi pada keluaran 80%!
+
+408
+00:19:06,930 --> 00:19:08,880
+Bebani itu dengan katalis!
+
+409
+00:19:24,360 --> 00:19:25,140
+Selanjutnya adalah...
+
+410
+00:19:27,890 --> 00:19:29,630
+35 detik tersisa!
+
+411
+00:19:29,630 --> 00:19:31,290
+Kecepatan rotasi meningkat.
+
+412
+00:19:31,290 --> 00:19:33,680
+10,000 putaran... 12,000 putaran...
+
+413
+00:19:33,680 --> 00:19:34,390
+Itu datang!
+
+414
+00:19:34,390 --> 00:19:36,550
+Flywheel  102% terisi!
+
+415
+00:19:36,550 --> 00:19:37,770
+Titik kritis terlampaui!
+
+416
+00:19:37,770 --> 00:19:39,610
+Tahap akhir pembakaran!
+
+417
+00:19:39,610 --> 00:19:40,440
+Bagus.
+
+418
+00:19:40,440 --> 00:19:41,890
+Beralih ke mode penerbangan.
+
+419
+00:19:41,890 --> 00:19:42,430
+Roger.
+
+420
+00:19:42,430 --> 00:19:44,060
+Mulai kontrol spatiotemporal.
+
+421
+00:19:44,060 --> 00:19:46,170
+Beralih ke kontrol 3D kapal.
+
+422
+00:19:47,350 --> 00:19:49,970
+Aktifkan bidang A.T. saat kita memulai!
+
+423
+00:19:49,970 --> 00:19:51,400
+Kecepatan rotasi pada 36.000 putaran!
+
+424
+00:19:51,400 --> 00:19:52,310
+Semua parameter sudah siap!
+
+425
+00:19:52,310 --> 00:19:54,610
+Kontak sudah dekat!
+
+426
+00:19:54,610 --> 00:19:55,970
+Lewati hitungan mundur!
+
+427
+00:19:55,970 --> 00:19:57,100
+Hubungkan mesin utama!
+
+428
+00:19:57,100 --> 00:19:58,800
+Menghubungkan!
+
+429
+00:20:02,020 --> 00:20:02,840
+Membakar!
+
+430
+00:20:19,560 --> 00:20:20,890
+Hambatan dibereskan!
+
+431
+00:20:20,890 --> 00:20:22,050
+Periksa setiap departemen!
+
+432
+00:20:22,050 --> 00:20:23,430
+Tarik kembali semua kapal pendamping!
+
+433
+00:20:23,430 --> 00:20:24,370
+Ini dia!
+
+434
+00:20:24,370 --> 00:20:26,010
+Wunder! Luncurkan!
+
+435
+00:21:15,540 --> 00:21:17,690
+Sayap utama ditembus! Tingkat kerusakan tidak diketahui!
+
+436
+00:21:17,690 --> 00:21:18,390
+Tidak masalah!
+
+437
+00:21:18,390 --> 00:21:20,010
+Bersiap untuk menghancurkan target!
+
+438
+00:21:20,010 --> 00:21:21,220
+Balikan kapal!
+
+439
+00:21:21,220 --> 00:21:22,270
+Membalikan!
+
+440
+00:21:22,270 --> 00:21:24,450
+Membalikan! Memantapkan posisi!
+
+441
+00:21:29,810 --> 00:21:33,330
+Sekarang tarik penghalang inti keluar dari kepompong penyelubung!
+
+442
+00:21:38,630 --> 00:21:40,520
+Retakan bermunculan dalam balok sayap utama!
+
+443
+00:21:40,520 --> 00:21:42,010
+Tetap mantapkan kemudi!
+
+444
+00:21:42,010 --> 00:21:43,770
+Jalankan mesin dengan kekuatan penuh!
+
+445
+00:21:43,770 --> 00:21:45,770
+Maksimum daya di kedua sisi!
+
+446
+00:21:45,770 --> 00:21:47,520
+Kecepatan penuh!
+
+447
+00:22:13,930 --> 00:22:15,850
+Penghalang inti sudah keluar!
+
+448
+00:22:15,850 --> 00:22:16,470
+Sekarang!
+
+449
+00:22:16,470 --> 00:22:18,530
+Belokan ke kiri! Ayo!
+
+450
+00:22:18,530 --> 00:22:20,350
+Roger!
+
+451
+00:22:45,360 --> 00:22:46,560
+Pendorong maksimal!
+
+452
+00:22:46,560 --> 00:22:47,890
+Penuh pada rem!
+
+453
+00:22:57,570 --> 00:22:58,760
+Tidak ada tanda-tanda aktivitas sasaran!
+
+454
+00:22:58,760 --> 00:23:00,400
+Meriam utama, persiapkan untuk menembak!
+
+455
+00:23:00,400 --> 00:23:02,590
+Isikan amunisi energi penembus!
+
+456
+00:23:02,590 --> 00:23:04,380
+Hubungkan semua menara meriam ke mesin utama.
+
+457
+00:23:04,380 --> 00:23:06,030
+Buka sirkuit pasokan amunisi.
+
+458
+00:23:06,030 --> 00:23:06,710
+Roger.
+
+459
+00:23:06,710 --> 00:23:07,850
+Membuka sirkuit pasokan amunisi.
+
+460
+00:23:07,850 --> 00:23:10,430
+Kesalahan pengukuran sedang diperbaiki tepat pada waktunya!
+
+461
+00:23:10,430 --> 00:23:12,040
+Baterai artileri terputus!
+
+462
+00:23:12,040 --> 00:23:15,460
+Bidikan langsung dan pelacakan manual siap pada semua meriam!
+
+463
+00:23:15,460 --> 00:23:16,680
+Kalau begitu kita sudah siap.
+
+464
+00:23:16,680 --> 00:23:17,550
+Tembak!
+
+465
+00:23:41,810 --> 00:23:43,250
+Sasaran dihancurkan!
+
+466
+00:23:43,250 --> 00:23:45,890
+Semua kapal, Jaga keadaan dua.
+
+467
+00:23:45,890 --> 00:23:47,890
+Bersiap untuk mengambil Unit 02-Dash.
+
+468
+00:23:47,890 --> 00:23:49,770
+Mulai perbaikan darurat di sayap dengan cepat.
+
+469
+00:23:50,930 --> 00:23:52,520
+Hebat...
+
+470
+00:23:52,520 --> 00:23:54,020
+Kita benar-benar menang
+
+471
+00:23:54,020 --> 00:23:56,570
+Dia gila...
+
+472
+00:23:57,430 --> 00:24:00,330
+Dia seorang kapten yang lebih menarik daripada yang Kaji ceritakan.
+
+473
+00:24:00,330 --> 00:24:02,600
+Jadi itu kekuatan untuk membunuh Dewa.
+
+474
+00:24:03,320 --> 00:24:06,010
+Wunder. Memang kapal harapan.
+
+475
+00:24:44,950 --> 00:24:47,190
+Spesimen BM03.
+
+476
+00:24:47,190 --> 00:24:48,970
+Nama Tentatif: Ikari Shinji-san.
+
+477
+00:24:49,700 --> 00:24:52,000
+Wakil kapten ingin berbicara denganmu.
+
+478
+00:24:52,790 --> 00:24:54,560
+Itu unit 01?
+
+479
+00:24:54,560 --> 00:24:55,330
+Ya.
+
+480
+00:24:55,890 --> 00:24:59,810
+Unit 01 saat ini sedang digunakan sebagai mesin utama kapal ini.
+
+481
+00:24:59,810 --> 00:25:01,610
+Oleh karena itu kita tidak perlu pilot.
+
+482
+00:25:02,940 --> 00:25:05,140
+Kurasa kau benar.
+
+483
+00:25:05,140 --> 00:25:09,400
+Oh, kita juga memiliki hasil tingkat sinkronisasi-mu dalam tes.
+
+484
+00:25:09,400 --> 00:25:12,410
+Tingkat sinkronisasi-mu adalah 0,00%.
+
+485
+00:25:12,410 --> 00:25:15,600
+Bahkan jika kau mempiloti EVA, kau tidak
+akan mampu untuk memulainya.
+
+486
+00:25:16,160 --> 00:25:17,540
+Ini dia!
+
+487
+00:25:17,540 --> 00:25:19,610
+Bukankah itu bagus, Ikari-san?
+
+488
+00:25:19,610 --> 00:25:25,770
+Namun, kita tidak bisa mengabaikan fakta kalau unit tiba-tiba terbangun selama 12 detik sebelumnya.
+
+489
+00:25:25,770 --> 00:25:30,130
+Itulah sebabnya kita telah menginstal Choker DSS padamu.
+
+490
+00:25:30,130 --> 00:25:31,810
+Apa ini?
+
+491
+00:25:31,810 --> 00:25:33,730
+Asuransi untuk kita.
+
+492
+00:25:33,730 --> 00:25:36,940
+Ini adalah perangkat keselamatan fisik yang mencegah kebangkitan.
+
+493
+00:25:36,940 --> 00:25:40,890
+Ini melambangkan hukumanmu serta ketidakpercayaan atas kamu.
+
+494
+00:25:40,890 --> 00:25:42,350
+Apa maksudmu?
+
+495
+00:25:42,900 --> 00:25:46,490
+Jika kau menyerah pada emosimu sendiri ketika mempiloti EVA
+
+496
+00:25:46,490 --> 00:25:50,060
+dan risiko kebangkitan menjadi terlalu besar untuk dihindari,
+
+497
+00:25:50,060 --> 00:25:53,030
+nyawamu akan melayang.
+
+498
+00:25:54,690 --> 00:25:56,170
+Apakah itu berarti...
+
+499
+00:25:57,500 --> 00:25:59,310
+...aku akan mati?
+
+500
+00:25:59,760 --> 00:26:01,190
+Aku tidak akan menyangkal itu.
+
+501
+00:26:01,810 --> 00:26:03,810
+Tidak mungkin...
+
+502
+00:26:04,400 --> 00:26:08,430
+Misato-san, aku akan mati? Apa artinya ini?
+
+503
+00:26:08,430 --> 00:26:10,240
+Ini tidak masuk akal, Misato-san!
+
+504
+00:26:10,240 --> 00:26:12,890
+Bagaimana bisa berakhir seperti ini? Ini konyol!
+
+505
+00:26:12,890 --> 00:26:14,750
+Aku tidak menyalahkanmu untuk panik.
+
+506
+00:26:14,750 --> 00:26:15,270
+Letnan?
+
+507
+00:26:15,270 --> 00:26:16,220
+Ya, Bu?
+
+508
+00:26:16,220 --> 00:26:17,910
+Katakan padanya nama dan pangkat.
+
+509
+00:26:17,910 --> 00:26:18,350
+Baik, Bu.
+
+510
+00:26:19,560 --> 00:26:22,220
+Um, aku tahu pengenalan ini terlambat,
+
+511
+00:26:22,220 --> 00:26:27,410
+tapi aku Letnan Suzuhara Sakura,
+petugas medis yang ditugaskan.
+
+512
+00:26:27,410 --> 00:26:28,780
+Senang bertemu denganmu.
+
+513
+00:26:29,330 --> 00:26:30,250
+Iyah.
+
+514
+00:26:32,500 --> 00:26:34,010
+Tunggu, "Suzuhara"?
+
+515
+00:26:35,010 --> 00:26:35,720
+Apa kau... Touji
+
+516
+00:26:35,720 --> 00:26:37,370
+Ya, itu benar.
+
+517
+00:26:37,370 --> 00:26:39,520
+Terima kasih sudah berteman dengan kakakku.
+
+518
+00:26:39,520 --> 00:26:41,220
+Aku adiknya, Sakura.
+
+519
+00:26:41,220 --> 00:26:43,710
+Adik? Bukan kakak?
+
+520
+00:26:43,710 --> 00:26:45,750
+Ya, adik.
+
+521
+00:26:46,850 --> 00:26:50,140
+Adik? Bagaimana bisa?
+
+522
+00:26:50,140 --> 00:26:53,240
+14 tahun telah berlalu sejak saat itu,
+
+523
+00:26:53,240 --> 00:26:54,520
+Shinji Bodoh.
+
+524
+00:26:55,850 --> 00:26:57,180
+A-Asuka?!
+
+525
+00:27:00,680 --> 00:27:04,600
+Syukurlah kau baik-baik saja,, Asuka!
+
+526
+00:27:09,430 --> 00:27:10,890
+Tidak ada gunanya.
+
+527
+00:27:10,890 --> 00:27:12,210
+Aku tidak bisa menahan diri.
+
+528
+00:27:12,210 --> 00:27:14,060
+Aku sudah menahannya selama bertahun-tahun.
+
+529
+00:27:20,210 --> 00:27:21,360
+Apa itu?
+
+530
+00:27:21,970 --> 00:27:24,140
+Itu datang dari kemarahan terpendam dan kesedihanku.
+
+531
+00:27:25,130 --> 00:27:26,970
+Ada apa ini?
+
+532
+00:27:27,540 --> 00:27:28,040
+Huh?
+
+533
+00:27:28,040 --> 00:27:29,640
+Asuka, mata kirimu...
+
+534
+00:27:29,640 --> 00:27:31,350
+Ini bukan urusanmu.
+
+535
+00:27:31,890 --> 00:27:35,610
+Asuka, kau bilang sudah empat belas tahun,
+
+536
+00:27:35,610 --> 00:27:38,080
+tapi tidak ada yang berubah darimu selain penutup mata itu.
+
+537
+00:27:38,080 --> 00:27:40,680
+Iyah. Ini adalah kutukan dari EVA.
+
+538
+00:27:41,350 --> 00:27:42,430
+Kutukan?
+
+539
+00:27:45,660 --> 00:27:46,790
+Tunggu!
+
+540
+00:27:46,790 --> 00:27:48,050
+Aku yakin kau akan tahu!
+
+541
+00:27:48,050 --> 00:27:50,220
+Katakan padaku di mana Ayanami!
+
+542
+00:27:51,260 --> 00:27:52,100
+Tidak tahu.
+
+543
+00:27:52,100 --> 00:27:54,220
+Tidak tahu?
+
+544
+00:27:54,220 --> 00:27:55,830
+Tapi aku menyelamatkannya saat itu!
+
+545
+00:27:55,830 --> 00:27:58,370
+Rewel sekali hanya karena satu orang.
+
+546
+00:27:58,370 --> 00:28:02,410
+Tidak ada yang peduli tentang hal itu lagi.
+
+547
+00:28:02,410 --> 00:28:05,520
+Benarkan, Kolonel Katsuragi?
+
+548
+00:28:08,060 --> 00:28:09,020
+Asuka!
+
+549
+00:28:09,740 --> 00:28:12,030
+Misato-san, dimana Ayanami?
+
+550
+00:28:12,030 --> 00:28:13,050
+Katakan padaku, kumohon!
+
+551
+00:28:13,050 --> 00:28:13,890
+Shinji-kun.
+
+552
+00:28:14,500 --> 00:28:16,970
+Ayanami Rei tidak ada lagi.
+
+553
+00:28:16,970 --> 00:28:20,490
+Tidak mungkin. Aku yakin sudah menyelamatkannya.
+
+554
+00:28:20,490 --> 00:28:22,900
+Aku yakin dia masih di steker Unit 01.
+
+555
+00:28:22,900 --> 00:28:24,340
+Tolong cari dia!
+
+556
+00:28:24,340 --> 00:28:27,770
+Kita melakukan pencarian menyeluruh dalam Unit 01 dulu.
+
+557
+00:28:27,770 --> 00:28:30,620
+Yang kita temukan hanyalah kau, dan....
+
+558
+00:28:32,260 --> 00:28:34,390
+Untuk alasan tertentu, ini telah dikembalikan.
+
+559
+00:28:35,150 --> 00:28:37,880
+Kita memeriksanya dan tidak menemukan adanya masalah, jadi kau dapat memilikinya kembali.
+
+560
+00:28:38,890 --> 00:28:40,270
+Ini ...Ayah
+
+561
+00:28:41,250 --> 00:28:43,530
+Ayanami memegang ini pada saat itu.
+
+562
+00:28:44,190 --> 00:28:46,200
+Dia pasti selamat.
+
+563
+00:28:47,640 --> 00:28:48,400
+Apa itu?
+
+564
+00:28:50,650 --> 00:28:51,480
+Halo?
+
+565
+00:28:51,480 --> 00:28:53,030
+Target di dek belakang!
+
+566
+00:28:53,030 --> 00:28:54,250
+Itu tiba-tiba menyerang kita!
+
+567
+00:28:54,790 --> 00:28:56,140
+Datang ancaman terbesar.
+
+568
+00:28:56,140 --> 00:28:58,460
+Semua kapal, Stasiun Pertempuran Satu.
+
+569
+00:28:58,460 --> 00:29:00,660
+Melindungi Unit 01 adalah prioritas utama!
+
+570
+00:29:00,660 --> 00:29:02,350
+Unit 08, kau siap untuk pergi, kan?
+
+571
+00:29:02,350 --> 00:29:03,970
+Oh, tapi tentu saja!
+
+572
+00:29:03,970 --> 00:29:05,520
+Aku sudah disitu, Putri!
+
+573
+00:29:05,520 --> 00:29:08,730
+Btw, bagaimana Pups?
+
+574
+00:29:08,730 --> 00:29:10,470
+Apa dia duduk dan bersikap baik ?
+
+575
+00:29:10,950 --> 00:29:12,280
+Dia tidak berubah sama sekali.
+
+576
+00:29:12,280 --> 00:29:14,050
+Dia masih memiliki kantuk, wajah bodoh.
+
+577
+00:29:14,050 --> 00:29:17,590
+Kau yakin tidak mengunjunginya hanya untuk melihat wajahnya?
+
+578
+00:29:17,590 --> 00:29:18,570
+Tidak!
+
+579
+00:29:18,570 --> 00:29:19,960
+Aku pergi ke sana hanya untuk memukul itu!
+
+580
+00:29:19,960 --> 00:29:21,390
+Sekarang aku merasa jauh lebih baik!
+
+581
+00:29:21,390 --> 00:29:23,520
+Misato-san! Ritsuko-san!
+
+582
+00:29:23,520 --> 00:29:25,310
+Apa yang ada di luar sana?
+
+583
+00:29:25,310 --> 00:29:27,130
+Apakah itu Angel baru?
+
+584
+00:29:27,130 --> 00:29:30,020
+Ikari-kun, kau dimana?
+
+585
+00:29:30,020 --> 00:29:31,440
+Ayanami?
+
+586
+00:29:32,230 --> 00:29:35,520
+Bukankah itu suara Ayanami, Misa—
+
+587
+00:29:39,310 --> 00:29:41,160
+Oh, ayolah!
+
+588
+00:29:41,160 --> 00:29:42,580
+Kita sudah siap!
+
+589
+00:29:42,580 --> 00:29:44,000
+Ikari-san, lewat sini!
+
+590
+00:29:44,000 --> 00:29:46,720
+Ikari-kun, kau dimana?
+
+591
+00:29:47,120 --> 00:29:48,760
+Itu memang Ayanami.
+
+592
+00:29:50,220 --> 00:29:51,080
+Itu Ayanami!
+
+593
+00:29:52,320 --> 00:29:54,650
+Ikari-san! Cepat!
+
+594
+00:29:57,190 --> 00:29:58,910
+Aku sudah cukup.
+
+595
+00:29:58,910 --> 00:30:01,280
+Ayanami! Aku di sini!
+
+596
+00:30:07,690 --> 00:30:08,890
+Kerusakan pada sisi lambung kapal kanan!
+
+597
+00:30:08,890 --> 00:30:10,150
+Retakan lambung terdeteksi di dek kedua!
+
+598
+00:30:10,150 --> 00:30:12,320
+Penurunan tekanan terdeteksi di karantina sementara ruang interogasi!
+
+599
+00:30:12,320 --> 00:30:13,600
+Penutupan darurat dinding penghalang!
+
+600
+00:30:13,600 --> 00:30:16,390
+EVA? Unit 00?
+
+601
+00:30:16,390 --> 00:30:19,290
+Ikari-kun, ikut aku.
+
+602
+00:30:20,700 --> 00:30:22,020
+Kau tidak boleh, Shinji-kun.
+
+603
+00:30:22,470 --> 00:30:24,060
+Tetap disini.
+
+604
+00:30:24,790 --> 00:30:26,800
+Apa itu, Misato-san?
+
+605
+00:30:26,800 --> 00:30:28,970
+Kau bilang kau tidak membutuhkan aku!
+
+606
+00:30:28,970 --> 00:30:31,410
+Tapi kita akan menjamin keselamatanmu.
+
+607
+00:30:31,410 --> 00:30:33,740
+Bagaimana dengan pendapatku?!
+
+608
+00:30:39,360 --> 00:30:40,440
+Hentikan!
+
+609
+00:30:40,440 --> 00:30:41,780
+Kau menembaki EVA!
+
+610
+00:30:41,780 --> 00:30:42,500
+Itulah alasannya.
+
+611
+00:30:42,500 --> 00:30:45,220
+Kita akan menghancurkan semua EVA NERV.
+
+612
+00:30:45,740 --> 00:30:46,730
+NERV?
+
+613
+00:30:47,210 --> 00:30:48,680
+Apakah ini NERV?
+
+614
+00:30:48,920 --> 00:30:52,970
+Kita adalah Wille, sebuah organisasi yang didedikasikan untuk menghancurkan NERV.
+
+615
+00:30:53,610 --> 00:30:54,730
+Bagaimana...
+
+616
+00:30:55,450 --> 00:30:58,500
+Tapi tunggu, Ayanami mempiloti itu!
+
+617
+00:30:58,500 --> 00:30:59,140
+Itu bukan dia!
+
+618
+00:30:59,140 --> 00:31:01,280
+Rei sudah tidak ada, Shinji-kun.
+
+619
+00:31:01,280 --> 00:31:01,890
+Bohong!
+
+620
+00:31:02,370 --> 00:31:04,470
+Dia di sana!
+
+621
+00:31:04,470 --> 00:31:05,640
+Misato-san, kau tidak mengerti!
+
+622
+00:31:05,640 --> 00:31:07,060
+Aku sudah selesai di sini!
+
+623
+00:31:10,430 --> 00:31:11,600
+Ikari-san!
+
+624
+00:31:12,850 --> 00:31:14,390
+Lakukan apa pun yang kau inginkan,
+
+625
+00:31:15,170 --> 00:31:17,180
+tapi tolong jangan mempiloti EVA!
+
+626
+00:31:17,680 --> 00:31:19,810
+Serius, beri kita istirahat.
+
+627
+00:31:28,660 --> 00:31:30,250
+Jangan biarkan mereka pergi, Jaringan Empat-Mata!
+
+628
+00:31:30,250 --> 00:31:31,310
+Roger Wilco!
+
+629
+00:31:34,320 --> 00:31:36,540
+EVA Unit 08 diluncurkan!
+
+630
+00:31:34,330 --> 00:31:40,140
+Setelah aku sudah mengunci target padamu, aku tidak pernah meleset ~
+
+631
+00:31:40,810 --> 00:31:43,310
+Hei, ayolah!
+
+632
+00:31:48,040 --> 00:31:49,570
+Kena!
+
+633
+00:31:54,760 --> 00:31:57,020
+Mungkinkah itu benar-benar menjadi wadah Adam?
+
+634
+00:32:03,710 --> 00:32:06,390
+Setidaknya bilang hai, sialan!
+
+635
+00:32:08,310 --> 00:32:10,810
+Jika mereka memprioritaskan mengambil alih Unit 01,
+
+636
+00:32:10,810 --> 00:32:13,310
+itu berarti dia masih memiliki potensi untuk menjadi pemicunya!
+
+637
+00:32:13,310 --> 00:32:16,020
+Misato, gunakan Choker DSS!
+
+638
+00:32:30,780 --> 00:32:32,250
+Ini adalah wakil kapten.
+
+639
+00:32:32,250 --> 00:32:33,680
+Tidak perlu dikejar.
+
+640
+00:32:33,680 --> 00:32:37,930
+Semua personil, harap cenderung untuk perbaikan darurat dan melanjutkan memperlengkapi kapal.
+
+641
+00:32:37,930 --> 00:32:38,730
+Roger.
+
+642
+00:32:38,730 --> 00:32:39,610
+Tidak perlu dikejar.
+
+643
+00:32:39,610 --> 00:32:42,970
+Ya ampun, dia bahkan tidak bodoh.
+
+644
+00:32:40,210 --> 00:32:44,260
+Semua personil, harap cenderung untuk perbaikan darurat dan melanjutkan memperlengkapi kapal.
+
+645
+00:32:43,460 --> 00:32:44,260
+Dia hanya bocah.
+
+646
+00:32:44,270 --> 00:32:48,770
+Evangelion New Theatrical Version  Q
+
+647
+00:32:44,270 --> 00:32:48,770
+：
+
+648
+00:33:01,460 --> 00:33:03,840
+Aku memang benar-benar menyelamatkan dia.
+
+649
+00:33:04,570 --> 00:33:05,970
+Misato-san pembohong.
+
+650
+00:33:07,610 --> 00:33:08,420
+Lewat sini.
+
+651
+00:33:16,350 --> 00:33:18,350
+U-Um...
+
+652
+00:33:33,950 --> 00:33:37,890
+Ini adalah Geofront, tapi kita masih bisa melihat langit?
+
+653
+00:33:46,420 --> 00:33:49,020
+Apakah itu Markas NERV?
+
+654
+00:33:50,700 --> 00:33:51,760
+Apa yang terjadi?
+
+655
+00:34:22,600 --> 00:34:25,580
+Itu benar-benar sudah 14 tahun.
+
+656
+00:35:01,730 --> 00:35:02,710
+Sini.
+
+657
+00:35:04,910 --> 00:35:05,640
+Apa ini?
+
+658
+00:35:08,510 --> 00:35:09,670
+EVA?
+
+659
+00:35:09,670 --> 00:35:10,970
+Benar.
+
+660
+00:35:14,750 --> 00:35:15,970
+Ayah...
+
+661
+00:35:15,970 --> 00:35:21,170
+Evangelion Unit 13, untukmu dan pilot itu.
+
+662
+00:35:23,410 --> 00:35:25,450
+Pemain piano dari sebelumnya?
+
+663
+00:35:26,620 --> 00:35:30,270
+Ketika saatnya tiba, piloti EVA dengan dia.
+
+664
+00:35:30,910 --> 00:35:32,400
+Itu saja.
+
+665
+00:35:33,840 --> 00:35:35,390
+Tunggu sebentar, Ayah!
+
+666
+00:35:35,390 --> 00:35:38,950
+Aku masih punya banyak pertanyaan dan hal yang ingin aku bicarakan!
+
+667
+00:35:38,950 --> 00:35:40,600
+Ayah!
+
+668
+00:35:50,210 --> 00:35:52,070
+Itu bahkan tidak memiliki dial.
+
+669
+00:35:52,070 --> 00:35:55,060
+Kurasa aku tidak bisa menelepon siapa pun dari sini.
+
+670
+00:36:15,520 --> 00:36:18,390
+Aku harus berterima kasih padanya.
+
+671
+00:36:28,370 --> 00:36:30,250
+Ayanami!
+
+672
+00:36:32,500 --> 00:36:34,910
+Dimana kau, Ayanami?
+
+673
+00:36:35,910 --> 00:36:37,730
+Ayanami!
+
+674
+00:37:11,850 --> 00:37:13,850
+Tempat apa ini?
+
+675
+00:37:15,690 --> 00:37:16,840
+Ayanami?!
+
+676
+00:37:16,870 --> 00:37:19,020
+Disini rupanya!
+
+677
+00:37:21,710 --> 00:37:23,770
+Ayanami, aku sudah mencari-carimu!
+
+678
+00:37:24,320 --> 00:37:26,420
+H-Hey!
+
+679
+00:37:26,420 --> 00:37:29,020
+Um, pakai bajumu!
+
+680
+00:37:30,450 --> 00:37:32,770
+Hanya jika itu perintah.
+
+681
+00:37:34,540 --> 00:37:35,770
+Aku masuk
+
+682
+00:37:39,250 --> 00:37:43,890
+Um... Ayanami, terimakasih untuk ini.
+
+683
+00:37:44,990 --> 00:37:46,680
+Aku sudah lama ingin mengucapkan terima kasih untuk sementara ini sekarang.
+
+684
+00:37:55,620 --> 00:37:58,220
+Kau mendapatkan plug setelan baru, ya?
+
+685
+00:37:58,220 --> 00:38:00,970
+Itu cocok padamu, tapi aku tak tahu bagian hitamnya.
+
+686
+00:38:06,790 --> 00:38:11,640
+Markas NERV telah berubah sedikit, ya kan?
+
+687
+00:38:14,220 --> 00:38:19,100
+Mengapa Misato-san melawan NERV bukan Angel?
+
+688
+00:38:19,100 --> 00:38:21,770
+Apa yang Ayah coba lakukan di sini?
+
+689
+00:38:22,790 --> 00:38:24,290
+Kenapa dengan semua orang?
+
+690
+00:38:24,290 --> 00:38:26,390
+Apa kau tahu sesuatu, Ayanami?
+
+691
+00:38:28,000 --> 00:38:29,140
+Aku tidak tau.
+
+692
+00:38:29,140 --> 00:38:30,830
+Oh begitu.
+
+693
+00:38:32,250 --> 00:38:34,880
+Ya, tidak mengherankan, kurasa.
+
+694
+00:38:34,880 --> 00:38:38,010
+Btw, kapan kau kembali dari Unit 01?
+
+695
+00:38:44,850 --> 00:38:48,690
+Ini bahkan bukan ruangan yang bagus.
+
+696
+00:38:49,690 --> 00:38:51,980
+Ini seperti kau akan tinggal di sini, tapi masih...
+
+697
+00:38:52,690 --> 00:38:56,430
+Ini tidak terlihat seperti kau memiliki sekolah, jadi apa yang biasanya kau lakukan?
+
+698
+00:38:56,430 --> 00:38:58,520
+Menunggu perintah.
+
+699
+00:39:01,020 --> 00:39:03,010
+Aku tidak melihat buku-buku di sini.
+
+700
+00:39:03,010 --> 00:39:04,430
+Apa kau pernah membaca?
+
+701
+00:39:05,090 --> 00:39:05,950
+Membaca?
+
+702
+00:39:07,250 --> 00:39:10,340
+Akankah Ayanami Rei melakukan itu?
+
+703
+00:39:10,340 --> 00:39:13,470
+Ya. Kau suka banyak membaca.
+
+704
+00:39:13,470 --> 00:39:15,140
+Ada buku-buku di kamarmu.
+
+705
+00:39:15,140 --> 00:39:16,160
+Oh begitu.
+
+706
+00:39:16,160 --> 00:39:17,400
+Aku tau!
+
+707
+00:39:17,400 --> 00:39:20,450
+Aku akan pergi ke perpustakaan di sini dan mengambil beberapa buku!
+
+708
+00:39:20,450 --> 00:39:22,910
+Um, bagaimana dengan beberapa buku bahasa Inggris?
+
+709
+00:39:22,910 --> 00:39:25,340
+Kau selalu membawa satu, jadi kupikir itulah yang kau suka.
+
+710
+00:39:25,740 --> 00:39:26,640
+Suka?
+
+711
+00:39:26,640 --> 00:39:27,750
+Yah.
+
+712
+00:39:28,470 --> 00:39:29,890
+Setidaknya, aku pikir begitu.
+
+713
+00:39:30,650 --> 00:39:32,970
+Apa artinya "suka"?
+
+714
+00:39:41,850 --> 00:39:46,090
+SEELE adalah sebuah organisasi rahasia dan misterius dengan pengaruh terhadap Pemerintah Dunia.
+
+715
+00:39:41,850 --> 00:39:46,090
+SEELE terus diam.
+
+716
+00:39:46,090 --> 00:39:50,560
+Proyek Instrumentalitas Manusia akan dilakukan seperti yang tertulis dalam Gulungan Laut Mati.
+
+717
+00:39:50,560 --> 00:39:54,210
+Mereka tidak perlu berbicara dengan kita.
+
+718
+00:39:55,010 --> 00:39:58,930
+Ikari, apakah kau berniat untuk menggunakan Unit 13 kali ini?
+
+719
+00:40:01,490 --> 00:40:02,470
+Baik.
+
+720
+00:40:03,210 --> 00:40:05,780
+Aku hanya akan mengikuti rencanamu.
+
+721
+00:40:06,530 --> 00:40:08,270
+Ini juga demi Yui-kun.
+
+722
+00:40:10,770 --> 00:40:12,110
+Ini tidak bisa.
+
+723
+00:40:12,840 --> 00:40:14,310
+Ini tidak mau bekerja.
+
+724
+00:40:21,350 --> 00:40:22,330
+Kau tidak akan melakukan apa-apa.
+
+725
+00:40:22,330 --> 00:40:23,850
+Ini bukan urusanmu.
+
+726
+00:40:23,850 --> 00:40:25,760
+Tolong jangan piloti EVA!
+
+727
+00:40:25,760 --> 00:40:26,830
+Piloti EVA.
+
+728
+00:40:26,830 --> 00:40:27,600
+Aku tidak tau.
+
+729
+00:40:54,640 --> 00:40:57,140
+AYANAMI
+
+730
+00:41:22,530 --> 00:41:24,400
+Turun kesini, Ikari-kun.
+
+731
+00:41:24,870 --> 00:41:25,660
+Mari bicara.
+
+732
+00:41:31,160 --> 00:41:32,220
+U-Uh...
+
+733
+00:41:32,220 --> 00:41:34,630
+Bukankah kita akan bicara?
+
+734
+00:41:34,630 --> 00:41:37,470
+Duet piano adalah dialog musik.
+
+735
+00:41:37,470 --> 00:41:38,830
+Ayo, cobalah.
+
+736
+00:41:41,650 --> 00:41:44,350
+Aku lewat. Aku tidak bisa memainkannya.
+
+737
+00:41:44,350 --> 00:41:49,100
+Sangat penting untuk berubah dan belajar hal-hal baru untuk hidup.
+
+738
+00:41:53,790 --> 00:41:54,720
+Itu gampang.
+
+739
+00:41:55,430 --> 00:41:59,350
+Kau hanya perlu menekan kunci-kunci di sekitar sini.
+
+740
+00:42:13,080 --> 00:42:16,090
+Cobalah mainkan itu.
+
+741
+00:42:39,610 --> 00:42:40,890
+Bagus sekali!
+
+742
+00:42:40,890 --> 00:42:42,310
+Kita terdengar bagus bersama-sama.
+
+743
+00:43:17,950 --> 00:43:19,930
+Musik sangat menyenangkan.
+
+744
+00:43:20,890 --> 00:43:22,700
+Sungguh menakjubkan apa yang dua orang dapat capai.
+
+745
+00:43:28,180 --> 00:43:28,810
+Makasih.
+
+746
+00:43:29,650 --> 00:43:32,210
+Aku belum pernah sesenang ini dalam waktu yang lama.
+
+747
+00:43:32,210 --> 00:43:33,900
+Aku juga.
+
+748
+00:43:33,900 --> 00:43:34,900
+Mari kita lakukan ini lagi.
+
+749
+00:43:34,900 --> 00:43:37,560
+Mampir kapan saja, Ikari Shinji-kun.
+
+750
+00:43:37,930 --> 00:43:38,690
+Yah.
+
+751
+00:43:40,000 --> 00:43:41,270
+Btw, kau siapa?
+
+752
+00:43:41,270 --> 00:43:44,350
+Aku Kaworu. Nagisa Kaworu.
+
+753
+00:43:45,440 --> 00:43:48,630
+Aku anak terikat oleh nasib, sama sepertimu.
+
+754
+00:43:53,470 --> 00:43:55,930
+AYANAMI
+
+755
+00:43:54,680 --> 00:43:55,930
+Dia pergi lagi.
+
+756
+00:43:56,880 --> 00:43:58,310
+Dia juga belum menyentuh buku-bukunya.
+
+757
+00:44:15,120 --> 00:44:17,330
+Selamat pagi, Ikari Shinji-kun.
+
+758
+00:44:18,910 --> 00:44:19,890
+Kau datang lebih awal hari ini.
+
+759
+00:44:21,140 --> 00:44:23,050
+Aku tidak punya kerjaan lagi.
+
+760
+00:44:52,390 --> 00:44:55,710
+Bagaimana aku bisa meningkatkan permainan pianoku?
+
+761
+00:44:55,710 --> 00:44:58,650
+Kau tidak harus menjadi hebat.
+
+762
+00:44:58,650 --> 00:45:01,530
+Cukup menghasilkan musik yang terasa baik.
+
+763
+00:45:03,100 --> 00:45:05,770
+Nah, aku ingin menghasilkan musik yang terasa lebih baik.
+
+764
+00:45:05,770 --> 00:45:07,320
+Bagaimana aku bisa melakukannya?
+
+765
+00:45:07,320 --> 00:45:09,100
+Latihan dan latihan lagi.
+
+766
+00:45:09,580 --> 00:45:12,010
+Ulangi hal yang sama berulang-ulang.
+
+767
+00:45:12,010 --> 00:45:15,610
+Terus sampai kau puas dengan hal itu.
+
+768
+00:45:15,610 --> 00:45:17,050
+Itu satu-satunya cara.
+
+769
+00:45:46,920 --> 00:45:48,790
+Tentu, serahkan padaku.
+
+770
+00:45:48,790 --> 00:45:50,700
+Aku hanya perlu memperbaikinya lagi, kan?
+
+771
+00:45:50,700 --> 00:45:52,990
+Ya. Terima kasih.
+
+772
+00:45:52,990 --> 00:45:56,210
+Maaf karena meminta terlalu banyak.
+
+773
+00:45:56,210 --> 00:45:57,720
+Jangan dipikirkan.
+
+774
+00:45:58,230 --> 00:46:00,180
+Kita kan pren.
+
+775
+00:46:04,700 --> 00:46:06,610
+Sudah mulai gelap.
+
+776
+00:46:06,610 --> 00:46:07,680
+Kita sudah dulu.
+
+777
+00:46:08,710 --> 00:46:11,750
+Bagaimana kalau tinggal di sini sedikit lebih lama?
+
+778
+00:46:11,750 --> 00:46:13,670
+Kita bisa melihat bintang-bintang bersama.
+
+779
+00:46:13,670 --> 00:46:14,520
+Bintang-bintang?
+
+780
+00:46:17,490 --> 00:46:19,020
+Jadi kau suka bintang?
+
+781
+00:46:19,700 --> 00:46:20,380
+Yah.
+
+782
+00:46:21,730 --> 00:46:24,900
+Setiap kali itu terjadi kepadaku betapa besar alam semesta itu,
+
+783
+00:46:24,900 --> 00:46:29,020
+itu akan selalu membuatku benar-benar tenang, semenjak aku masih kecil.
+
+784
+00:46:29,780 --> 00:46:33,090
+Empat belas tahun telah berlalu, tapi tidak ada yang berubah.
+
+785
+00:46:33,090 --> 00:46:34,590
+Kurasa aku senang tentang itu.
+
+786
+00:46:35,350 --> 00:46:40,290
+Itu membuatku merasa seperti aku dapat berhenti khawatir tentang diriku sendiri dan benar-benar tenang.
+
+787
+00:46:42,390 --> 00:46:44,300
+Sulit untuk menjelaskannya.
+
+788
+00:46:44,300 --> 00:46:47,050
+Perasaanmu datang.
+
+789
+00:46:47,050 --> 00:46:49,050
+Bukannya mencari perubahan,
+
+790
+00:46:49,050 --> 00:46:52,020
+kau suka kekosongan, kekejaman jurang dunia.
+
+791
+00:46:52,560 --> 00:46:53,620
+Ini sepertimu.
+
+792
+00:46:54,630 --> 00:46:57,270
+Berbaring di sini bersama, bagus bukan?
+
+793
+00:46:58,260 --> 00:47:00,770
+Aku tidak tahu itu akan terasa begitu enak.
+
+794
+00:47:01,580 --> 00:47:04,090
+Terima kasih atas sarannya.
+
+795
+00:47:04,090 --> 00:47:06,280
+Oh, bukan masalah...
+
+796
+00:47:06,280 --> 00:47:11,490
+Aku hanya berpikir itu akan menyenangkan untuk melihat bintang-bintang denganmu-
+
+797
+00:47:12,690 --> 00:47:13,810
+Ini menyenangkan.
+
+798
+00:47:15,470 --> 00:47:18,560
+Aku benar-benar lahir untuk bertemu denganmu.
+
+799
+00:47:35,100 --> 00:47:37,970
+Baju ini agak besar.
+
+800
+00:47:39,070 --> 00:47:39,720
+Huh?
+
+801
+00:47:39,720 --> 00:47:40,720
+Suzuhara
+
+802
+00:47:39,720 --> 00:47:40,720
+Touji
+
+803
+00:47:40,720 --> 00:47:42,560
+Touji
+
+804
+00:47:40,720 --> 00:47:42,560
+Suzuhara
+
+805
+00:47:45,680 --> 00:47:48,130
+Ini, harusnya sudah baik sekarang.
+
+806
+00:47:49,000 --> 00:47:49,850
+Makasih.
+
+807
+00:47:50,450 --> 00:47:52,310
+Kau hebat, Nagisa-kun.
+
+808
+00:47:52,310 --> 00:47:54,080
+Tidak ada yang tidak bisa kau lakukan.
+
+809
+00:47:54,080 --> 00:47:56,290
+Pengetahuan adalah segalanya.
+
+810
+00:47:56,290 --> 00:47:59,430
+Itu hanya karena aku sudah berada di dunia ini sedikit lebih lama darimu.
+
+811
+00:48:00,180 --> 00:48:02,680
+Tapi kau memang hebat.
+
+812
+00:48:04,300 --> 00:48:06,260
+Kau tampak murung.
+
+813
+00:48:06,260 --> 00:48:07,620
+Apa terjadi sesuatu?
+
+814
+00:48:11,430 --> 00:48:14,180
+Aku mengkhawatirkan teman-temanku.
+
+815
+00:48:15,150 --> 00:48:15,880
+Teman-temanmu?
+
+816
+00:48:16,430 --> 00:48:17,220
+Yah.
+
+817
+00:48:18,120 --> 00:48:21,040
+Ada kota di atas Markas NERV.
+
+818
+00:48:21,040 --> 00:48:22,850
+Kita semua dulu tinggal di sana.
+
+819
+00:48:22,850 --> 00:48:26,380
+Touji, Kensuke, ketua kelas, dan teman sekelas kita yang lain.
+
+820
+00:48:27,040 --> 00:48:30,940
+Rupanya, aku tidur di Unit 01 selama empat belas tahun.
+
+821
+00:48:31,660 --> 00:48:35,390
+Begitu banyak yang telah berubah sejak saat itu.
+
+822
+00:48:35,390 --> 00:48:39,220
+Kau menderita karena tidak tahan dengan perbahan itu.
+
+823
+00:48:40,110 --> 00:48:41,840
+Aku takut.
+
+824
+00:48:42,940 --> 00:48:47,640
+Aku tidak tahu... apa yang terjadi dengan kota dan semua orang.
+
+825
+00:48:48,420 --> 00:48:50,570
+Tidak ada yang masuk akal, dan aku takut.
+
+826
+00:48:50,570 --> 00:48:52,350
+Benar! Aku takut!
+
+827
+00:49:00,830 --> 00:49:02,060
+Apa kau ingin tahu?
+
+828
+00:49:30,310 --> 00:49:31,620
+Nagisa-kun?
+
+829
+00:49:31,620 --> 00:49:32,890
+Nagisa-kun!
+
+830
+00:49:47,960 --> 00:49:48,850
+Ayo.
+
+831
+00:49:48,850 --> 00:49:50,370
+Nah, sebentar lagi.
+
+832
+00:50:07,840 --> 00:50:09,770
+Awan akan segera menghilang,
+
+833
+00:50:10,450 --> 00:50:12,670
+dan kau akan melihat kebenaran yang ingin kau ketahui.
+
+834
+00:50:20,970 --> 00:50:22,060
+Apa itu
+
+835
+00:50:28,180 --> 00:50:33,930
+Hasil dari Third Impact, yang terjadi saat kau bergabung dengan Unit 01.
+
+836
+00:50:36,810 --> 00:50:40,560
+Lalu apa yang terjadi dengan semua orang di kota?
+
+837
+00:50:41,110 --> 00:50:44,270
+Kepunahan massal tidak biasa di planet ini.
+
+838
+00:50:44,750 --> 00:50:47,810
+Bahkan, ini membantu untuk mendorong evolusi.
+
+839
+00:50:47,810 --> 00:50:54,040
+Hidup selalu mengubah dirinya untuk beradaptasi dengan dunia di sekitarnya.
+
+840
+00:50:54,040 --> 00:50:59,590
+Namun, Lilin mengubah dunia bukan dirinya.
+
+841
+00:50:54,040 --> 00:50:59,590
+Lilin adalah istilah Angel Kaworu Nagisa digunakan untuk merujuk kepada kemanusiaan - atau, lebih khusus, spesies Homo sapiens.
+
+842
+00:51:00,200 --> 00:51:05,600
+Dan ia melakukan ritual berevolusi dirinya secara buatan.
+
+843
+00:51:06,520 --> 00:51:13,060
+Dengan mengorbankan kehidupan tua untuk menciptakan bentuk kehidupan baru yang diberkati dengan Buah Kehidupan.
+
+844
+00:51:14,400 --> 00:51:19,060
+Semua ini merupakan tindakan kepunahan yang telah diprogram sejak dahulu kala.
+
+845
+00:51:19,060 --> 00:51:22,850
+NERV menyebutnya Proyek Instrumentalitas Manusia.
+
+846
+00:51:23,930 --> 00:51:26,870
+NERV melakukan ini?
+
+847
+00:51:29,130 --> 00:51:31,130
+Apa yang Ayah lakukan?
+
+848
+00:51:33,850 --> 00:51:35,090
+Ikari Shinji-kun.
+
+849
+00:51:35,810 --> 00:51:40,610
+Guf = Pohon Jiwa, Bahasa Yahudi
+
+850
+00:51:35,810 --> 00:51:40,610
+EVA Unit 01 bangkit dan membuka Pintu Guf,
+
+851
+00:51:40,610 --> 00:51:43,270
+bertindak sebagai pemicu Third Impact.
+
+852
+00:51:44,140 --> 00:51:46,720
+Lilin menyebut itu Menjelang Third Impact.
+
+853
+00:51:48,050 --> 00:51:50,700
+Kaudalah penyebab semua ini.
+
+854
+00:51:54,490 --> 00:51:55,770
+Tidak...
+
+855
+00:51:56,440 --> 00:52:00,500
+Aku hanya ingin menyelamatkan Ayanami!
+
+856
+00:52:02,020 --> 00:52:03,720
+Mungkin.
+
+857
+00:52:03,720 --> 00:52:05,950
+Tapi itu masih penyebabnya.
+
+858
+00:52:06,930 --> 00:52:08,340
+Tidak...
+
+859
+00:52:10,980 --> 00:52:13,120
+Ini tidak benar!
+
+860
+00:52:13,120 --> 00:52:16,540
+Ini terlalu banyak bagiku untuk diterima! Tidak ada yang bisa aku lakukan!
+
+861
+00:52:16,540 --> 00:52:17,720
+Itu benar.
+
+862
+00:52:17,720 --> 00:52:20,190
+Tidak ada yang dapat kau lakukan dengan masa lalumu.
+
+863
+00:52:20,900 --> 00:52:23,280
+Ini adalah kebenaran yang ingin kau ketahui.
+
+864
+00:52:24,260 --> 00:52:28,600
+Akibatnya, Lilin menghukummu atas dosa-dosamu.
+
+865
+00:52:29,270 --> 00:52:32,460
+Bukankah itu benda yang di lehermu?
+
+866
+00:52:33,570 --> 00:52:35,360
+Dosaku?
+
+867
+00:52:36,330 --> 00:52:37,970
+Aku tidak melakukan apa-apa!
+
+868
+00:52:37,970 --> 00:52:39,560
+Aku tidak ada hubungannya dengan itu!
+
+869
+00:52:40,090 --> 00:52:42,600
+Kau boleh menyangkalnya, tapi manusia berpikir sebaliknya.
+
+870
+00:52:44,140 --> 00:52:47,290
+Namun, tidak ada dosa yang tidak terampuni.
+
+871
+00:52:48,180 --> 00:52:50,390
+Selalu ada harapan.
+
+872
+00:52:50,390 --> 00:52:51,630
+Tidak peduli situasinya.
+
+873
+00:53:08,970 --> 00:53:12,670
+Anak SEELE telah menghubungi Anak Ketiga.
+
+874
+00:53:12,670 --> 00:53:14,720
+Rupanya ia menunjukkan kepadanya dunia luar.
+
+875
+00:53:15,430 --> 00:53:18,010
+Aku ingin tau bagaimana ia akan mengatasinya.
+
+876
+00:53:19,100 --> 00:53:20,560
+Apakah kau yakin tentang ini, Ikari?
+
+877
+00:53:21,110 --> 00:53:24,730
+Kita akan menulis ulang skenario SEELE.
+
+878
+00:53:24,730 --> 00:53:27,970
+Segala sesuatu yang ada hanyalah alat untuk tujuan itu.
+
+879
+00:53:27,970 --> 00:53:32,850
+Jadi kau mengatakan kalau anakmu tidak akan mendapat manfaat dari melihat bagaimana kau hidup?
+
+880
+00:53:34,300 --> 00:53:36,350
+Aku harus tidak setuju.
+
+881
+00:53:39,060 --> 00:53:40,560
+Aku tak mengerti.
+
+882
+00:53:42,300 --> 00:53:44,350
+Mengapa semuanya jadi kacau?
+
+883
+00:53:48,430 --> 00:53:49,490
+Oh, iyah.
+
+884
+00:53:50,450 --> 00:53:52,430
+Aku berhasil menyelamatkan Ayanami.
+
+885
+00:53:53,320 --> 00:53:54,680
+Bukankah itu cukup baik?
+
+886
+00:54:12,970 --> 00:54:16,680
+AYANAMI
+
+887
+00:54:18,170 --> 00:54:19,580
+Dia pergi lagi.
+
+888
+00:54:20,350 --> 00:54:22,100
+Dia masih belum menyentuh bukunya.
+
+889
+00:54:24,070 --> 00:54:25,470
+Aku tidak mengerti!
+
+890
+00:54:26,140 --> 00:54:29,130
+Apa yang terjadi dengan Ayanami?
+
+891
+00:54:38,240 --> 00:54:39,790
+Anak ketiga.
+
+892
+00:54:39,790 --> 00:54:41,630
+Apa kau bermain shogi?
+
+893
+00:54:42,360 --> 00:54:45,410
+Yah, aku hanya tahu aturan.
+
+894
+00:54:45,410 --> 00:54:46,770
+Sudah cukup.
+
+895
+00:54:46,770 --> 00:54:48,460
+Mari kita main.
+
+896
+00:54:48,460 --> 00:54:50,300
+Aku akan mulai tanpa aku benteng, uskup, dan jenderal emas.
+
+897
+00:54:58,360 --> 00:55:00,890
+Tenangkan pikiranmu.
+
+898
+00:55:01,510 --> 00:55:04,010
+Sangatlah penting untuk memenangkan pertempuran.
+
+899
+00:55:05,260 --> 00:55:08,610
+Kau kalah di tiga puluh satu gerakan.
+
+900
+00:55:17,280 --> 00:55:18,850
+Mungkin kau akan menikmati ini lagi.
+
+901
+00:55:21,160 --> 00:55:25,050
+Terima kasih untuk menemani seorang pria tua dengan hobinya.
+
+902
+00:55:28,820 --> 00:55:30,600
+Kau lihat, aku agak penakut, juga.
+
+903
+00:55:30,600 --> 00:55:35,180
+Aku butuh alasan ini untuk mendapatkan kesempatan untuk berbicara denganmu.
+
+904
+00:55:36,430 --> 00:55:38,870
+Apakah kau ingat ibumu?
+
+905
+00:55:39,970 --> 00:55:41,750
+Tidak.
+
+906
+00:55:41,750 --> 00:55:43,680
+Aku masih sangat muda.
+
+907
+00:55:43,680 --> 00:55:48,460
+Dan Ayah menyingkirkan semua barang miliknya.
+
+908
+00:55:53,170 --> 00:55:54,180
+Apa ini...
+
+909
+00:55:56,230 --> 00:55:57,220
+...Ayanami?
+
+910
+00:55:57,220 --> 00:55:59,840
+Dia ibumu.
+
+911
+00:55:59,840 --> 00:56:02,330
+Nama gadisnya adalah Ayanami Yui.
+
+912
+00:56:02,330 --> 00:56:04,600
+Dia adalah muridku di universitas.
+
+913
+00:56:05,830 --> 00:56:09,770
+Sekarang dia sistem kontrol unit EVA 01.
+
+914
+00:56:13,210 --> 00:56:16,690
+Oh, dayanya akhirnya kembali.
+
+915
+00:56:19,240 --> 00:56:22,040
+Itu adalah prototipe awal dari sistem kontrol EVA.
+
+916
+00:56:22,910 --> 00:56:27,620
+Ini adalah di mana Yui-kun mengusulkan gagasan langsung masuk ke inti
+
+917
+00:56:27,620 --> 00:56:30,020
+dan diuji dengan dirinya sebagai subjek tes.
+
+918
+00:56:30,970 --> 00:56:34,600
+Kau melihatnya juga, meskipun ingatanmu telah terhapus.
+
+919
+00:56:41,080 --> 00:56:44,650
+Pada akhirnya, Yui-kun lenyap di sini,
+
+920
+00:56:44,650 --> 00:56:48,060
+dan hanya datanya yang tertinggal untuk seri Ayanami.
+
+921
+00:56:48,530 --> 00:56:54,010
+Ayanami Rei yang kau tahu adalah salah satu klon Yui-kun.
+
+922
+00:56:54,010 --> 00:56:59,320
+Dia sedang diawetkan dalam unit 01, seperti ibumu.
+
+923
+00:56:59,320 --> 00:57:01,390
+Itu semua bagian dari rencana Ikari.
+
+924
+00:57:02,650 --> 00:57:04,270
+Tidak mungkin...
+
+925
+00:57:05,770 --> 00:57:08,930
+Menghancurkan dunia hanya terlalu mudah.
+
+926
+00:57:09,690 --> 00:57:13,730
+Namun, membangun kembali tidak begitu sederhana.
+
+927
+00:57:13,730 --> 00:57:17,310
+Dunia tidak memiliki reversibilitas, seperti waktu.
+
+928
+00:57:18,390 --> 00:57:20,020
+Begitu juga dengan hati orang.
+
+929
+00:57:20,020 --> 00:57:26,220
+Itulah sebabnya Ikari mengorbankan segala yang ia punya agar keinginannya dapat diwujudkan.
+
+930
+00:57:26,220 --> 00:57:28,430
+Termasuk jiwanya sendiri.
+
+931
+00:57:29,710 --> 00:57:32,770
+Aku hanya ingin memberitahumu sedikit kebenaran
+
+932
+00:57:32,770 --> 00:57:34,720
+dan tentang ayahmu.
+
+933
+00:57:46,670 --> 00:57:49,210
+Ini adalah peran menyedihkan yang aku mainkan.
+
+934
+00:57:50,310 --> 00:57:50,890
+Yui-kun.
+
+935
+00:57:52,430 --> 00:57:53,650
+Aku berharap ini akan cukup.
+
+936
+00:58:00,640 --> 00:58:03,140
+Waktu kontrak terakhir ada di kita.
+
+937
+00:58:05,180 --> 00:58:08,640
+Kita akan segera bertemu lagi, Yui.
+
+938
+00:58:16,880 --> 00:58:19,810
+Kenapa kau tidak membaca bukunya?
+
+939
+00:58:21,010 --> 00:58:23,060
+Karena aku tidak diperintahkan begitu.
+
+940
+00:58:23,060 --> 00:58:24,250
+Kau tidak diperintah, ya?
+
+941
+00:58:26,170 --> 00:58:27,920
+Kalau begitu jangan repot-tepot!
+
+942
+00:58:30,470 --> 00:58:31,720
+Hey.
+
+943
+00:58:32,250 --> 00:58:34,050
+Kau Ayanami, kan?
+
+944
+00:58:34,050 --> 00:58:37,190
+Ya. Aku Ayanami Rei.
+
+945
+00:58:37,190 --> 00:58:39,470
+Terus aku menyelamatkanmu saat itu, bukan?
+
+946
+00:58:40,660 --> 00:58:41,470
+Aku tidak tahu.
+
+947
+00:58:50,420 --> 00:58:51,380
+Ikari-kun?
+
+948
+00:58:57,150 --> 00:59:02,850
+Aku tidak benar-benar menyelamatkan Ayanami.
+
+949
+00:59:03,340 --> 00:59:04,400
+Kau tidak akan melakukan apapun.
+
+950
+00:59:03,460 --> 00:59:04,500
+Kau tidak akan melakukan apapun.
+
+951
+00:59:03,560 --> 00:59:06,510
+Dasar bodoh. Aku benci kau.
+
+952
+00:59:04,070 --> 00:59:05,270
+Kau tidak akan melakukan apapun.
+
+953
+00:59:04,400 --> 00:59:05,270
+Kau tidak akan melakukan apapun.
+
+954
+00:59:04,500 --> 00:59:05,130
+Kau tidak akan melakukan apapun.
+
+955
+00:59:04,500 --> 00:59:05,550
+Menjauh dariku.
+
+956
+00:59:05,130 --> 00:59:05,910
+Kau tidak akan melakukan apapun.
+
+957
+00:59:05,270 --> 00:59:06,030
+Kau tidak akan melakukan apapun.
+
+958
+00:59:05,350 --> 00:59:08,210
+Sejujurnya, aku tidak hanya tidak menyukaimu.
+
+959
+00:59:05,550 --> 00:59:08,210
+Aku berharap kau tidak ada.
+
+960
+00:59:05,910 --> 00:59:06,890
+Kau tidak akan melakukan apapun.
+
+961
+00:59:06,030 --> 00:59:06,840
+Kau tidak akan melakukan apapun.
+
+962
+00:59:06,510 --> 00:59:08,800
+Tidak mungkin aku akan jatuh padamu.
+
+963
+00:59:06,840 --> 00:59:07,560
+Berfikirlah dengan baik.
+
+964
+00:59:06,890 --> 00:59:07,570
+Aku tidak tau.
+
+965
+00:59:07,310 --> 00:59:08,600
+Ayah...
+
+966
+00:59:07,570 --> 00:59:08,690
+Ini bukan urusanmu.
+
+967
+00:59:08,210 --> 00:59:10,150
+Aku sangat membenci orang sepertimu.
+
+968
+00:59:08,390 --> 00:59:09,530
+Pergi sana.
+
+969
+00:59:08,690 --> 00:59:09,470
+Ini bukan urusanmu.
+
+970
+00:59:08,800 --> 00:59:10,130
+Ini bukan urusanmu.
+
+971
+00:59:09,470 --> 00:59:10,330
+Piloti Eva itu
+
+972
+00:59:09,530 --> 00:59:10,530
+Piloti Eva itu
+
+973
+00:59:10,130 --> 00:59:11,650
+Ini bukan urusanmu.
+
+974
+00:59:10,150 --> 00:59:11,650
+Ini bukan urusanmu.
+
+975
+00:59:10,530 --> 00:59:11,650
+Piloti Eva itu
+
+976
+00:59:10,720 --> 00:59:11,730
+Piloti Eva itu
+
+977
+00:59:11,650 --> 00:59:12,950
+Piloti Eva itu
+
+978
+00:59:11,730 --> 00:59:12,850
+Piloti Eva itu
+
+979
+00:59:12,850 --> 00:59:14,880
+Tolong jangan piloti Eva!
+
+980
+00:59:12,950 --> 00:59:14,910
+Tolong jangan piloti Eva!
+
+981
+00:59:12,950 --> 00:59:15,140
+Tolong jangan piloti Eva!
+
+982
+00:59:14,880 --> 00:59:16,350
+Tolong jangan piloti Eva!
+
+983
+00:59:14,910 --> 00:59:16,500
+Tolong jangan piloti Eva!
+
+984
+00:59:14,910 --> 00:59:16,430
+Tolong jangan piloti Eva!
+
+985
+00:59:15,140 --> 00:59:16,430
+Kau tidak akan melakukan apapun.
+
+986
+00:59:15,140 --> 00:59:15,990
+Kau tidak akan melakukan apapun.
+
+987
+00:59:15,770 --> 00:59:17,040
+Ibu...
+
+988
+00:59:15,990 --> 00:59:17,740
+Kau tidak akan melakukan apapun.
+
+989
+00:59:16,370 --> 00:59:18,240
+Tolong jangan piloti Eva!
+
+990
+00:59:16,430 --> 00:59:18,320
+Tolong jangan piloti Eva!
+
+991
+00:59:16,500 --> 00:59:18,320
+Tolong jangan piloti Eva!
+
+992
+00:59:16,750 --> 00:59:18,320
+Kau tidak akan melakukan apapun.
+
+993
+00:59:18,240 --> 00:59:19,290
+Ini bukan urusanmu.
+
+994
+00:59:18,320 --> 00:59:20,300
+Ini bukan urusanmu.
+
+995
+00:59:18,320 --> 00:59:20,310
+Ini bukan urusanmu.
+
+996
+00:59:19,020 --> 00:59:20,310
+Piloti Eva itu
+
+997
+00:59:19,180 --> 00:59:20,310
+Piloti Eva itu
+
+998
+00:59:19,290 --> 00:59:20,390
+Piloti Eva itu
+
+999
+00:59:20,310 --> 00:59:22,880
+Keberadaanmu tidak berarti apa-apa bagiku.
+
+1000
+00:59:20,310 --> 00:59:21,620
+Piloti Eva itu
+
+1001
+00:59:20,390 --> 00:59:21,050
+Piloti Eva itu
+
+1002
+00:59:20,820 --> 00:59:22,880
+Ini bukan urusanmu.
+
+1003
+00:59:21,190 --> 00:59:22,210
+Ini bukan urusanmu.
+
+1004
+00:59:21,620 --> 00:59:22,880
+Piloti Eva itu
+
+1005
+00:59:22,210 --> 00:59:22,870
+Aku tidak tau.
+
+1006
+00:59:22,870 --> 00:59:24,820
+Tolong jangan piloti Eva!
+
+1007
+00:59:22,880 --> 00:59:23,850
+Aku tidak tau.
+
+1008
+00:59:22,880 --> 00:59:25,750
+Menghilang saja.
+
+1009
+00:59:22,880 --> 00:59:24,930
+Tolong jangan piloti Eva!
+
+1010
+00:59:23,850 --> 00:59:24,580
+Aku tidak tau.
+
+1011
+00:59:24,580 --> 00:59:27,140
+Tolong jangan piloti Eva!
+
+1012
+00:59:24,930 --> 00:59:26,810
+Kau akan membebaniku sebagai teman.
+
+1013
+00:59:24,930 --> 00:59:26,810
+Tolong jangan piloti Eva!
+
+1014
+00:59:25,230 --> 00:59:26,790
+Misato-san...
+
+1015
+00:59:26,810 --> 00:59:27,390
+Aku tidak tau.
+
+1016
+00:59:26,810 --> 00:59:27,890
+Aku tidak tau.
+
+1017
+00:59:27,140 --> 00:59:29,020
+Sejujurnya, aku tidak hanya tidak menyukaimu.
+
+1018
+00:59:27,390 --> 00:59:28,420
+Kau tidak akan melakukan apapun.
+
+1019
+00:59:27,890 --> 00:59:29,710
+Piloti Eva itu
+
+1020
+00:59:28,320 --> 00:59:30,150
+Ini bukan urusanmu.
+
+1021
+00:59:28,470 --> 00:59:30,150
+Ini bukan urusanmu.
+
+1022
+00:59:29,020 --> 00:59:31,110
+Aku sangat membenci orang sepertimu.
+
+1023
+00:59:29,870 --> 00:59:31,190
+Tolong jangan piloti Eva!
+
+1024
+00:59:30,150 --> 00:59:30,970
+Aku tidak tau.
+
+1025
+00:59:30,970 --> 00:59:32,280
+Kau tidak akan melakukan apapun.
+
+1026
+00:59:31,110 --> 00:59:32,280
+Kau tidak akan melakukan apapun.
+
+1027
+00:59:31,690 --> 00:59:32,370
+Piloti Eva itu
+
+1028
+00:59:32,280 --> 00:59:33,930
+Ini bukan urusanmu.
+
+1029
+00:59:32,370 --> 00:59:33,530
+Ini bukan urusanmu.
+
+1030
+00:59:32,530 --> 00:59:33,490
+Da dah!
+
+1031
+00:59:32,580 --> 00:59:33,250
+Da dah!
+
+1032
+00:59:33,250 --> 00:59:33,930
+Kau tidak akan melakukan apapun.
+
+1033
+00:59:33,490 --> 00:59:34,330
+Kau tidak akan melakukan apapun.
+
+1034
+00:59:33,530 --> 00:59:34,200
+Kau tidak akan melakukan apapun.
+
+1035
+00:59:33,930 --> 00:59:35,490
+Tolong jangan piloti Eva!
+
+1036
+00:59:34,000 --> 00:59:34,880
+Aku tidak tau.
+
+1037
+00:59:34,200 --> 00:59:35,110
+Aku tidak tau.
+
+1038
+00:59:34,330 --> 00:59:34,880
+Aku tidak tau.
+
+1039
+00:59:34,880 --> 00:59:35,490
+Piloti Eva itu
+
+1040
+00:59:35,050 --> 00:59:37,140
+Ini bukan urusanmu.
+
+1041
+00:59:35,110 --> 00:59:36,960
+Tolong jangan piloti Eva!
+
+1042
+00:59:35,490 --> 00:59:37,140
+Ini bukan urusanmu.
+
+1043
+00:59:35,700 --> 00:59:37,140
+Kau tidak akan melakukan apapun.
+
+1044
+00:59:36,250 --> 00:59:37,140
+Aku tidak tau.
+
+1045
+00:59:36,960 --> 00:59:38,050
+Piloti Eva itu
+
+1046
+00:59:37,140 --> 00:59:38,750
+Piloti Eva itu
+
+1047
+00:59:37,520 --> 00:59:39,820
+Tolong jangan piloti Eva!
+
+1048
+00:59:37,530 --> 00:59:39,820
+Tolong jangan piloti Eva!
+
+1049
+00:59:38,050 --> 00:59:38,750
+Kau tidak akan melakukan apapun.
+
+1050
+00:59:38,750 --> 00:59:39,820
+Ini bukan urusanmu.
+
+1051
+00:59:39,820 --> 00:59:40,890
+Kau tidak akan melakukan apapun.
+
+1052
+00:59:40,890 --> 00:59:42,480
+Ini bukan urusanmu.
+
+1053
+00:59:42,480 --> 00:59:44,240
+Tolong jangan piloti Eva!
+
+1054
+00:59:44,670 --> 00:59:45,480
+Aku tidak tau.
+
+1055
+00:59:45,480 --> 00:59:46,720
+Piloti Eva itu
+
+1056
+00:59:53,790 --> 00:59:55,690
+Apa yang sedang kulakukan?
+
+1057
+01:00:31,860 --> 01:00:35,590
+Eksekutor akhir selesai pada akhirnya.
+
+1058
+01:00:35,590 --> 01:00:36,800
+Ya.
+
+1059
+01:00:36,800 --> 01:00:39,050
+Semua alat telah dikumpulkan.
+
+1060
+01:00:42,320 --> 01:00:44,810
+Waktunya telah tiba.
+
+1061
+01:00:44,810 --> 01:00:47,460
+Ini dia, Ikari Shinji-kun.
+
+1062
+01:00:48,310 --> 01:00:49,060
+Tidak!
+
+1063
+01:00:50,630 --> 01:00:53,180
+Aku tak mau lagi mempiloti EVA!
+
+1064
+01:00:53,180 --> 01:00:55,540
+Aku tidak bisa menyelamatkan Ayanami.
+
+1065
+01:00:55,540 --> 01:00:58,380
+Tidak ada yang baik yang pernah keluar dari mempiloti EVA!
+
+1066
+01:00:58,380 --> 01:00:59,470
+Aku sudah cukup!
+
+1067
+01:00:59,470 --> 01:01:00,770
+Aku tidak ingin melakukan apa pun!
+
+1068
+01:01:01,650 --> 01:01:08,220
+Dan juga tidak ada yang baik datang dari mengulang kenangan menyakitkanmu.
+
+1069
+01:01:09,690 --> 01:01:11,470
+Tidak ada yang pernah baik!
+
+1070
+01:01:11,970 --> 01:01:14,100
+Kau menunjukkannya kepadaku olehmu sendiri!
+
+1071
+01:01:14,870 --> 01:01:17,870
+Bahwa dunia darah merah tidak bisa diselamatkan...
+
+1072
+01:01:17,870 --> 01:01:19,730
+EVA yang mengubah itu,
+
+1073
+01:01:19,730 --> 01:01:21,890
+jadi gunakan saja EVA untuk mengubahnya kembali.
+
+1074
+01:01:21,890 --> 01:01:27,310
+Kata-kata yang bagus, tapi aku masih tidak bisa percaya EVA, Ayah, Misato-san, siapa saja atau apa saja!
+
+1075
+01:01:28,570 --> 01:01:31,140
+Namun, aku ingin kau percaya padaku.
+
+1076
+01:01:31,140 --> 01:01:32,520
+Aku tidak bisa!
+
+1077
+01:01:34,610 --> 01:01:38,850
+Misato-san beserta krunya menempatkan benda ini padaku.
+
+1078
+01:01:38,850 --> 01:01:41,430
+Mereka mengatakan kepadaku untuk tidak lagi mempiloti EVA.
+
+1079
+01:01:41,430 --> 01:01:43,600
+Mereka mengancam akan membunuhku jika aku lakukan.
+
+1080
+01:01:47,700 --> 01:01:50,770
+Aku tidak peduli lagi tentang EVA.
+
+1081
+01:01:54,060 --> 01:01:54,930
+Aku mengerti.
+
+1082
+01:01:55,910 --> 01:02:00,750
+Aku akan memikul beban kutukan Lilin dan resiko kebangkitan EVA.
+
+1083
+01:02:07,080 --> 01:02:08,600
+Nagisa-kun...
+
+1084
+01:02:09,400 --> 01:02:11,530
+Tidak perlu khawatir.
+
+1085
+01:02:11,530 --> 01:02:15,280
+Lilin membuat ini karena takut dariku dari awal.
+
+1086
+01:02:15,280 --> 01:02:17,950
+Aku akan mengambilnya darimu pada akhirnya.
+
+1087
+01:02:20,570 --> 01:02:21,680
+Ikari Shinji-kun.
+
+1088
+01:02:22,520 --> 01:02:26,670
+Dogma adalah kepercayaan atau doktrin yang dipegang oleh sebuah agama atau organisasi yang sejenis untuk bisa lebih otoritatif.
+
+1089
+01:02:22,520 --> 01:02:26,670
+Satu-satunya harapanmu terletak pada dua tombak yang tersisa di pusat Serangan pada Dogma.
+
+1090
+01:02:26,670 --> 01:02:29,500
+Mereka adalah kunci untuk Proyek Instrumentalitas.
+
+1091
+01:02:30,300 --> 01:02:32,820
+Kita harus mengambil tombak untuk itu diri kita sendiri.
+
+1092
+01:02:33,370 --> 01:02:38,000
+Dengan begitu, NERV tidak bisa lagi memicu Fourth Impact,
+
+1093
+01:02:38,000 --> 01:02:42,670
+dan jika kita menggunakannya bersama-sama dengan Unit 13, kita bahkan dapat memperbaiki dunia.
+
+1094
+01:02:44,170 --> 01:02:45,600
+Benar juga.
+
+1095
+01:02:47,050 --> 01:02:50,420
+Ya, aku yakin kau bisa melakukannya.
+
+1096
+01:02:50,880 --> 01:02:52,890
+Kitasa melakukannya, maksudmu.
+
+1097
+01:02:53,510 --> 01:02:57,690
+EVA Unit 13 menggunakan sistem berpasangan.
+
+1098
+01:02:57,690 --> 01:03:00,610
+Mari kita menjadi harapan Lilin bersama-sama.
+
+1099
+01:03:00,610 --> 01:03:04,930
+Apa yang paling kau butuhkan sekarang dari semua hanyalah harapan,
+
+1100
+01:03:04,930 --> 01:03:08,350
+serta penebusan dan ketenangan.
+
+1101
+01:03:10,470 --> 01:03:13,180
+Kau hebat.
+
+1102
+01:03:13,180 --> 01:03:15,140
+Kau tahu segalanya.
+
+1103
+01:03:15,140 --> 01:03:18,310
+Hanya karena aku selalu memikirkanmu.
+
+1104
+01:03:21,150 --> 01:03:23,470
+Terima kasih, Nagisa-kun.
+
+1105
+01:03:23,970 --> 01:03:25,680
+Panggil saja aku Kaworu.
+
+1106
+01:03:27,130 --> 01:03:28,160
+Yah, uh...
+
+1107
+01:03:29,020 --> 01:03:31,020
+Kau bisa memanggilku Shinji, kalau begitu.
+
+1108
+01:03:34,490 --> 01:03:36,570
+Ini sama saja dengan bermain piano.
+
+1109
+01:03:36,570 --> 01:03:40,000
+Hal-hal baik akan terjadi jika kita tetap bersama, Shinji-kun.
+
+1110
+01:03:40,440 --> 01:03:41,300
+Yah.
+
+1111
+01:03:42,500 --> 01:03:44,970
+Ayo, Kaworu-kun.
+
+1112
+01:04:24,190 --> 01:04:26,020
+Evangelion Unit 13.
+
+1113
+01:04:26,020 --> 01:04:26,760
+Diaktifkan!
+
+1114
+01:04:28,740 --> 01:04:29,540
+Sinyal terdeteksi!
+
+1115
+01:04:29,540 --> 01:04:31,860
+Aktivasi EVA baru dikonfirmasi!
+
+1116
+01:04:51,930 --> 01:04:53,960
+Kita tidak sendirian.
+
+1117
+01:04:53,960 --> 01:04:56,210
+Apa maksudmu Mk. 09?
+
+1118
+01:04:56,210 --> 01:04:58,000
+Itu di sini hanya untuk mendukung kita.
+
+1119
+01:04:58,000 --> 01:05:00,520
+Itu akan mengawasi untuk tanda-tanda aktivitas Wille.
+
+1120
+01:05:00,520 --> 01:05:02,970
+Kita berdua saja pasti sudah cukup.
+
+1121
+01:05:04,420 --> 01:05:05,930
+Lagipula dia bukan Ayanami.
+
+1122
+01:05:05,930 --> 01:05:08,200
+Aku bukan Ayanami?
+
+1123
+01:05:13,680 --> 01:05:14,720
+Dindingnya...
+
+1124
+01:05:14,720 --> 01:05:16,000
+Yah.
+
+1125
+01:05:16,000 --> 01:05:18,610
+Semuanya gagal menjadi ukuran tidak terbatas.
+
+1126
+01:05:23,020 --> 01:05:25,970
+Jangan khawatirkan mereka.
+
+1127
+01:05:28,000 --> 01:05:29,970
+Kita akan segera mencapai penghalang Lilith.
+
+1128
+01:05:28,000 --> 01:05:29,970
+Lilith ditetapkan sebagai Angel Kedua
+
+1129
+01:05:29,970 --> 01:05:33,110
+Poros utama benar-benar diblokir,
+
+1130
+01:05:33,110 --> 01:05:36,800
+mencegah orang dari kemasukan selama empat belas tahun terakhir.
+
+1131
+01:05:42,070 --> 01:05:44,630
+Itu seperti tutup besar saja.
+
+1132
+01:05:44,630 --> 01:05:46,250
+Jangan khawatir.
+
+1133
+01:05:46,250 --> 01:05:48,930
+Unit 13 dirancang untuk menerobos itu.
+
+1134
+01:05:48,930 --> 01:05:50,720
+Kita bisa melakukannya bersama-sama.
+
+1135
+01:05:51,520 --> 01:05:52,100
+Yah.
+
+1136
+01:06:01,150 --> 01:06:03,000
+Sesuaikan tempo kita.
+
+1137
+01:06:03,000 --> 01:06:05,560
+Pikirkan tentang duet piano kita.
+
+1138
+01:06:09,130 --> 01:06:10,550
+Ayo, Shinji-kun.
+
+1139
+01:06:33,140 --> 01:06:34,060
+Kita berhasil!
+
+1140
+01:06:51,610 --> 01:06:53,270
+Kita sampai.
+
+1141
+01:06:53,270 --> 01:06:55,630
+Tingkat paling bawah dari Pusat Dogma.
+
+1142
+01:06:59,660 --> 01:07:01,890
+Titik pusat Third Impact.
+
+1143
+01:07:06,960 --> 01:07:08,820
+Apakah itu Lilith?
+
+1144
+01:07:08,820 --> 01:07:10,560
+Itu dulunya
+
+1145
+01:07:10,560 --> 01:07:12,710
+Itu mayatnya sekarang.
+
+1146
+01:07:12,710 --> 01:07:13,930
+Misato-san...
+
+1147
+01:07:14,420 --> 01:07:16,720
+Kita mempertaruhkan hidup kita untuk melindungi itu...
+
+1148
+01:07:18,930 --> 01:07:20,730
+Hah? Apakah itu EVA?
+
+1149
+01:07:20,730 --> 01:07:23,720
+Ya. Itu EVA Mk. 06.
+
+1150
+01:07:23,720 --> 01:07:29,890
+Itulah jadinya, karena telah digunakan oleh Lilin dan dimodifikasi untuk menjadi otonom.
+
+1151
+01:07:34,240 --> 01:07:37,580
+Apakah benda-benda yang menusuk dirinya adalah yang kita cari?
+
+1152
+01:07:37,580 --> 01:07:38,860
+Ya.
+
+1153
+01:07:38,860 --> 01:07:41,130
+Longinus dan Cassius.
+
+1154
+01:07:41,130 --> 01:07:45,850
+Dua jiwa yang diperlukan untuk membawa kedua tombak kembali.
+
+1155
+01:07:45,850 --> 01:07:48,600
+Itulah sebabnya kita memiliki sistem berpasangan.
+
+1156
+01:07:48,600 --> 01:07:53,310
+Kalau begitu, tak bisakah kau pergi dengan pilot itu?
+
+1157
+01:07:53,310 --> 01:07:56,430
+Tidak. Replika Lilin tidak akan berguna.
+
+1158
+01:07:56,430 --> 01:07:58,920
+Jiwanya ada di tempat lain.
+
+1159
+01:07:59,410 --> 01:08:01,430
+Oke, kita lakukan ini.
+
+1160
+01:08:08,890 --> 01:08:10,670
+Tunggu.
+
+1161
+01:08:10,670 --> 01:08:12,320
+Ada yang salah.
+
+1162
+01:08:12,320 --> 01:08:13,950
+Apa yang terjadi, Kaworu-kun?
+
+1163
+01:08:16,350 --> 01:08:18,220
+Ini aneh.
+
+1164
+01:08:18,220 --> 01:08:21,610
+Kedua tombak telah berubah menjadi bentuk yang sama.
+
+1165
+01:08:21,610 --> 01:08:23,140
+Kita harus cepat dan tarik tombaknya.
+
+1166
+01:08:23,700 --> 01:08:25,340
+Ini satu-satunya alasan aku piloti EVA.
+
+1167
+01:08:29,750 --> 01:08:30,970
+Apa yang terjadi?!
+
+1168
+01:08:40,810 --> 01:08:41,430
+Unit 02?!
+
+1169
+01:08:42,360 --> 01:08:43,430
+Asuka!
+
+1170
+01:08:45,530 --> 01:08:47,640
+Apa yang kau lakukan, Asuka?!
+
+1171
+01:08:50,270 --> 01:08:51,470
+Shinji bodoh?
+
+1172
+01:08:51,470 --> 01:08:54,390
+Apa kau benar-benar mempiloti EVA?!
+
+1173
+01:08:54,390 --> 01:08:55,470
+Iyah.
+
+1174
+01:08:55,470 --> 01:08:58,090
+Aku akan piloti EVA dan mengubah dunia!
+
+1175
+01:08:59,250 --> 01:09:00,780
+Bocah sialan...
+
+1176
+01:09:00,780 --> 01:09:02,810
+Kalau begitu jangan piloti itu!
+
+1177
+01:09:10,250 --> 01:09:12,180
+Kau selalu terlambat dengan tembakan bantuanmu!
+
+1178
+01:09:12,180 --> 01:09:13,690
+Soz! Soz!
+
+1179
+01:09:14,400 --> 01:09:20,430
+Wadah Adam, aku setidaknya akan menghentikanmu di jalanmu.
+
+1180
+01:09:39,550 --> 01:09:41,760
+Mengapa kau menghalangi kita, Asuka?
+
+1181
+01:09:41,760 --> 01:09:45,140
+Mereka adalah tombak harapan kita!
+
+1182
+01:09:46,530 --> 01:09:49,850
+Dan kau seharusnya pikirkan urusanmu sendiri!
+
+1183
+01:09:49,850 --> 01:09:52,840
+Bocah Shinji, apa kau mencoba untuk menimbulkan Third Impact lagi?
+
+1184
+01:09:53,220 --> 01:09:54,290
+Tidak!
+
+1185
+01:09:54,290 --> 01:09:57,170
+Kita bisa menggunakan tombaknya untuk memperbaiki semuanya!
+
+1186
+01:09:57,870 --> 01:09:59,850
+Kita bisa menyelamatkan dunia!
+
+1187
+01:10:02,280 --> 01:10:03,640
+Kau memang benar-benar
+
+1188
+01:10:04,690 --> 01:10:06,280
+Kau tidak mengerti!
+
+1189
+01:10:16,310 --> 01:10:17,970
+Kau bantu juga, Kaworu-kun!
+
+1190
+01:10:19,930 --> 01:10:24,050
+Cassius dan Longinus. Kita membutuhkan kedua tombaknya.
+
+1191
+01:10:24,950 --> 01:10:28,550
+Tapi kedua tombak di sini sama.
+
+1192
+01:10:28,550 --> 01:10:29,670
+Kaworu-kun!
+
+1193
+01:10:29,980 --> 01:10:30,890
+Oh begitu!
+
+1194
+01:10:31,620 --> 01:10:35,310
+Aku mengerti sekarang, Lilin!
+
+1195
+01:10:40,520 --> 01:10:44,810
+Kau bisa mendengarku, pilot pengganti SEELE?
+
+1196
+01:10:45,570 --> 01:10:49,880
+Kau harus keluar dari sana sebelum kau berubah menjadi wadah Adam.
+
+1197
+01:10:49,880 --> 01:10:51,930
+Tidak, Itu bukan apa yang diperintahkan padaku.
+
+1198
+01:10:52,770 --> 01:10:54,930
+Seberapa kaku kau bisa menjadi?
+
+1199
+01:10:54,930 --> 01:10:57,970
+Dirimu yang asli lebih ramah, kau tahu.
+
+1200
+01:10:58,530 --> 01:10:59,590
+Diriku yang asli?
+
+1201
+01:11:00,370 --> 01:11:01,430
+Aku yang lain?
+
+1202
+01:11:16,120 --> 01:11:18,420
+Kaworu-kun, apa yang terjadi padamu?!
+
+1203
+01:11:29,560 --> 01:11:31,010
+Asuka!
+
+1204
+01:11:31,010 --> 01:11:34,050
+Aku mohon padamu, jangan menghalangi!
+
+1205
+01:11:34,050 --> 01:11:38,830
+Diam dan mati, Bocah Shinji!
+
+1206
+01:11:42,350 --> 01:11:43,720
+Kau pasti bercanda!
+
+1207
+01:11:43,720 --> 01:11:45,930
+Jaringan Empat-mata, ambilkan cadangan!
+
+1208
+01:11:53,170 --> 01:11:54,770
+Gunakan kesempatan ini untuk mengambil tombaknya!
+
+1209
+01:11:56,600 --> 01:11:59,120
+Aku tidak percaya dia benar-benar memukul seorang gadis.
+
+1210
+01:11:59,120 --> 01:12:00,560
+Brengsek.
+
+1211
+01:12:00,560 --> 01:12:02,270
+Ini dia cadangannya!
+
+1212
+01:12:13,540 --> 01:12:15,060
+Hentikan, Shinji-kun.
+
+1213
+01:12:15,930 --> 01:12:18,160
+Aku punya firasat buruk tentang ini.
+
+1214
+01:12:18,160 --> 01:12:19,950
+Kita tidak bisa berhenti sekarang, Kaworu-kun!
+
+1215
+01:12:19,950 --> 01:12:22,310
+Ingat untuk apa kita datang sejauh ini?
+
+1216
+01:12:22,310 --> 01:12:23,880
+Jangan lakukan ini!
+
+1217
+01:12:23,880 --> 01:12:25,610
+Itu bukanlah tombak kita!
+
+1218
+01:12:26,450 --> 01:12:29,430
+Apa maksudmu, "bukan tombak kita"?
+
+1219
+01:12:32,900 --> 01:12:35,720
+Kaulah yang mengatakan kita membutuhkan tombaknya!
+
+1220
+01:12:36,500 --> 01:12:39,180
+Jika bukan aku tidak akan mempiloti EVA ini!
+
+1221
+01:12:42,770 --> 01:12:44,170
+Sistem kontrol...
+
+1222
+01:12:48,020 --> 01:12:53,060
+Aku akan mengambil tombaknya untuk Kaworu-kun dan kepentingan orang lain.
+
+1223
+01:12:53,060 --> 01:12:54,970
+Dengan begitu, dunia akan dikembalikan.
+
+1224
+01:12:56,830 --> 01:13:00,190
+Kemudian bahkan Misato-san akan...
+
+1225
+01:13:00,190 --> 01:13:01,060
+Gawat!
+
+1226
+01:13:01,660 --> 01:13:04,170
+Jaringan Empat-mata, aku sudah membersihkan rintangan.
+
+1227
+01:13:04,170 --> 01:13:05,960
+Izin untuk menggunakan peluru A.A.!
+
+1228
+01:13:05,960 --> 01:13:06,970
+Aku sudah menunggu untuk ini!
+
+1229
+01:13:07,890 --> 01:13:09,300
+Lihat bayi itu!
+
+1230
+01:13:15,240 --> 01:13:16,520
+Itu tidak memiliki bidang A.T?
+
+1231
+01:13:17,560 --> 01:13:20,330
+Jangan bilang unit itu...
+
+1232
+01:13:32,470 --> 01:13:33,930
+Jangan lakukan itu, Shinji-kun!
+
+1233
+01:13:33,930 --> 01:13:35,740
+Hentikan, kau bocah bodoh!
+
+1234
+01:13:58,670 --> 01:14:00,890
+Mari kita mulai, Fuyutsuki.
+
+1235
+01:14:07,970 --> 01:14:09,760
+EVA Mk. 06?
+
+1236
+01:14:10,210 --> 01:14:13,100
+Tipe Darah biru? Apa yang terjadi?
+
+1237
+01:14:16,490 --> 01:14:17,050
+Ini gawat!
+
+1238
+01:14:17,570 --> 01:14:19,380
+Angel ke12 masih hidup!
+
+1239
+01:14:20,690 --> 01:14:22,720
+Jaringan Empat-mata! kontainer ke3!
+
+1240
+01:14:22,720 --> 01:14:24,270
+Baik, bu!
+
+1241
+01:14:25,690 --> 01:14:29,880
+Kita akan mengurus ini sebelum lanjutan Third Impact!
+
+1242
+01:14:34,630 --> 01:14:35,640
+Aku diperintahkan begitu.
+
+1243
+01:14:45,320 --> 01:14:46,260
+Angel?!
+
+1244
+01:14:56,040 --> 01:14:59,730
+Putri, berhenti membuang-buang pelurumu.
+
+1245
+01:14:59,730 --> 01:15:01,520
+Itu semuanya adalah inti.
+
+1246
+01:15:02,010 --> 01:15:04,960
+Tidak ada yang bisa kita lakukan dengan itu sekarang.
+
+1247
+01:15:06,320 --> 01:15:13,270
+Ditambah lagi, aku tertarik melihat apa hal-hal buruk yang akan terjadi setelah Angel terakhir dikalahkan.
+
+1248
+01:15:17,450 --> 01:15:18,100
+Apa itu...
+
+1249
+01:15:22,580 --> 01:15:25,070
+Apa itu aku?
+
+1250
+01:15:26,890 --> 01:15:29,010
+Apa aku ini?
+
+1251
+01:15:31,610 --> 01:15:32,940
+Kontrol tidak bekerja!
+
+1252
+01:15:32,940 --> 01:15:34,890
+Apa yang terjadi, Kaworu-kun?
+
+1253
+01:15:37,490 --> 01:15:38,350
+Kaworu-kun!
+
+1254
+01:15:39,320 --> 01:15:44,810
+Aku tidak berpikir kalau aku, Angel Pertama, akan jatuh menjadi Angel ke13...
+
+1255
+01:15:44,810 --> 01:15:47,020
+Apa yang kau katakan, Kaworu-kun?!
+
+1256
+01:15:50,120 --> 01:15:53,290
+Kurasa ini berarti awal dan akhir adalah satu dan sama.
+
+1257
+01:15:53,290 --> 01:15:57,720
+Aku tidak mengharapkan lebih dari Raja Lilin— Ayahmu!
+
+1258
+01:15:58,270 --> 01:16:01,230
+Tipe Darah biru dari Choker DSS?
+
+1259
+01:16:01,230 --> 01:16:03,170
+Anomali Ke13?
+
+1260
+01:16:04,120 --> 01:16:06,140
+Jadi ini yang Gendou-kun inginkan.
+
+1261
+01:16:09,320 --> 01:16:12,930
+Waktu untuk mengubah Gulungan Laut Mati telah datang.
+
+1262
+01:16:13,660 --> 01:16:15,130
+Ini adalah perpisahan.
+
+1263
+01:16:18,810 --> 01:16:25,050
+Meskipun kau juga mengubah bentuk jiwamu, kau masih makhluk yang telah merasakan buah Pengetahuan.
+
+1264
+01:16:26,980 --> 01:16:30,050
+Meskipun kau bisa hidup selamanya,
+
+1265
+01:16:30,050 --> 01:16:33,970
+kau tidak bisa lepas dari nasib kematian, sama seperti kita.
+
+1266
+01:16:35,470 --> 01:16:39,540
+Untuk memajukan evolusi ras dibebani dengan kematian,
+
+1267
+01:16:39,540 --> 01:16:43,130
+kau memberi kita hadiah peradaban.
+
+1268
+01:16:44,850 --> 01:16:47,970
+Atas nama umat manusia, aku ucapkan terima kasih.
+
+1269
+01:16:49,470 --> 01:16:54,720
+Biarkan kematian mengirim jiwamu kembali ke tempat mereka berasal.
+
+1270
+01:16:57,110 --> 01:17:00,390
+Aku akan menjatuhkan keinginan lamamu, Proyek Instrumentalitas Manusia,
+
+1271
+01:17:00,390 --> 01:17:04,260
+serta Pembunuhan Dewa yang telah kau tinggalkan.
+
+1272
+01:17:05,190 --> 01:17:06,580
+Yakinlah.
+
+1273
+01:17:07,120 --> 01:17:10,600
+Keinginan kita telah dkabulkan.
+
+1274
+01:17:10,600 --> 01:17:13,920
+Bagus. Semuanya baik sekarang.
+
+1275
+01:17:13,920 --> 01:17:20,380
+Kita berharap untuk penyempurnaan yang dilengkapi umat manusia dan pemurnian damai jiwa.
+
+1276
+01:17:51,320 --> 01:17:54,680
+Ini melebihi bentuk semu berevolusi!
+
+1277
+01:17:54,680 --> 01:17:56,710
+Tampaknya salah satu saksi hidup Adams...
+
+1278
+01:17:57,930 --> 01:17:59,650
+...telah bangkit!
+
+1279
+01:18:35,290 --> 01:18:36,890
+Apa itu?
+
+1280
+01:18:49,680 --> 01:18:51,670
+Apa yang telah terjadi?
+
+1281
+01:18:56,700 --> 01:18:58,530
+Apakah ini salahku?
+
+1282
+01:18:59,870 --> 01:19:01,520
+Apakah ini karena aku menarik tombaknya?
+
+1283
+01:19:07,990 --> 01:19:09,490
+Apa ini?
+
+1284
+01:19:10,170 --> 01:19:12,100
+Ini Fourth Impact.
+
+1285
+01:19:14,310 --> 01:19:16,780
+Itu memulai ritual.
+
+1286
+01:19:30,500 --> 01:19:31,790
+Kaworu-kun...
+
+1287
+01:19:32,330 --> 01:19:32,930
+Choker!
+
+1288
+01:19:40,900 --> 01:19:42,200
+Misato-san?!
+
+1289
+01:19:44,910 --> 01:19:46,470
+Maksimalkan bidang A.T!
+
+1290
+01:19:46,470 --> 01:19:47,970
+Segel EVA!
+
+1291
+01:19:47,970 --> 01:19:50,970
+Mengisi meriam utama dengan amunisi memantul untuk menembak bersamaan!
+
+1292
+01:19:50,970 --> 01:19:53,560
+Kita akan melakukan apapun untuk menghentikan Fourth Impact!
+
+1293
+01:19:53,560 --> 01:19:54,970
+Tembak!
+
+1294
+01:20:02,540 --> 01:20:03,750
+Kita terkena!
+
+1295
+01:20:03,750 --> 01:20:05,080
+Mengenai Langsung pada meriam utama!
+
+1296
+01:20:05,080 --> 01:20:06,050
+Wadah Adams?!
+
+1297
+01:20:11,430 --> 01:20:13,390
+Pusat lambung terkena! Tingkat kerusakan tidak diketahui!
+
+1298
+01:20:13,390 --> 01:20:15,870
+Daya output jatuh. Masalah dengan kontrol gravitasi!
+
+1299
+01:20:15,870 --> 01:20:18,240
+Kemudi tidak merespons! Kita kehilangan ketinggian!
+
+1300
+01:20:28,870 --> 01:20:30,630
+Serangan lagi pada pusat lambung!
+
+1301
+01:20:28,870 --> 01:20:30,630
+Kerusakan serius pada dek ketiga!
+
+1302
+01:20:31,530 --> 01:20:34,100
+Wadah dari Adams adalah master sejati Wunder.
+
+1303
+01:20:34,100 --> 01:20:37,570
+Ia ingin mengambil alih kapal dari Unit 01!
+
+1304
+01:20:43,170 --> 01:20:45,630
+Mengapa bukannya penghubung yang dipulihkan?
+
+1305
+01:20:51,070 --> 01:20:52,890
+Oh, ya ampun!
+
+1306
+01:20:52,890 --> 01:20:55,560
+Itu kekacauan yang mereka libatkan.
+
+1307
+01:20:55,560 --> 01:20:57,810
+Jaringan Empat-mata, kau urus bocah EVA itu!
+
+1308
+01:20:57,810 --> 01:20:59,560
+Aku akan membantu Wunder dengan 02-Dash!
+
+1309
+01:20:59,560 --> 01:21:00,100
+Dipahami!
+
+1310
+01:21:00,100 --> 01:21:02,530
+Tidak dapat mengosongkan wadah  Adams!
+
+1311
+01:21:02,530 --> 01:21:05,340
+Data tak dikenal menyusup sistem kontrol utama!
+
+1312
+01:21:05,340 --> 01:21:07,400
+Itu mengambil kendali kapal!
+
+1313
+01:21:29,460 --> 01:21:30,430
+Tidak adil!
+
+1314
+01:21:30,430 --> 01:21:31,840
+Itu berbau SEELE.
+
+1315
+01:21:38,760 --> 01:21:40,430
+Mengubah mode!
+
+1316
+01:21:40,430 --> 01:21:41,930
+Kode Tiga Tujuh!
+
+1317
+01:21:50,360 --> 01:21:50,960
+Siapa?
+
+1318
+01:21:50,960 --> 01:21:52,340
+Dan siapa kau
+
+1319
+01:22:09,310 --> 01:22:10,940
+Laporan dari stasiun pengamatan!
+
+1320
+01:22:10,940 --> 01:22:12,890
+Unit 02-Dash telah melibatkan Wadah Adams!
+
+1321
+01:22:12,890 --> 01:22:14,510
+Kita mengandalkanmu, Asuka.
+
+1322
+01:22:32,680 --> 01:22:36,430
+Apa yang akan Ayanami Rei lakukan dalam situasi ini?
+
+1323
+01:22:36,430 --> 01:22:37,780
+Tidak tau!
+
+1324
+01:22:37,780 --> 01:22:39,630
+Apa yang akan kau
+
+1325
+01:22:43,570 --> 01:22:45,430
+Aku mendapatkan intinya sekarang!
+
+1326
+01:22:54,410 --> 01:22:56,710
+Semuanya adalah inti?!
+
+1327
+01:22:57,270 --> 01:22:58,560
+Aku tidak punya waktu.
+
+1328
+01:22:59,840 --> 01:23:01,140
+Maaf, Unit 02!
+
+1329
+01:23:16,890 --> 01:23:18,770
+Sistem kontrol dikembalikan!
+
+1330
+01:23:18,770 --> 01:23:20,210
+Kecepatan penuh!
+
+1331
+01:23:20,210 --> 01:23:21,950
+Kejar target EVA dengan cepat!
+
+1332
+01:23:21,950 --> 01:23:24,430
+Kapten, kita harus menunggu sampai mesin utama pulih.
+
+1333
+01:23:25,400 --> 01:23:26,390
+Shinji-kun...
+
+1334
+01:23:47,480 --> 01:23:49,140
+Apakah itu salahku?
+
+1335
+01:23:51,910 --> 01:23:53,140
+Aku..
+
+1336
+01:23:54,660 --> 01:23:55,990
+Aku...
+
+1337
+01:23:57,250 --> 01:23:59,060
+Ini bukan salahmu.
+
+1338
+01:24:00,810 --> 01:24:04,670
+Itu terjadi karena aku menjadi Angel ke13.
+
+1339
+01:24:04,670 --> 01:24:06,180
+Akulah pemicunya.
+
+1340
+01:24:06,970 --> 01:24:08,690
+Apa yang harus aku lakukan?
+
+1341
+01:24:09,660 --> 01:24:12,180
+Katakan, apa yang harus aku lakukan?
+
+1342
+01:24:17,130 --> 01:24:22,590
+Kaworu-kun, apa yang harus aku lakukan?
+
+1343
+01:24:23,180 --> 01:24:28,860
+Bahkan jika jiwamu menghilang, keinginan dan kutukanmu tetap di dunia ini.
+
+1344
+01:24:28,860 --> 01:24:32,970
+Keinginanmu menjelajah dunia sebagai informasi dan secara bertahap berubah.
+
+1345
+01:24:33,590 --> 01:24:36,810
+Akhirnya, bahkan dirimu sendiri akan diubah.
+
+1346
+01:24:39,560 --> 01:24:40,760
+Maafkan aku.
+
+1347
+01:24:40,760 --> 01:24:43,670
+Ini bukan kebahagiaan yang kau inginkan.
+
+1348
+01:24:45,190 --> 01:24:47,720
+Aku akan menutup Pintu Guf.
+
+1349
+01:24:47,720 --> 01:24:50,140
+Kau tidak perlu khawatir.
+
+1350
+01:24:51,050 --> 01:24:52,480
+Kaworu-kun...
+
+1351
+01:24:54,020 --> 01:24:57,640
+Aku tidak mengerti sama sekali apa yang kau bicarakan!
+
+1352
+01:25:04,060 --> 01:25:08,070
+Kau hanya perlu menemukan kedamaian dan tempatmu sendiri.
+
+1353
+01:25:16,200 --> 01:25:18,500
+Takdir akan memandumu.
+
+1354
+01:25:23,320 --> 01:25:25,540
+Jangan melihatku seperti itu.
+
+1355
+01:25:26,210 --> 01:25:28,430
+Kita akan bertemu lagi, Shinji-kun.
+
+1356
+01:25:30,030 --> 01:25:31,770
+Kaworu-kun!
+
+1357
+01:25:49,440 --> 01:25:51,260
+Pintu Guf masih belum tertutup!
+
+1358
+01:25:51,790 --> 01:25:53,970
+Jadi Pups adalah cadangan SEELE!
+
+1359
+01:26:10,310 --> 01:26:12,130
+Semuanya beres!
+
+1360
+01:26:12,130 --> 01:26:13,720
+Tenangkan dirimu, Pups!
+
+1361
+01:26:15,950 --> 01:26:16,930
+Berhenti menjadi seperti bayi!
+
+1362
+01:26:16,930 --> 01:26:18,600
+Setidaknya selamatkan Putri!
+
+1363
+01:26:18,600 --> 01:26:19,840
+Kau seorang pria, bukan?!
+
+1364
+01:26:21,570 --> 01:26:24,810
+Sementara kau ada disitu, cobalah untuk belajar bagaimana dunia bekerja!
+
+1365
+01:27:18,680 --> 01:27:20,910
+Lihatlah kekacauan ini.
+
+1366
+01:27:20,910 --> 01:27:23,260
+Semuanya persis seperti yang SEELE inginkan.
+
+1367
+01:27:23,940 --> 01:27:30,660
+Namun, kita menyingkirkan Anak SEELE dan dipandu Unit 13 untuk kebangkitannya.
+
+1368
+01:27:31,430 --> 01:27:34,050
+Tindakan Kolonel Katsuragi itu juga dalam harapan.
+
+1369
+01:27:34,800 --> 01:27:36,610
+Ini sudah cukup untuk sekarang.
+
+1370
+01:27:37,880 --> 01:27:40,550
+Semua kapal, pertahankan keadaan penjagaan 2.
+
+1371
+01:27:40,550 --> 01:27:42,330
+Tidak ada tanda-tanda tipe darah biru.
+
+1372
+01:27:42,330 --> 01:27:44,430
+Tidak ada unit terdeteksi di wilayah udara yang dapat diamati.
+
+1373
+01:27:44,430 --> 01:27:46,930
+Perbaikan darurat dari lambung pusat telah selesai.
+
+1374
+01:27:47,510 --> 01:27:51,930
+Aku tidak tahu siapa yang melakukannya, tapi Fourth Impact telah dihentikan.
+
+1375
+01:27:52,650 --> 01:27:55,930
+Misato, ini sudah cukup baik untuk saat ini.
+
+1376
+01:28:47,300 --> 01:28:48,270
+Bocah Shinji.
+
+1377
+01:28:49,570 --> 01:28:52,030
+Kau tidak datang dan membantu aku.
+
+1378
+01:28:55,950 --> 01:28:58,040
+Kau hanya memikirkan diri sendiri, seperti biasa.
+
+1379
+01:28:58,040 --> 01:28:59,930
+Kau pikir kau akan lolos begitu saja jika kau tetap diam.
+
+1380
+01:29:26,090 --> 01:29:27,200
+Kau masih seperti bayi.
+
+1381
+01:29:29,130 --> 01:29:30,810
+Bahkan setelah sekian lama,
+
+1382
+01:29:30,810 --> 01:29:32,640
+kau masih bocah yang merepotkan.
+
+1383
+01:29:33,360 --> 01:29:35,350
+Ayolah, pakai ini.
+
+1384
+01:29:35,350 --> 01:29:36,850
+Ya ampun!
+
+1385
+01:29:36,850 --> 01:29:40,140
+Kau bahkan tidak bisa berdiri sendiri?!
+
+1386
+01:29:44,240 --> 01:29:45,850
+Jadi kau pilotnya.
+
+1387
+01:29:47,130 --> 01:29:49,060
+Kau pasti menjadi salah satu model awal jenis Ayanami.
+
+1388
+01:29:56,560 --> 01:29:59,180
+Kepadatan penghalang L terlalu tinggi di sini.
+
+1389
+01:29:59,180 --> 01:30:01,010
+Mereka tidak akan bisa datang untuk kita.
+
+1390
+01:30:01,570 --> 01:30:04,410
+Mari kita pergi ke suatu tempat di mana Lilin dapat menjemput kita.
+
+1391
+01:30:08,280 --> 01:30:08,890
+Ayo!
+
+1392
+01:30:37,470 --> 01:30:39,970
+Bersambung
+
+1393
+01:30:39,970 --> 01:34:37,010
+m 0 0 l 1920 0 1920 120 0 120
+
+1394
+01:30:39,970 --> 01:30:51,600
+SKETsubs
+
+1395
+01:30:39,970 --> 01:34:34,880
+m 0 816 l 1920 816 1920 600 0 600
+
+1396
+01:34:56,470 --> 01:34:57,220
+Preview
+
+1397
+01:34:57,580 --> 01:35:01,100
+Ikari Shinji masih belum menemukan dirinya setelah kehilangan keinginannya untuk hidup.
+
+1398
+01:35:01,480 --> 01:35:04,560
+Tujuannya akan mengajarinya harapan.
+
+1399
+01:35:04,880 --> 01:35:06,850
+Proyek Instrumentalitas dimulai,
+
+1400
+01:35:06,850 --> 01:35:11,290
+dan Wille melawan pertempuran terakhir untuk menghentikan serangan Terakhir.
+
+1401
+01:35:11,290 --> 01:35:12,970
+Wunder menembus langit.
+
+1402
+01:35:12,970 --> 01:35:17,220
+Unit 08 +02 berlari kencang di atas permukaan tanah merah.
+
+1403
+01:35:17,220 --> 01:35:19,690
+Selanjutnya, Evangelion Versi Teater Baru.
+
+1404
+01:35:19,720 --> 01:35:23,710
+Akan ada banyak fanservice sepanjang jalan sampai akhir!
+
+1405
+01:35:19,720 --> 01:35:39,640
+Selanjutnya
+
+1406
+01:35:19,720 --> 01:35:39,640
+Evangelion Versi Teaterm -12 73 b -7 73 -3 68 -3 64 -3 59 -7 55 -12 55 -16 55 -20 59 -20 64 -20 68 -16 73 -12 73 m -12 116 b -7 116 -3 112 -3 107 -3 102 -7 99 -12 99 -16 99 -20 102 -20 107 -20 112 -16 116 -12 116 m 9 0 l 14 0 14 171 9 171 m 36 0 l 57 0 57 171 36 171
