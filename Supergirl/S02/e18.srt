@@ -1,3231 +1,3234 @@
-1
-00:00:02,774 --> 00:00:06,532
+﻿1
+00:00:00,000 --> 00:00:01,000
+Edited at https://subtitletools.com
+
+2
+00:00:00,774 --> 00:00:04,532
 Ketika aku masih kecil,
 planet Krypton-ku sekarat.
 
-2
-00:00:06,534 --> 00:00:10,079
+3
+00:00:04,534 --> 00:00:08,079
 Aku dikirim ke bumi untuk
 melindungi sepupuku.
 
-3
-00:00:10,080 --> 00:00:11,774
+4
+00:00:08,080 --> 00:00:09,774
 Tapi kapalku keluar jalur
 
-4
-00:00:11,775 --> 00:00:13,107
+5
+00:00:09,775 --> 00:00:11,107
 dan pada saat aku
 sampai di Bumi,
 
-5
-00:00:13,109 --> 00:00:17,211
+6
+00:00:11,109 --> 00:00:15,211
 sepupuku sudah dewasa
 dan menjadi Superman.
 
-6
-00:00:18,314 --> 00:00:19,947
+7
+00:00:16,314 --> 00:00:17,947
 Aku menyembunyikan identitasku
 
-7
-00:00:19,949 --> 00:00:24,351
+8
+00:00:17,949 --> 00:00:22,351
 sampai suatu hari ketika kecelakaan
 membuatku mengungkapkannya pada dunia.
 
-8
-00:00:24,353 --> 00:00:27,688
+9
+00:00:22,353 --> 00:00:25,688
 Bagi kebanyakan orang, aku hanyalah
 reporter di CatCo Worldwide Media.
 
-9
-00:00:27,690 --> 00:00:31,091
+10
+00:00:25,690 --> 00:00:29,091
 Tetapi diam-diam, aku bekerja
 dengan kakak angkatku di DEO
 
-10
-00:00:31,093 --> 00:00:33,027
+11
+00:00:29,093 --> 00:00:31,027
 untuk melindungi kotaku dari Alien
 
-11
-00:00:33,029 --> 00:00:35,797
+12
+00:00:31,029 --> 00:00:33,797
 dan orang lain yang
 menyebabkan bahaya.
 
-12
-00:00:36,666 --> 00:00:39,333
+13
+00:00:34,666 --> 00:00:37,333
 Aku ... Supergirl.
 
-13
-00:00:41,270 --> 00:00:43,103
+14
+00:00:39,270 --> 00:00:41,103
 Sebelumnya di Supergirl ...
 
-14
-00:00:43,105 --> 00:00:47,141
+15
+00:00:41,105 --> 00:00:45,141
 Ada apa? / Mencoba memutuskan apakah
 aku harus menulis blog artikelku sendiri.
 
-15
-00:00:47,143 --> 00:00:48,542
+16
+00:00:45,143 --> 00:00:46,542
 Apa Snapper akan
 marah atau lainnya?
 
-16
-00:00:48,944 --> 00:00:50,010
+17
+00:00:46,944 --> 00:00:48,010
 Benar sekali.
 
-17
-00:00:50,447 --> 00:00:51,412
+18
+00:00:48,447 --> 00:00:49,412
 Sudah di blob.
 
-18
-00:00:52,649 --> 00:00:54,248
+19
+00:00:50,649 --> 00:00:52,248
 Kau memecatku?
 
-19
-00:00:54,851 --> 00:00:57,117
+20
+00:00:52,851 --> 00:00:55,117
 Tentu saja, danvers.com.
 
-20
-00:00:57,654 --> 00:00:59,019
+21
+00:00:55,654 --> 00:00:57,019
 Kembalilah bersama kami ke Daxam.
 
-21
-00:00:59,221 --> 00:01:00,287
+22
+00:00:57,221 --> 00:00:58,287
 Tidak.
 
-22
-00:01:00,391 --> 00:01:03,491
+23
+00:00:58,391 --> 00:01:01,491
 Kalian harus meninggalkan planet
 ini dan jangan pernah kembali.
 
-23
-00:01:04,393 --> 00:01:07,127
+24
+00:01:02,393 --> 00:01:05,127
 Aku belum selesai dengan dunia ini.
 
-24
-00:01:18,675 --> 00:01:20,608
+25
+00:01:16,675 --> 00:01:18,608
 ini hari yang indah
 lainnya di National City,
 
-25
-00:01:20,610 --> 00:01:22,944
+26
+00:01:18,610 --> 00:01:20,944
 dan Gadis Baja siap menghadapi dunia.
 
-26
-00:01:22,946 --> 00:01:25,913
+27
+00:01:20,946 --> 00:01:23,913
 Aku di sini untuk menghajar
 penjahat, mendapat reputasi,
 
-27
-00:01:25,915 --> 00:01:28,048
+28
+00:01:23,915 --> 00:01:26,048
 dan melakukan semuanya dengan
 senyum menawan di wajahku.
 
-28
-00:01:28,050 --> 00:01:30,985
+29
+00:01:26,050 --> 00:01:28,985
 Jadi, ayolah. Apa yang
 kau peroleh untukku?
 
-29
-00:01:30,987 --> 00:01:34,054
+30
+00:01:28,987 --> 00:01:32,054
 Secara harfiah tidak ada yang
 dapat kau lakukan. / Tidak ada?
 
-30
-00:01:34,056 --> 00:01:37,358
+31
+00:01:32,056 --> 00:01:35,358
 Aku menantangmu untuk menemukan anak
 berusia delapan tahun mencuri permen.
 
-31
-00:01:37,360 --> 00:01:40,327
+32
+00:01:35,360 --> 00:01:38,327
 Ini seperti seseorang tergelincir
 kedalam serum taat hukum.
 
-32
-00:01:40,329 --> 00:01:43,197
+33
+00:01:38,329 --> 00:01:41,197
 Apa seseorang melakukan itu?
 Apa itu ilegal? Aku bisa menghentikannya.
 
-33
-00:01:43,199 --> 00:01:44,532
+34
+00:01:41,199 --> 00:01:42,532
 Kami akan memberitahumu
 jika terjadi sesuatu.
 
-34
-00:01:44,534 --> 00:01:47,134
+35
+00:01:42,534 --> 00:01:45,134
 Sampai saat itu, aku akan
 ke atas, memeriksa anggaran.
 
-35
-00:01:47,136 --> 00:01:49,904
+36
+00:01:45,136 --> 00:01:47,904
 Aku akan bekerja pada pemecah
 kode Lebeckian yang baru.
 
-36
-00:01:50,607 --> 00:01:52,373
+37
+00:01:48,607 --> 00:01:50,373
 Latihan pisau kamis pagi.
 
-37
-00:01:53,075 --> 00:01:54,775
+38
+00:01:51,075 --> 00:01:52,775
 Oke..
 
-38
-00:01:55,945 --> 00:01:57,812
+39
+00:01:53,945 --> 00:01:55,812
 Apa yang harus kulakukan?
 
-39
-00:02:02,462 --> 00:02:04,018
+40
+00:02:00,462 --> 00:02:02,018
 kelima kalinya bersukaria.
 
-40
-00:02:11,260 --> 00:02:12,593
+41
+00:02:09,260 --> 00:02:10,593
 Kenapa aku tak bisa melakukannya?
 
-41
-00:02:23,406 --> 00:02:27,041
+42
+00:02:21,406 --> 00:02:25,041
 Hei! Apa yang membawamu ke
 kontrakan rumah di sisi kota?
 
-42
-00:02:27,043 --> 00:02:28,208
+43
+00:02:25,043 --> 00:02:26,208
 Apa kau sedang bersedih?
 
-43
-00:02:28,210 --> 00:02:30,144
+44
+00:02:26,210 --> 00:02:28,144
 Tidak. / Pembohong.
 
-44
-00:02:31,247 --> 00:02:33,548
+45
+00:02:29,247 --> 00:02:31,548
 Menjadi pengangguran
 tidak menyenangkan lagi.
 
-45
-00:02:34,617 --> 00:02:37,518
+46
+00:02:32,617 --> 00:02:35,518
 Tunggu, apa semua baik-baik saja?
 / Tidak benar-benar.
 
-46
-00:02:40,456 --> 00:02:42,657
+47
+00:02:38,456 --> 00:02:40,657
 Jadi, hari ini ada konferensi pers
 
-47
-00:02:42,659 --> 00:02:44,825
+48
+00:02:40,659 --> 00:02:42,825
 untuk pembukaan baru Spheerical Industries'.
 
-48
-00:02:44,827 --> 00:02:47,762
+49
+00:02:42,827 --> 00:02:45,762
 Apapun pengumuman mereka akan menjadi hal
 besar berikutnya yang semua orang inginkan.
 
-49
-00:02:48,565 --> 00:02:50,031
+50
+00:02:46,565 --> 00:02:48,031
 Apa mereka pesaingmu? / Tidak...
 
-50
-00:02:50,767 --> 00:02:54,468
+51
+00:02:48,767 --> 00:02:52,468
 CEO mereka, Jack
 Spheer dan aku, kami ...
 
-51
-00:02:55,605 --> 00:02:56,871
+52
+00:02:53,605 --> 00:02:54,871
 Kami dulunya dekat.
 
-52
-00:02:57,273 --> 00:02:58,338
+53
+00:02:55,273 --> 00:02:56,338
 Sampai kapan?
 
-53
-00:02:58,340 --> 00:02:59,774
+54
+00:02:56,340 --> 00:02:57,774
 Tepat sebelum aku
 pindah ke National City.
 
-54
-00:02:59,776 --> 00:03:01,042
+55
+00:02:57,776 --> 00:02:59,042
 Oh begitu.
 
-55
-00:03:01,044 --> 00:03:03,945
+56
+00:02:59,044 --> 00:03:01,945
 Jadi ini adalah ... kedekatan
 yang baru belakangan ini.
 
-56
-00:03:04,647 --> 00:03:05,680
+57
+00:03:02,647 --> 00:03:03,680
 Berapa lama kalian bersama?
 
-57
-00:03:05,682 --> 00:03:07,648
+58
+00:03:03,682 --> 00:03:05,648
 Secara romantis, dua tahun.
 
-58
-00:03:07,650 --> 00:03:09,951
+59
+00:03:05,650 --> 00:03:07,951
 Tapi kami mulai bersama
 sama selama lima tahun.
 
-59
-00:03:11,054 --> 00:03:12,787
+60
+00:03:09,054 --> 00:03:10,787
 Bekerja di garasi mencoba
 menemukan obat untuk kanker.
 
-60
-00:03:14,023 --> 00:03:17,424
+61
+00:03:12,023 --> 00:03:15,424
 Itu banyak ledakan
 kecil dan kegembiraan.
 
-61
-00:03:18,661 --> 00:03:21,095
+62
+00:03:16,661 --> 00:03:19,095
 Dia mengirimiku undangan
 pribadi untuk konferensi pers ini.
 
-62
-00:03:21,097 --> 00:03:23,130
+63
+00:03:19,097 --> 00:03:21,130
 Apa kau akan datang? / Jack adalah
 Kryptonite-ku (kelemahanku).
 
-63
-00:03:24,233 --> 00:03:26,300
+64
+00:03:22,233 --> 00:03:24,300
 Tapi itu hanya akan membawa
 banyak hal yang menyakitkan,
 
-64
-00:03:26,302 --> 00:03:28,235
+65
+00:03:24,302 --> 00:03:26,235
 dan aku tidak yakin
 aku bisa melalui itu.
 
-65
-00:03:28,237 --> 00:03:31,606
+66
+00:03:26,237 --> 00:03:29,606
 Tetapi jika teman baikmu
 Kara datang bersamamu ...
 
-66
-00:03:31,608 --> 00:03:32,907
+67
+00:03:29,608 --> 00:03:30,907
 Dan melindungiku ...
 
-67
-00:03:32,909 --> 00:03:35,275
+68
+00:03:30,909 --> 00:03:33,275
 Itu takkan begitu sulit
 menghadapinya. / Terima kasih.
 
-68
-00:03:35,277 --> 00:03:37,211
+69
+00:03:33,277 --> 00:03:35,211
 Oh, ini jauh lebih baik daripada bersedih.
 
-69
-00:03:37,213 --> 00:03:38,713
+70
+00:03:35,213 --> 00:03:36,713
 Dan aku selalu melindungimu.
 
-70
-00:03:38,715 --> 00:03:40,347
+71
+00:03:36,715 --> 00:03:38,347
 Kau memang favoritku.
 
-71
-00:03:40,349 --> 00:03:42,382
+72
+00:03:38,349 --> 00:03:40,382
 Jadi, apa Kryptonite-mu
 (kelemahanmu)?
 
-72
-00:03:49,125 --> 00:03:51,592
+73
+00:03:47,125 --> 00:03:49,592
 Kau terlihat bagus.
 / Terima kasih.
 
-73
-00:03:52,128 --> 00:03:53,761
+74
+00:03:50,128 --> 00:03:51,761
 Permisi. Terima kasih.
 
-74
-00:03:56,599 --> 00:03:58,265
+75
+00:03:54,599 --> 00:03:56,265
 Wow,
 
-75
-00:03:58,267 --> 00:04:00,234
+76
+00:03:56,267 --> 00:03:58,234
 mereka membiarkan siapapun
 dalam acara ini sekarang.
 
-76
-00:04:00,236 --> 00:04:03,403
+77
+00:03:58,236 --> 00:04:01,403
 Aku di sini hanya karena
 temanku. / Oh bagus.
 
-77
-00:04:03,405 --> 00:04:06,573
+78
+00:04:01,405 --> 00:04:04,573
 Aku mulai khawatir bahwa "dotcom"
 dihitung sebagai pers yang boleh lewat.
 
-78
-00:04:06,575 --> 00:04:08,408
+79
+00:04:04,575 --> 00:04:06,408
 Dan aku khawatir
 
-79
-00:04:09,445 --> 00:04:12,713
+80
+00:04:07,445 --> 00:04:10,713
 bahwa hanya orang yang lahir sebelum
 tahun 1980 membaca majalahmu.
 
-80
-00:04:12,715 --> 00:04:15,315
+81
+00:04:10,715 --> 00:04:13,315
 Itu karena kami menghargai
 berita yang nyata.
 
-81
-00:04:15,317 --> 00:04:17,451
+82
+00:04:13,317 --> 00:04:15,451
 Kami tidak clickbait milenium.
 
-82
-00:04:17,453 --> 00:04:19,787
+83
+00:04:15,453 --> 00:04:17,787
 Pergilah menikmati
 keju gratis, ponytail,
 
-83
-00:04:19,789 --> 00:04:22,089
+84
+00:04:17,789 --> 00:04:20,089
 sedangkan wartawan
 asli melaporkan berita.
 
-84
-00:04:33,169 --> 00:04:35,235
+85
+00:04:31,169 --> 00:04:33,235
 Mengesankan. / Apa kita diperbolehkan
 untuk melihat matanya?
 
-85
-00:04:39,441 --> 00:04:43,844
+86
+00:04:37,441 --> 00:04:41,844
 Vaksin. Anestesi. Antibiotik.
 
-86
-00:04:45,281 --> 00:04:48,949
+87
+00:04:43,281 --> 00:04:46,949
 Ini adalah tiga keajaiban medis yang
 kita terima di zaman modern.
 
-87
-00:04:49,952 --> 00:04:52,753
+88
+00:04:47,952 --> 00:04:50,753
 Dan sekarang, aku akan menunjukkan pada
 Anda bagaimana Spheerical Industries
 
-88
-00:04:52,755 --> 00:04:55,422
+89
+00:04:50,755 --> 00:04:53,422
 akan mendorong kita ke masa depan.
 
-89
-00:04:57,593 --> 00:05:00,494
+90
+00:04:55,593 --> 00:04:58,494
 Ini adalah Beth Breen, CFO
 Spheerical Industries kami.
 
-90
-00:05:38,868 --> 00:05:40,234
+91
+00:05:36,868 --> 00:05:38,234
 Ya Tuhan. Dia berhasil.
 
-91
-00:05:40,562 --> 00:05:42,636
+92
+00:05:38,562 --> 00:05:40,636
 Ini proyek yang kau
 kerjakan dengan Jack?
 
-92
-00:05:43,339 --> 00:05:44,939
+93
+00:05:41,339 --> 00:05:42,939
 Kami hampir mencapai
 pada penelitian kami,
 
-93
-00:05:44,941 --> 00:05:46,807
+94
+00:05:42,941 --> 00:05:44,807
 tapi ia akhirnya memecahkannya.
 
-94
-00:05:49,045 --> 00:05:50,878
+95
+00:05:47,045 --> 00:05:48,878
 Apa yang baru saja anda saksikan
 
-95
-00:05:51,680 --> 00:05:54,982
+96
+00:05:49,680 --> 00:05:52,982
 adalah keajaiban medis keempat, Biomax.
 
-96
-00:06:07,063 --> 00:06:10,330
+97
+00:06:05,063 --> 00:06:08,330
 Kita tidak lagi perlu menyuntik
 diri melawan penyakit,
 
-97
-00:06:10,332 --> 00:06:12,566
+98
+00:06:08,332 --> 00:06:10,566
 komplikasi terkena resiko anestesi,
 
-98
-00:06:12,568 --> 00:06:16,971
+99
+00:06:10,568 --> 00:06:14,971
 atau perlawanan pada bakteri
 semakin resisten dengan antibiotik.
 
-99
-00:06:18,074 --> 00:06:20,641
+100
+00:06:16,074 --> 00:06:18,641
 Kami bangga untuk meluncurkan
 Program Biomax Medis Nanobot kami
 
-100
-00:06:20,643 --> 00:06:22,843
+101
+00:06:18,643 --> 00:06:20,843
 di National City.
 
-101
-00:06:32,989 --> 00:06:34,588
+102
+00:06:30,989 --> 00:06:32,588
 Dengan senang hati
 menjawab pertanyaan Anda.
 
-102
-00:06:34,590 --> 00:06:36,356
+103
+00:06:32,590 --> 00:06:34,356
 Mr. Spheer! Mr. Spheer!
 / Jack? Jack?!
 
-103
-00:06:36,358 --> 00:06:38,358
+104
+00:06:34,358 --> 00:06:36,358
 Mr. Spheer?
 / Iya. Terima kasih.
 
-104
-00:06:38,645 --> 00:06:41,996
+105
+00:06:36,645 --> 00:06:39,996
 Kara Danvers dari KaraDanvers.com.
 
-105
-00:06:44,387 --> 00:06:45,766
+106
+00:06:42,387 --> 00:06:43,766
 Iya. Jadi...
 
-106
-00:06:46,939 --> 00:06:47,931
+107
+00:06:44,939 --> 00:06:45,931
 Baiklah.
 
-107
-00:06:48,437 --> 00:06:51,906
+108
+00:06:46,437 --> 00:06:49,906
 Anda awalnya memulai penelitian
 untuk proyek ini di Metropolis ...
 
-108
-00:06:52,074 --> 00:06:53,640
+109
+00:06:50,074 --> 00:06:51,640
 Snapper Carr, CatCo Media.
 
-109
-00:06:53,642 --> 00:06:56,110
+110
+00:06:51,642 --> 00:06:54,110
 Jack, dengan nanobots ini, apa
 kau benar-benar berharap untuk ...
 
-110
-00:06:56,112 --> 00:06:58,645
+111
+00:06:54,112 --> 00:06:56,645
 Jika anda memulai pembangunan
 di Metropolis tapi ...
 
-111
-00:07:00,016 --> 00:07:02,016
+112
+00:06:58,016 --> 00:07:00,016
 Tapi kau meluncurkan di National City
 
-112
-00:07:02,018 --> 00:07:03,818
+113
+00:07:00,018 --> 00:07:01,818
 apa Anda mengikuti peraturan FDA
 
-113
-00:07:03,820 --> 00:07:06,025
+114
+00:07:01,820 --> 00:07:04,025
 untuk mendistribusikan
 obat lintas negara?
 
-114
-00:07:06,026 --> 00:07:07,293
+115
+00:07:04,026 --> 00:07:05,293
 pertanyaan yang sangat bagus, Ms. Danvers.
 
-115
-00:07:07,294 --> 00:07:10,591
+116
+00:07:05,294 --> 00:07:08,591
 Aku takkan pernah membahayakan standar
 FDA yang ketat untuk keselamatan
 
-116
-00:07:10,592 --> 00:07:12,759
+117
+00:07:08,592 --> 00:07:10,759
 dengan salah satu produk medis kami.
 
-117
-00:07:21,670 --> 00:07:24,771
+118
+00:07:19,670 --> 00:07:22,771
 Lena. Aku sangat
 senang kau datang.
 
-118
-00:07:25,641 --> 00:07:27,174
+119
+00:07:23,641 --> 00:07:25,174
 Ya, aku takkan melewatkannya.
 
-119
-00:07:32,248 --> 00:07:33,513
+120
+00:07:30,248 --> 00:07:31,513
 Kau memojokkanku.
 / Ya, memang.
 
-120
-00:07:33,515 --> 00:07:35,149
+121
+00:07:31,515 --> 00:07:33,149
 Oh, ini Kara Danvers.
 
-121
-00:07:35,151 --> 00:07:37,218
+122
+00:07:33,151 --> 00:07:35,218
 Dia salah satu wartawan
 terbaik di National City.
 
-122
-00:07:38,416 --> 00:07:39,519
+123
+00:07:36,416 --> 00:07:37,519
 Hentikan.
 
-123
-00:07:43,184 --> 00:07:44,291
+124
+00:07:41,184 --> 00:07:42,291
 Aku harus pergi.
 
-124
-00:07:44,293 --> 00:07:45,659
+125
+00:07:42,293 --> 00:07:43,659
 Sebenarnya aku ...
 
-125
-00:07:45,661 --> 00:07:48,495
+126
+00:07:43,661 --> 00:07:46,495
 Aku harus memberitahu pembaca
 tentang terobosan medis berikutnya.
 
-126
-00:07:52,701 --> 00:07:54,835
+127
+00:07:50,701 --> 00:07:52,835
 Kara Danvers, kan?
 
-127
-00:07:54,837 --> 00:07:56,370
+128
+00:07:52,837 --> 00:07:54,370
 Apa aku mengenalmu?
 
-128
-00:07:56,372 --> 00:07:58,372
+129
+00:07:54,372 --> 00:07:56,372
 Aku tahu Jack Spheer.
 
-129
-00:07:59,108 --> 00:08:01,041
+130
+00:07:57,108 --> 00:07:59,041
 Aku punya beberapa
 informasi untukmu.
 
-130
-00:08:02,044 --> 00:08:04,078
+131
+00:08:00,044 --> 00:08:02,078
 Temui aku di tempat parkir
 di 4th and Main malam ini.
 
-131
-00:08:04,881 --> 00:08:06,881
+132
+00:08:02,881 --> 00:08:04,881
 Kau satu-satunya reporter
 yang bisa aku percaya.
 
-132
-00:08:07,783 --> 00:08:09,250
+133
+00:08:05,783 --> 00:08:07,250
 Jadi katakan padaku,
 
-133
-00:08:10,186 --> 00:08:11,518
+134
+00:08:08,186 --> 00:08:09,518
 Nano swarm. Bagaimana
 akhirnya memecahkannya itu?
 
-134
-00:08:11,520 --> 00:08:12,887
+135
+00:08:09,520 --> 00:08:10,887
 Aku akan memberitahumu
 saat makan malam.
 
-135
-00:08:13,956 --> 00:08:16,257
+136
+00:08:11,956 --> 00:08:14,257
 Ayolah. Sudah lama.
 Aku akan senang mengobrol.
 
-136
-00:08:17,082 --> 00:08:17,958
+137
+00:08:15,082 --> 00:08:15,958
 Jack.
 
-137
-00:08:18,109 --> 00:08:22,176
+138
+00:08:16,109 --> 00:08:20,176
 Permisi. Kau harus menemui
 para pemegang saham sebentar.
 
-138
-00:08:23,832 --> 00:08:25,266
+139
+00:08:21,832 --> 00:08:23,266
 Aku harus membiarkanmu
 melakukan itu.
 
-139
-00:08:25,268 --> 00:08:27,534
+140
+00:08:23,268 --> 00:08:25,534
 Senang bertemu denganmu.
 
-140
-00:08:48,657 --> 00:08:50,824
+141
+00:08:46,657 --> 00:08:48,824
 Sampai jumpa, teman-teman.
 
-141
-00:08:55,597 --> 00:08:57,464
+142
+00:08:53,597 --> 00:08:55,464
 Ya Tuhan. Apa kau serius?
 
-142
-00:08:57,466 --> 00:08:59,133
+143
+00:08:55,466 --> 00:08:57,133
 Apa yang kalian lakukan?
 
-143
-00:08:59,135 --> 00:09:01,135
+144
+00:08:57,135 --> 00:08:59,135
 Kau seharusnya
 mengawasi! / Guardian!
 
-144
-00:09:01,137 --> 00:09:03,804
+145
+00:08:59,137 --> 00:09:01,804
 Hei, bung! Kau telah
 menangkap orang-orang itu.
 
-145
-00:09:03,806 --> 00:09:05,105
+146
+00:09:01,806 --> 00:09:03,105
 Maksudku, kau
 tidak membutuhkanku.
 
-146
-00:09:05,107 --> 00:09:06,640
+147
+00:09:03,107 --> 00:09:04,640
 Kerja bagus.
 / Tenang, James.
 
-147
-00:09:06,642 --> 00:09:07,975
+148
+00:09:04,642 --> 00:09:05,975
 Kau menangkapnya.
 / Bagaimana ...
 
-148
-00:09:07,977 --> 00:09:10,477
+149
+00:09:05,977 --> 00:09:08,477
 Kau mengatakan padanya?
 / Aku tidak mengatakan padanya.
 
-149
-00:09:10,479 --> 00:09:11,611
+150
+00:09:08,479 --> 00:09:09,611
 Nah, lalu bagaimana kau tahu?
 
-150
-00:09:11,613 --> 00:09:14,448
+151
+00:09:09,613 --> 00:09:12,448
 Setiap manusia punya
 bau yang berbeda.
 
-151
-00:09:14,450 --> 00:09:16,883
+152
+00:09:12,450 --> 00:09:14,883
 Oh, hey, bauku seperti apa?
 
-152
-00:09:17,553 --> 00:09:18,885
+153
+00:09:15,553 --> 00:09:16,885
 Kau berbau seperti madu.
 
-153
-00:09:18,887 --> 00:09:21,555
+154
+00:09:16,887 --> 00:09:19,555
 Oke.
 
-154
-00:09:21,557 --> 00:09:23,657
+155
+00:09:19,557 --> 00:09:21,657
 Winn? Apa yang dia
 lakukan di sini? / Maaf.
 
-155
-00:09:23,659 --> 00:09:26,193
+156
+00:09:21,659 --> 00:09:24,193
 Dia di sini untuk membantu.
 
-156
-00:09:26,458 --> 00:09:28,695
+157
+00:09:24,458 --> 00:09:26,695
 Bantu apa? / Membantumu.
 Memerangi kejahatan.
 
-157
-00:09:28,697 --> 00:09:29,964
+158
+00:09:26,697 --> 00:09:27,964
 Ya!
 
-158
-00:09:32,969 --> 00:09:33,968
+159
+00:09:30,969 --> 00:09:31,968
 Lyra. / Ya?
 
-159
-00:09:33,970 --> 00:09:35,869
+160
+00:09:31,970 --> 00:09:33,869
 Sayang, bisakah kau ...
 
-160
-00:09:35,871 --> 00:09:38,205
+161
+00:09:33,871 --> 00:09:36,205
 memberikan aku dan
 rekanku waktu sebentar?
 
-161
-00:09:38,207 --> 00:09:39,539
+162
+00:09:36,207 --> 00:09:37,539
 Oh ya. / Ya.
 
-162
-00:09:39,541 --> 00:09:40,907
+163
+00:09:37,541 --> 00:09:38,907
 Jangan buru-buru. / Oke.
 
-163
-00:09:40,909 --> 00:09:43,043
+164
+00:09:38,909 --> 00:09:41,043
 Tapi jangan terlalu
 lama. / Tidak, Oke.
 
-164
-00:09:43,045 --> 00:09:46,113
+165
+00:09:41,045 --> 00:09:44,113
 Pertama-tama aku hanya ingin
 bilang aku minta maaf. Oke?
 
-165
-00:09:46,115 --> 00:09:48,915
+166
+00:09:44,115 --> 00:09:46,915
 kehidupan cintaku pasti harus terus ...
 
-166
-00:09:48,917 --> 00:09:49,984
+167
+00:09:46,917 --> 00:09:47,984
 Aku tidak mau bekerja dengannya.
 
-167
-00:09:49,986 --> 00:09:51,485
+168
+00:09:47,986 --> 00:09:49,485
 Sebelum kau bilang
 tidak ... / Tidak!
 
-168
-00:09:51,487 --> 00:09:54,754
+169
+00:09:49,487 --> 00:09:52,754
 Karena hingga saat ini,
 pacarmu adalah orang jahat.
 
-169
-00:09:54,756 --> 00:09:56,590
+170
+00:09:52,756 --> 00:09:54,590
 Dia hanya terpaksa
 menjadi seorang penjahat, kan?
 
-170
-00:09:56,592 --> 00:09:58,592
+171
+00:09:54,592 --> 00:09:56,592
 Kakaknya dalam
 bahaya, kau tahu itu!
 
-171
-00:09:58,594 --> 00:10:01,161
+172
+00:09:56,594 --> 00:09:59,161
 Dan sekarang, dia ingin menjadi
 anggota kontribusi dari masyarakat.
 
-172
-00:10:01,163 --> 00:10:02,829
+173
+00:09:59,163 --> 00:10:00,829
 Kita harus mendorong ini!
 
-173
-00:10:02,831 --> 00:10:05,332
+174
+00:10:00,831 --> 00:10:03,332
 Bukankah ini apa yang
 disebut Guardian?
 
-174
-00:10:05,334 --> 00:10:07,301
+175
+00:10:03,334 --> 00:10:05,301
 Benar, kan? Ditambah dia keren.
 
-175
-00:10:07,303 --> 00:10:09,536
+176
+00:10:05,303 --> 00:10:07,536
 Maksudku, sebagian orang
 akan mengatakan itu ...
 
-176
-00:10:09,538 --> 00:10:12,939
+177
+00:10:07,538 --> 00:10:10,939
 itu adalah tugasmu, jadi kumohon?
 
-177
-00:10:16,979 --> 00:10:20,147
+178
+00:10:14,979 --> 00:10:18,147
 Aku sudah menyesalinya.
 
-178
-00:10:20,092 --> 00:10:25,092
+179
+00:10:18,092 --> 00:10:23,092
 <i>Kunjungi <font color="#FF8000">acmbet.org</font>
 Agen Bola terpercaya kami</i>
 
-179
-00:10:29,758 --> 00:10:31,825
+180
+00:10:27,758 --> 00:10:29,825
 Ya, masuk.
 
-180
-00:10:35,564 --> 00:10:36,596
+181
+00:10:33,564 --> 00:10:34,596
 Kenapa aku?
 
-181
-00:10:36,598 --> 00:10:39,066
+182
+00:10:34,598 --> 00:10:37,066
 Kau memperingatkan
 alien tentang Cadmus.
 
-182
-00:10:39,068 --> 00:10:41,368
+183
+00:10:37,068 --> 00:10:39,368
 Kau ingin membantu
 orang. / Memang.
 
-183
-00:10:42,438 --> 00:10:43,737
+184
+00:10:40,438 --> 00:10:41,737
 Oke.
 
-184
-00:10:44,573 --> 00:10:46,673
+185
+00:10:42,573 --> 00:10:44,673
 Namaku Joe Watkins.
 
-185
-00:10:46,675 --> 00:10:48,842
+186
+00:10:44,675 --> 00:10:46,842
 Aku adalah seorang teknisi
 laboratorium di Spheerical.
 
-186
-00:10:48,844 --> 00:10:50,244
+187
+00:10:46,844 --> 00:10:48,244
 Aku dipecat bulan lalu.
 
-187
-00:10:50,251 --> 00:10:52,746
+188
+00:10:48,251 --> 00:10:50,746
 Apa ini ada hubungannya
 dengan nanobots Biomax?
 
-188
-00:10:52,994 --> 00:10:55,282
+189
+00:10:50,994 --> 00:10:53,282
 Aku orang yang mengarsipkan
 file di komputer mainframe.
 
-189
-00:10:56,052 --> 00:10:57,551
+190
+00:10:54,052 --> 00:10:55,551
 aku tahu bahwa
 
-190
-00:10:57,553 --> 00:11:00,954
+191
+00:10:55,553 --> 00:10:58,954
 hasil dari percobaan
 manusia belum dimulai.
 
-191
-00:11:00,956 --> 00:11:04,691
+192
+00:10:58,956 --> 00:11:02,691
 Aku pergi ke catatan publik, mereka tampak
 baik-baik saja, kata kuncinya "tampak."
 
-192
-00:11:08,564 --> 00:11:11,731
+193
+00:11:06,564 --> 00:11:09,731
 Tapi mengapa tidak ada
 apapun di arsip kami sendiri?
 
-193
-00:11:13,335 --> 00:11:15,302
+194
+00:11:11,335 --> 00:11:13,302
 Kupikir uji tes manusia dipalsukan.
 
-194
-00:11:17,373 --> 00:11:19,806
+195
+00:11:15,373 --> 00:11:17,806
 Jack tidak boleh meluncurkan
 Biomax sekarang.
 
-195
-00:11:19,808 --> 00:11:21,075
+196
+00:11:17,808 --> 00:11:19,075
 Ini belum siap.
 
-196
-00:11:21,077 --> 00:11:22,842
+197
+00:11:19,077 --> 00:11:20,842
 nanobots ini berbahaya ...
 
-197
-00:11:22,844 --> 00:11:24,211
+198
+00:11:20,844 --> 00:11:22,211
 Tunggu, kau dengar itu?
 
-198
-00:11:36,687 --> 00:11:38,862
+199
+00:11:34,687 --> 00:11:36,862
 <i><b><font color="#8080FF">Translated By
 Reivano Diego R.</font></b></i>
 
-199
-00:11:46,920 --> 00:11:48,052
+200
+00:11:44,920 --> 00:11:46,052
 Hei!
 
-200
-00:11:48,054 --> 00:11:49,854
+201
+00:11:46,054 --> 00:11:47,854
 Apa kau baik-baik saja? Aku
 mendengar tentang semalam.
 
-201
-00:11:49,856 --> 00:11:52,657
+202
+00:11:47,856 --> 00:11:50,657
 Ya. Aku baik-baik saja. Aku hanya ...
 Aku butuh bantuan darimu.
 
-202
-00:11:52,659 --> 00:11:53,992
+203
+00:11:50,659 --> 00:11:51,992
 Ya? / Informan yang kutemui
 
-203
-00:11:53,994 --> 00:11:56,227
+204
+00:11:51,994 --> 00:11:54,227
 mengatakan Spheerical
 memalsukan hasil lab mereka.
 
-204
-00:11:57,030 --> 00:11:58,630
+205
+00:11:55,030 --> 00:11:56,630
 Jadi aku harus mengajukan
 FOIA dengan FDA.
 
-205
-00:11:58,632 --> 00:11:59,864
+206
+00:11:56,632 --> 00:11:57,864
 Kau tidak perlu
 bantuan CatCo untuk itu.
 
-206
-00:11:59,866 --> 00:12:01,966
+207
+00:11:57,866 --> 00:11:59,966
 Siapa saja dapat mengajukan
 permintaan Kebebasan Informasi.
 
-207
-00:12:01,968 --> 00:12:05,937
+208
+00:11:59,968 --> 00:12:03,937
 Ya, tapi pemerintah akan merespon lebih
 cepat jika CatCo yang mengajukannya.
 
-208
-00:12:06,773 --> 00:12:08,272
+209
+00:12:04,773 --> 00:12:06,272
 James, informan itu meninggal.
 
-209
-00:12:09,375 --> 00:12:10,708
+210
+00:12:07,375 --> 00:12:08,708
 Tepat di depanku.
 
-210
-00:12:12,012 --> 00:12:13,711
+211
+00:12:10,012 --> 00:12:11,711
 Aku akan mendapatkan
 FOIA untukmu.
 
-211
-00:12:13,713 --> 00:12:15,713
+212
+00:12:11,713 --> 00:12:13,713
 James, waktunya
 menerbitkan sampul lainnya,
 
-212
-00:12:15,715 --> 00:12:17,915
+213
+00:12:13,715 --> 00:12:15,915
 Aku punya petunjuk
 pada Spheerical dan ...
 
-213
-00:12:20,586 --> 00:12:21,686
+214
+00:12:18,586 --> 00:12:19,686
 Apa, ikat rambutmu ketinggalan?
 
-214
-00:12:21,688 --> 00:12:23,187
+215
+00:12:19,688 --> 00:12:21,187
 Sebenarnya, aku di sini
 untuk mengajukan FOIA ...
 
-215
-00:12:23,189 --> 00:12:25,589
+216
+00:12:21,189 --> 00:12:23,589
 Sebenarnya, tidak.
 Bukankah aku memecatmu?
 
-216
-00:12:25,591 --> 00:12:27,191
+217
+00:12:23,591 --> 00:12:25,191
 CatCo terlarang.
 
-217
-00:12:27,193 --> 00:12:29,694
+218
+00:12:25,193 --> 00:12:27,694
 Sebenarnya tidak, karena aku
 di sini dan dia temanku
 
-218
-00:12:29,696 --> 00:12:31,262
+219
+00:12:27,696 --> 00:12:29,262
 dan dia bisa kesini kapan
 saja yang dia inginkan.
 
-219
-00:12:31,264 --> 00:12:33,531
+220
+00:12:29,264 --> 00:12:31,531
 Tapi dia tak bisa menggunakan
 sumber daya CatCo.
 
-220
-00:12:33,533 --> 00:12:36,734
+221
+00:12:31,533 --> 00:12:34,734
 Nah, aku bukan yang menggunakan sumber
 daya CatCo. James yang akan mengajukannya.
 
-221
-00:12:37,370 --> 00:12:39,704
+222
+00:12:35,370 --> 00:12:37,704
 Oh, silahkan.
 
-222
-00:12:39,706 --> 00:12:41,272
+223
+00:12:37,706 --> 00:12:39,272
 Melakukan perselisihan
 kepentingan yang serius.
 
-223
-00:12:41,274 --> 00:12:43,975
+224
+00:12:39,274 --> 00:12:41,975
 Menghancurkan integritas
 kerajaan media ini.
 
-224
-00:12:43,977 --> 00:12:47,244
+225
+00:12:41,977 --> 00:12:45,244
 Kau tahu? Jangan dipikirkan.
 Tidak apa-apa, James.
 
-225
-00:12:48,214 --> 00:12:49,446
+226
+00:12:46,214 --> 00:12:47,446
 Ini belum berakhir.
 
-226
-00:12:49,849 --> 00:12:51,182
+227
+00:12:47,849 --> 00:12:49,182
 Pergilah menjadi
 seorang blogger.
 
-227
-00:12:52,052 --> 00:12:53,284
+228
+00:12:50,052 --> 00:12:51,284
 Biarkan orang-orang dewasa
 melakukan pelaporan yang sebenarnya.
 
-228
-00:13:00,593 --> 00:13:02,493
+229
+00:12:58,593 --> 00:13:00,493
 ... memiliki grafis dengan judul baru.
 
-229
-00:13:02,495 --> 00:13:04,696
+230
+00:13:00,495 --> 00:13:02,696
 Aku punya petunjuk tentang
 salah satu orang yang diduga
 
-230
-00:13:04,698 --> 00:13:07,331
+231
+00:13:02,698 --> 00:13:05,331
 menjadi subjek tes untuk
 percobaan manusia Spheerical.
 
-231
-00:13:07,333 --> 00:13:08,766
+232
+00:13:05,333 --> 00:13:06,766
 Aku menemuinya malam ini.
 
-232
-00:13:13,406 --> 00:13:15,339
+233
+00:13:11,406 --> 00:13:13,339
 Hector, kau bisa
 membatalkan makan malam?
 
-233
-00:13:16,375 --> 00:13:17,241
+234
+00:13:14,375 --> 00:13:15,241
 Ini setidaknya membutuhkan
 
-234
-00:13:17,243 --> 00:13:19,543
+235
+00:13:15,243 --> 00:13:17,543
 sampai jam delapan dan aku
 sepenuhnya berniat melanjutkannya.
 
-235
-00:13:19,545 --> 00:13:20,878
+236
+00:13:17,545 --> 00:13:18,878
 Itu mengecewakan.
 
-236
-00:13:23,883 --> 00:13:25,416
+237
+00:13:21,883 --> 00:13:23,416
 Kau tidak memiliki
 janji. / Tidak.
 
-237
-00:13:26,352 --> 00:13:28,186
+238
+00:13:24,352 --> 00:13:26,186
 Tapi aku berharap mendapatkan satu.
 
-238
-00:13:29,388 --> 00:13:30,988
+239
+00:13:27,388 --> 00:13:28,988
 Bagaimana kau bisa lewat Hector?
 
-239
-00:13:31,657 --> 00:13:32,957
+240
+00:13:29,657 --> 00:13:30,957
 Tidak ada yang di atas saat
 istirahat makanan ringan.
 
-240
-00:13:33,857 --> 00:13:37,596
+241
+00:13:31,857 --> 00:13:35,596
 Jadi, aku tahu kau punya waktu luang
 untuk makan malam, kabar baik,
 
-241
-00:13:37,597 --> 00:13:40,765
+242
+00:13:35,597 --> 00:13:38,765
 tetapi kau tidak tertarik
 makan malam, berita buruk.
 
-242
-00:13:40,767 --> 00:13:43,835
+243
+00:13:38,767 --> 00:13:41,835
 Sudah terjadi emosional yang
 bergejolak sejak aku berjalan di sini.
 
-243
-00:13:43,837 --> 00:13:46,204
+244
+00:13:41,837 --> 00:13:44,204
 Oh, yeah, kau tampak kacau.
 / Oh, benar sekali.
 
-244
-00:13:46,206 --> 00:13:48,139
+245
+00:13:44,206 --> 00:13:46,139
 Tapi aku berharap aku
 tidak memiliki cukup data.
 
-245
-00:13:48,141 --> 00:13:53,310
+246
+00:13:46,141 --> 00:13:51,310
 Misalnya, apakah kau bersedia untuk pergi
 makan malam jika aku adalah sebuah faktor?
 
-246
-00:13:53,813 --> 00:13:55,012
+247
+00:13:51,813 --> 00:13:53,012
 Tidak.
 
-247
-00:13:56,116 --> 00:13:57,414
+248
+00:13:54,116 --> 00:13:55,414
 Apa kau marah padaku?
 
-248
-00:13:58,317 --> 00:14:00,785
+249
+00:13:56,317 --> 00:13:58,785
 Apa karena aku memecahkan
 kode nano sendiri?
 
-249
-00:14:00,787 --> 00:14:02,019
+250
+00:13:58,787 --> 00:14:00,019
 Tampaknya tidak penting bagimu.
 
-250
-00:14:02,021 --> 00:14:04,588
+251
+00:14:00,021 --> 00:14:02,588
 Hentikan, Jacky. Kau tahu
 aku berharap kau berhasil.
 
-251
-00:14:04,590 --> 00:14:05,656
+252
+00:14:02,590 --> 00:14:03,656
 Tapi?
 
-252
-00:14:05,658 --> 00:14:07,058
+253
+00:14:03,658 --> 00:14:05,058
 Aku masih takkan pergi
 makan malam denganmu.
 
-253
-00:14:12,031 --> 00:14:13,464
+254
+00:14:10,031 --> 00:14:11,464
 Apa kau bersenang-senang di sini?
 
-254
-00:14:15,434 --> 00:14:17,268
+255
+00:14:13,434 --> 00:14:15,268
 Aku merasa baik tentang
 pekerjaan yang kita lakukan.
 
-255
-00:14:18,104 --> 00:14:19,670
+256
+00:14:16,104 --> 00:14:17,670
 Kau bersenang-senang denganku.
 
-256
-00:14:20,774 --> 00:14:23,340
+257
+00:14:18,774 --> 00:14:21,340
 Maksudku, mengganggu
 penglihatanmu menatap ke mikroskop.
 
-257
-00:14:24,844 --> 00:14:26,878
+258
+00:14:22,844 --> 00:14:24,878
 Melempar mikroskop ke kepalaku
 
-258
-00:14:26,880 --> 00:14:28,913
+259
+00:14:24,880 --> 00:14:26,913
 ketika aku tak tertahankan.
 
-259
-00:14:30,950 --> 00:14:32,650
+260
+00:14:28,950 --> 00:14:30,650
 Aku tidak suka cara sesuatu
 berakhir pada kita.
 
-260
-00:14:36,355 --> 00:14:38,156
+261
+00:14:34,355 --> 00:14:36,156
 Kau bisa membuatnya
 lebih mudah padaku.
 
-261
-00:14:38,825 --> 00:14:40,158
+262
+00:14:36,825 --> 00:14:38,158
 Ini tidak seperti aku ingin pergi.
 
-262
-00:14:40,894 --> 00:14:42,293
+263
+00:14:38,894 --> 00:14:40,293
 Aku tidak disini untuk
 membuat lebih sulit.
 
-263
-00:14:43,562 --> 00:14:45,029
+264
+00:14:41,562 --> 00:14:43,029
 Aku hanya merindukanmu.
 
-264
-00:14:48,701 --> 00:14:52,170
+265
+00:14:46,701 --> 00:14:50,170
 Bolehkah aku makan
 malam denganmu?
 
-265
-00:14:53,006 --> 00:14:54,438
+266
+00:14:51,006 --> 00:14:52,438
 Sesederhana itu.
 
-266
-00:14:55,441 --> 00:14:57,608
+267
+00:14:53,441 --> 00:14:55,608
 Hanya makan malam? / Ini
 sepenuhnya hak istimewamu.
 
-267
-00:15:00,713 --> 00:15:02,847
+268
+00:14:58,713 --> 00:15:00,847
 perampokan bersenjata
 berlangsung di 4th dan 6th.
 
-268
-00:15:03,082 --> 00:15:04,882
+269
+00:15:01,082 --> 00:15:02,882
 Hei, kau tahu apa yang harus
 dilakukan, teman, kau bisa.
 
-269
-00:15:12,458 --> 00:15:13,757
+270
+00:15:10,458 --> 00:15:11,757
 Kau hanya anak-anak.
 
-270
-00:15:18,064 --> 00:15:19,663
+271
+00:15:16,064 --> 00:15:17,663
 Tidak!, tolong, jangan ...
 
-271
-00:15:23,136 --> 00:15:24,401
+272
+00:15:21,136 --> 00:15:22,401
 Tidak!
 
-272
-00:15:24,403 --> 00:15:26,070
+273
+00:15:22,403 --> 00:15:24,070
 Apa yang kau lakukan?
 / Dia seorang penjahat!
 
-273
-00:15:26,421 --> 00:15:27,671
+274
+00:15:24,421 --> 00:15:25,671
 Dia pantas dihukum!
 
-274
-00:15:28,308 --> 00:15:30,308
+275
+00:15:26,308 --> 00:15:28,308
 Pergi! Masuk ke van.
 
-275
-00:15:30,877 --> 00:15:32,243
+276
+00:15:28,877 --> 00:15:30,243
 Pergi!
 
-276
-00:15:37,016 --> 00:15:38,983
+277
+00:15:35,016 --> 00:15:36,983
 Snap Carr. CatCo Media.
 
-277
-00:15:38,985 --> 00:15:40,551
+278
+00:15:36,985 --> 00:15:38,551
 Kita punya kencan.
 
-278
-00:15:43,256 --> 00:15:44,488
+279
+00:15:41,256 --> 00:15:42,488
 Derrick Simmons?
 
-279
-00:15:48,161 --> 00:15:49,626
+280
+00:15:46,161 --> 00:15:47,626
 Baiklah. Mari kita bicara.
 
-280
-00:15:50,796 --> 00:15:52,830
+281
+00:15:48,796 --> 00:15:50,830
 Berapa banyak yang
 kau ketahui tentang Biomax?
 
-281
-00:15:52,832 --> 00:15:54,065
+282
+00:15:50,832 --> 00:15:52,065
 Tidak banyak.
 
-282
-00:15:58,204 --> 00:16:00,137
+283
+00:15:56,204 --> 00:15:58,137
 Mereka membayarmu untuk
 berpartisipasi dalam percobaan manusia.
 
-283
-00:16:00,139 --> 00:16:02,039
+284
+00:15:58,139 --> 00:16:00,039
 Apa kau benar-benar berpartisipasi?
 
-284
-00:16:02,041 --> 00:16:03,241
+285
+00:16:00,041 --> 00:16:01,241
 Secara teknis.
 
-285
-00:16:05,778 --> 00:16:07,444
+286
+00:16:03,778 --> 00:16:05,444
 Aku datang dan
 menandatangani formulir.
 
-286
-00:16:07,446 --> 00:16:09,280
+287
+00:16:05,446 --> 00:16:07,280
 Tapi hanya itu, tidak ada tes.
 
-287
-00:16:09,487 --> 00:16:11,082
+288
+00:16:07,487 --> 00:16:09,082
 Jika ada, aku bukan
 bagian dari mereka.
 
-288
-00:16:12,986 --> 00:16:14,618
+289
+00:16:10,986 --> 00:16:12,618
 Oke.
 
-289
-00:16:20,593 --> 00:16:22,726
+290
+00:16:18,593 --> 00:16:20,726
 Mereka mencoba
 untuk ... / Apa itu?
 
-290
-00:16:29,285 --> 00:16:31,369
+291
+00:16:27,285 --> 00:16:29,369
 Tidak, lepaskan! Lepaskan!
 
-291
-00:16:47,342 --> 00:16:48,819
+292
+00:16:45,342 --> 00:16:46,819
 Ayo pergi dari sini!
 
-292
-00:17:07,699 --> 00:17:09,799
+293
+00:17:05,699 --> 00:17:07,799
 Oh, jadi itu berjalan lancar?
 
-293
-00:17:09,456 --> 00:17:11,423
+294
+00:17:07,456 --> 00:17:09,423
 Segerombolan nano Jack
 Spheer memakan sumberku.
 
-294
-00:17:11,425 --> 00:17:12,591
+295
+00:17:09,425 --> 00:17:10,591
 Oh tidak. Apa kau baik-baik saja?
 
-295
-00:17:12,593 --> 00:17:14,293
+296
+00:17:10,593 --> 00:17:12,293
 Dua orang tewas, dan aku
 tidak menyelamatkan mereka!
 
-296
-00:17:14,295 --> 00:17:16,428
+297
+00:17:12,295 --> 00:17:14,428
 Oke, tenanglah.
 / Dan aku tidak tahu
 
-297
-00:17:16,430 --> 00:17:18,130
+298
+00:17:14,430 --> 00:17:16,130
 bagaimana menghentikan segerombolan
 nano dari membunuh orang lain.
 
-298
-00:17:18,132 --> 00:17:19,431
+299
+00:17:16,132 --> 00:17:17,431
 Tidak ada sumber, tidak ada petunjuk ...
 
-299
-00:17:19,433 --> 00:17:20,933
+300
+00:17:17,433 --> 00:17:18,933
 Bagaimana Lena? / Apa?
 
-300
-00:17:20,935 --> 00:17:22,802
+301
+00:17:18,935 --> 00:17:20,802
 Dia makan malam dengan Jack.
 / Bagaimana kau tahu itu?
 
-301
-00:17:22,804 --> 00:17:24,469
+302
+00:17:20,804 --> 00:17:22,469
 Dia menghubungi
 dan dia berharap bahwa
 
-302
-00:17:24,471 --> 00:17:26,072
+303
+00:17:22,471 --> 00:17:24,072
 kau akan berbicara
 padanya atas itu.
 
-303
-00:17:27,274 --> 00:17:29,474
+304
+00:17:25,274 --> 00:17:27,474
 Ayo pergi. / Aku hanya tidak berpikir
 maksudnya "secara pribadi."
 
-304
-00:17:29,476 --> 00:17:31,043
+305
+00:17:27,476 --> 00:17:29,043
 Apa hanya ... / Tidak, ayolah!
 
-305
-00:17:31,045 --> 00:17:33,012
+306
+00:17:29,045 --> 00:17:31,012
 Ini hanya terasa seperti menguntit.
 
-306
-00:17:33,014 --> 00:17:34,914
+307
+00:17:31,014 --> 00:17:32,914
 Tidak, itu jurnalisme. / Oke.
 
-307
-00:17:35,850 --> 00:17:38,417
+308
+00:17:33,850 --> 00:17:36,417
 Ini jurnalisme yang
 sangat menyeramkan.
 
-308
-00:17:40,421 --> 00:17:41,821
+309
+00:17:38,421 --> 00:17:39,821
 Terima kasih telah datang.
 
-309
-00:17:41,823 --> 00:17:44,023
+310
+00:17:39,823 --> 00:17:42,023
 Aku tahu L-Corp sangat menuntut.
 
-310
-00:17:45,727 --> 00:17:46,792
+311
+00:17:43,727 --> 00:17:44,792
 Aku menikmatinya, kau tahu.
 
-311
-00:17:46,794 --> 00:17:48,728
+312
+00:17:44,794 --> 00:17:46,728
 Untuk apa yang layak. / Kau
 selalu menyukai tantangan.
 
-312
-00:17:49,864 --> 00:17:52,297
+313
+00:17:47,864 --> 00:17:50,297
 Kau terlihat menakjubkan.
 
-313
-00:17:52,767 --> 00:17:54,867
+314
+00:17:50,767 --> 00:17:52,867
 Ya Tuhan!
 
-314
-00:17:55,436 --> 00:17:56,335
+315
+00:17:53,436 --> 00:17:54,335
 Apa kalian makan di sini?
 
-315
-00:17:56,337 --> 00:17:57,737
+316
+00:17:54,337 --> 00:17:55,737
 Kami makan di sini!
 / Kami makan di sini!
 
-316
-00:17:58,539 --> 00:18:00,139
+317
+00:17:56,539 --> 00:17:58,139
 Benar-benar kebetulan
 pengucapan yang sama.
 
-317
-00:18:00,439 --> 00:18:01,406
+318
+00:17:58,439 --> 00:17:59,406
 Ms. Danvers.
 
-318
-00:18:01,408 --> 00:18:02,842
+319
+00:17:59,408 --> 00:18:00,842
 Ya, ini pacarku, Mike.
 
-319
-00:18:02,844 --> 00:18:03,976
-Mike.
-
 320
-00:18:03,978 --> 00:18:05,177
+00:18:00,844 --> 00:18:01,976
 Mike.
 
 321
-00:18:05,880 --> 00:18:07,312
-Aku secara jelas meminta
+00:18:01,978 --> 00:18:03,177
+Mike.
 
 322
-00:18:07,314 --> 00:18:09,348
+00:18:03,880 --> 00:18:05,312
+Aku secara jelas meminta
+
+323
+00:18:05,314 --> 00:18:07,348
 bahwa aku menjadi orang
 tertampan di restoran malam ini.
 
-323
-00:18:09,350 --> 00:18:11,650
+324
+00:18:07,350 --> 00:18:09,650
 Dia menawan.
 
-324
-00:18:11,652 --> 00:18:12,885
+325
+00:18:09,652 --> 00:18:10,885
 Apa kau keberatan jika kami bergabung?
 
-325
-00:18:13,460 --> 00:18:14,686
+326
+00:18:11,460 --> 00:18:12,686
 Ya, mari duduk di sini.
 
-326
-00:18:15,522 --> 00:18:16,688
+327
+00:18:13,522 --> 00:18:14,688
 Kara, aku menghargai penyelamatan,
 
-327
-00:18:16,690 --> 00:18:18,791
+328
+00:18:14,690 --> 00:18:16,791
 Tapi itu tidak perlu.
 / Itulah gunanya teman.
 
-328
-00:18:19,693 --> 00:18:22,302
+329
+00:18:17,693 --> 00:18:20,302
 Jadi, Jack, bagaimana
 peluncuran Biomax berjalan?
 
-329
-00:18:22,303 --> 00:18:24,596
+330
+00:18:20,303 --> 00:18:22,596
 Apa kau mencoba agar aku
 menjadi bidikanmu, Ms. Danvers?
 
-330
-00:18:24,598 --> 00:18:25,965
+331
+00:18:22,598 --> 00:18:23,965
 Pekerjaan wartawan
 tidak pernah selesai.
 
-331
-00:18:26,400 --> 00:18:27,499
+332
+00:18:24,400 --> 00:18:25,499
 Aku bisa menghormati itu.
 
-332
-00:18:27,501 --> 00:18:30,269
+333
+00:18:25,501 --> 00:18:28,269
 Biomax mengagumkan, sejauh ini.
 
-333
-00:18:30,271 --> 00:18:31,703
+334
+00:18:28,271 --> 00:18:29,703
 Jadi, bagaimana kau tahu itu siap?
 
-334
-00:18:31,705 --> 00:18:35,007
+335
+00:18:29,705 --> 00:18:33,007
 Apa kau ... melakukan uji
 coba? percobaan manusia?
 
-335
-00:18:35,009 --> 00:18:37,243
+336
+00:18:33,009 --> 00:18:35,243
 Itu semua catatan publik
 jika kau penasaran.
 
-336
-00:18:37,245 --> 00:18:38,577
+337
+00:18:35,245 --> 00:18:36,577
 Bagaimana kau mengetahuinya?
 
-337
-00:18:39,280 --> 00:18:40,545
+338
+00:18:37,280 --> 00:18:38,545
 Aku ingin tahu.
 
-338
-00:18:41,315 --> 00:18:42,848
+339
+00:18:39,315 --> 00:18:40,848
 Apa itu satu-satunya
 alasan kau datang?
 
-339
-00:18:43,484 --> 00:18:44,683
+340
+00:18:41,484 --> 00:18:42,683
 Tidak.
 
-340
-00:18:45,552 --> 00:18:49,121
+341
+00:18:43,552 --> 00:18:47,121
 Oke, jadi, beberapa bulan
 setelah kau pergi,
 
-341
-00:18:49,123 --> 00:18:50,956
+342
+00:18:47,123 --> 00:18:48,956
 Aku terjaga sepanjang malam.
 
-342
-00:18:51,692 --> 00:18:53,392
+343
+00:18:49,692 --> 00:18:51,392
 Dan matahari terbit,
 
-343
-00:18:54,295 --> 00:18:56,762
+344
+00:18:52,295 --> 00:18:54,762
 dan ada kawanan
 burung jalak lewat.
 
-344
-00:18:57,765 --> 00:18:59,765
+345
+00:18:55,765 --> 00:18:57,765
 Dan mereka semua bergerak dalam
 keseimbangan yang sempurna.
 
-345
-00:19:00,668 --> 00:19:02,802
+346
+00:18:58,668 --> 00:19:00,802
 Seperti ketika salah satu berbelok,
 semua yang lain mengikutinya.
 
-346
-00:19:03,771 --> 00:19:05,437
+347
+00:19:01,771 --> 00:19:03,437
 Dan kupikir,
 
-347
-00:19:06,274 --> 00:19:08,274
+348
+00:19:04,274 --> 00:19:06,274
 "Aku telah membuat kesalahan besar."
 
-348
-00:19:10,878 --> 00:19:12,444
+349
+00:19:08,878 --> 00:19:10,444
 "Aku harusnya pergi bersamanya.
 
-349
-00:19:14,081 --> 00:19:15,915
+350
+00:19:12,081 --> 00:19:13,915
 "Aku tidak baik tanpanya."
 
-350
-00:19:18,519 --> 00:19:21,753
+351
+00:19:16,519 --> 00:19:19,753
 Lalu aku sadar bahwa aku telah membuat
 kawanan nano pada jenis hewan yang salah.
 
-351
-00:19:21,876 --> 00:19:25,424
+352
+00:19:19,876 --> 00:19:23,424
 Lebah membutuhkan basis,
 seorang ratu, berputar di sekitar.
 
-352
-00:19:25,426 --> 00:19:27,392
+353
+00:19:23,426 --> 00:19:25,392
 Kami berusaha membuat
 nanobot ke dalam Ratu
 
-353
-00:19:27,394 --> 00:19:29,028
+354
+00:19:25,394 --> 00:19:27,028
 dengan pemrograman
 algoritma pelindung, tapi ...
 
-354
-00:19:29,030 --> 00:19:30,729
+355
+00:19:27,030 --> 00:19:28,729
 Ya Tuhan. Murmuration.
 
-355
-00:19:31,565 --> 00:19:32,564
+356
+00:19:29,565 --> 00:19:30,564
 Ya. / Segerombolan
 nano itu bermigrasi.
 
-356
-00:19:32,566 --> 00:19:34,266
+357
+00:19:30,566 --> 00:19:32,266
 Iya. / Ini terkait AI hidup.
 
-357
-00:19:34,268 --> 00:19:35,400
+358
+00:19:32,268 --> 00:19:33,400
 Dan itu semua dikendalikan
 
-358
-00:19:35,402 --> 00:19:37,203
+359
+00:19:33,402 --> 00:19:35,203
 melalui lab mainframe Spheerical.
 
-359
-00:19:37,972 --> 00:19:40,172
+360
+00:19:35,972 --> 00:19:38,172
 Dan aku takkan
 pernah sampai di sana
 
-360
-00:19:40,174 --> 00:19:41,874
+361
+00:19:38,174 --> 00:19:39,874
 jika aku tidak pernah
 berpikir tentangmu.
 
-361
-00:19:43,610 --> 00:19:45,610
+362
+00:19:41,610 --> 00:19:43,610
 Omong-omong ... Aku
 juga bertanya-tanya ...
 
-362
-00:19:45,612 --> 00:19:48,413
+363
+00:19:43,612 --> 00:19:46,413
 Mungkin lain waktu.
 / Lena, ... apa kau ...
 
-363
-00:19:48,415 --> 00:19:50,983
+364
+00:19:46,415 --> 00:19:48,983
 Ya, kupikir Jack dan
 aku perlu bicara.
 
-364
-00:19:51,752 --> 00:19:54,553
+365
+00:19:49,752 --> 00:19:52,553
 Lanjutkan. / Kami ... akan keluar.
 
-365
-00:19:55,456 --> 00:19:57,957
+366
+00:19:53,456 --> 00:19:55,957
 Karena tidak ada yang
 bisa menghalangi asmara.
 
-366
-00:20:00,494 --> 00:20:03,462
+367
+00:19:58,494 --> 00:20:01,462
 Jack! Tidak.
 
-367
-00:20:03,464 --> 00:20:05,597
+368
+00:20:01,464 --> 00:20:03,597
 Hei, dengar, aku merasa
 ada ikatan denganmu.
 
-368
-00:20:05,599 --> 00:20:07,599
+369
+00:20:03,599 --> 00:20:05,599
 Seperti ikatan-pria?
 
-369
-00:20:07,601 --> 00:20:09,235
+370
+00:20:05,601 --> 00:20:07,235
 Kita harus pergi bersama.
 Kau harus menghubungiku.
 
-370
-00:20:09,237 --> 00:20:10,236
+371
+00:20:07,237 --> 00:20:08,236
 Ya, tentu, aku akan melakukannya.
 
-371
-00:20:10,238 --> 00:20:11,470
+372
+00:20:08,238 --> 00:20:09,470
 Baiklah.
 
-372
-00:20:12,340 --> 00:20:14,073
+373
+00:20:10,340 --> 00:20:12,073
 Selamat malam.
 / Selamat malam.
 
-373
-00:20:16,377 --> 00:20:18,777
+374
+00:20:14,377 --> 00:20:16,777
 Apa yang kau lakukan? / Aku
 mencuri lencana keamanan Jack.
 
-374
-00:20:19,347 --> 00:20:21,146
+375
+00:20:17,347 --> 00:20:19,146
 Kau tahu, untuk jurnalisme.
 
-375
-00:20:21,148 --> 00:20:23,082
+376
+00:20:19,148 --> 00:20:21,082
 Apa yang kau lakukan?
 
-376
-00:20:23,084 --> 00:20:25,217
+377
+00:20:21,084 --> 00:20:23,217
 Gunakan aku untuk kebaikan.
 
-377
-00:20:25,486 --> 00:20:26,485
+378
+00:20:23,486 --> 00:20:24,485
 Kumohon.
 
-378
-00:20:26,487 --> 00:20:28,187
+379
+00:20:24,487 --> 00:20:26,187
 Ini pengecualian.
 / Yeah! Shenanigans!
 
-379
-00:20:28,189 --> 00:20:29,521
+380
+00:20:26,189 --> 00:20:27,521
 Diam.
 
-380
-00:20:33,160 --> 00:20:35,394
+381
+00:20:31,160 --> 00:20:33,394
 Ini pemandangan
 yang indah, Lena.
 
-381
-00:20:35,396 --> 00:20:37,329
+382
+00:20:33,396 --> 00:20:35,329
 Ini cukup baik.
 
-382
-00:20:37,731 --> 00:20:39,698
+383
+00:20:35,731 --> 00:20:37,698
 Oh, cukup mengerikan.
 
-383
-00:20:39,700 --> 00:20:41,633
+384
+00:20:37,700 --> 00:20:39,633
 Oh tidak. Kau tidak
 boleh mengatakan itu.
 
-384
-00:20:42,669 --> 00:20:44,436
+385
+00:20:40,669 --> 00:20:42,436
 Aku konyol. Aku tahu. / Ya.
 
-385
-00:20:51,212 --> 00:20:53,812
+386
+00:20:49,212 --> 00:20:51,812
 Maafkan aku.
 / Untuk apa?
 
-386
-00:20:54,248 --> 00:20:55,247
+387
+00:20:52,248 --> 00:20:53,247
 Aku membuatmu memilih.
 
-387
-00:20:56,250 --> 00:20:59,518
+388
+00:20:54,250 --> 00:20:57,518
 L-Corp atau aku. Aku serakah.
 
-388
-00:20:59,921 --> 00:21:01,186
+389
+00:20:57,921 --> 00:20:59,186
 Kau terluka.
 
-389
-00:21:05,459 --> 00:21:09,261
+390
+00:21:03,459 --> 00:21:07,261
 Kau tahu, aku kadang bertanya-tanya apa
 yang akan terjadi jika aku tetap tinggal.
 
-390
-00:21:11,032 --> 00:21:14,333
+391
+00:21:09,032 --> 00:21:12,333
 Mungkin kita akan menemukan
 kawanan nano bersama-sama.
 
-391
-00:21:15,769 --> 00:21:18,637
+392
+00:21:13,769 --> 00:21:16,637
 Mungkin aku akan memiliki warisanku
 sendiri terpisah dari keluargaku.
 
-392
-00:21:20,975 --> 00:21:22,541
+393
+00:21:18,975 --> 00:21:20,541
 Sekarang aku bertanya-tanya
 apa yang akan terjadi
 
-393
-00:21:23,311 --> 00:21:24,443
+394
+00:21:21,311 --> 00:21:22,443
 jika aku mengatakan ada ruang
 
-394
-00:21:25,512 --> 00:21:27,413
+395
+00:21:23,512 --> 00:21:25,413
 bagiku dan keluargamu.
 
-395
-00:21:28,215 --> 00:21:30,049
+396
+00:21:26,215 --> 00:21:28,049
 Maksudku, jika aku
 telah membuat ruang ...
 
-396
-00:21:32,987 --> 00:21:34,553
+397
+00:21:30,987 --> 00:21:32,553
 Jika aku masih bisa melakukan itu.
 
-397
-00:21:45,833 --> 00:21:47,532
+398
+00:21:43,833 --> 00:21:45,532
 Oke. / Oke.
 
-398
-00:21:49,603 --> 00:21:51,437
+399
+00:21:47,603 --> 00:21:49,437
 Jangan berisik.
 / Tenanglah.
 
-399
-00:21:52,840 --> 00:21:54,606
+400
+00:21:50,840 --> 00:21:52,606
 Turunkan itu.
 / Apa? Aku membantu.
 
-400
-00:21:54,608 --> 00:21:56,442
+401
+00:21:52,608 --> 00:21:54,442
 Aku wanita dengan visi X-ray.
 
-401
-00:21:57,278 --> 00:21:59,244
+402
+00:21:55,278 --> 00:21:57,244
 Penjelasan yang
 bagus. / Oh baiklah.
 
-402
-00:22:05,140 --> 00:22:07,052
+403
+00:22:03,140 --> 00:22:05,052
 Itu mudah.
 
-403
-00:22:10,191 --> 00:22:11,190
+404
+00:22:08,191 --> 00:22:09,190
 Ini kantor yang bagus.
 
-404
-00:22:11,192 --> 00:22:12,724
+405
+00:22:09,192 --> 00:22:10,724
 Oke.
 
-405
-00:22:21,063 --> 00:22:22,709
+406
+00:22:19,063 --> 00:22:20,709
 <i><font color="#FF8000">AKSES DIBERIKAN</font></i>
 
-406
-00:22:22,710 --> 00:22:23,835
+407
+00:22:20,710 --> 00:22:21,835
 Bagaimana kau melakukannya?
 
-407
-00:22:23,837 --> 00:22:25,670
+408
+00:22:21,837 --> 00:22:23,670
 Sandinya "Jalak."
 
-408
-00:22:26,540 --> 00:22:28,107
+409
+00:22:24,540 --> 00:22:26,107
 Bajingan romantis.
 
-409
-00:22:28,109 --> 00:22:29,441
+410
+00:22:26,109 --> 00:22:27,441
 Oke, kita mulai.
 
-410
-00:22:30,572 --> 00:22:32,344
+411
+00:22:28,572 --> 00:22:30,344
 percobaan manusia.
 
-411
-00:22:33,447 --> 00:22:36,515
+412
+00:22:31,447 --> 00:22:34,515
 Ini kosong. Informan itu benar.
 
-412
-00:22:36,517 --> 00:22:37,816
+413
+00:22:34,517 --> 00:22:35,816
 Tidak, bagaimana
 dengan yang satu ini?
 
-413
-00:22:39,987 --> 00:22:42,554
+414
+00:22:37,987 --> 00:22:40,554
 Biomax versi 38.
 
-414
-00:22:46,660 --> 00:22:48,560
+415
+00:22:44,660 --> 00:22:46,560
 percobaan satu manusia.
 
-415
-00:22:49,430 --> 00:22:50,662
+416
+00:22:47,430 --> 00:22:48,662
 Mulai.
 
-416
-00:22:53,794 --> 00:22:55,734
+417
+00:22:51,794 --> 00:22:53,734
 Ya Tuhan.
 
-417
-00:23:02,176 --> 00:23:04,410
+418
+00:23:00,176 --> 00:23:02,410
 Percobaan manusia tidak hilang.
 
-418
-00:23:04,412 --> 00:23:05,844
+419
+00:23:02,412 --> 00:23:03,844
 Tidak ada apapun percobaan manusia.
 
-419
-00:23:05,846 --> 00:23:08,613
+420
+00:23:03,846 --> 00:23:06,613
 Jack tahu segerombolan
 nano berbahaya dari awal.
 
-420
-00:23:08,615 --> 00:23:10,949
+421
+00:23:06,615 --> 00:23:08,949
 Itu sebabnya Derrick dan Joe harus mati.
 
-421
-00:23:10,951 --> 00:23:12,084
+422
+00:23:08,951 --> 00:23:10,084
 Jack adalah pembunuh.
 
-422
-00:23:12,686 --> 00:23:14,219
+423
+00:23:10,686 --> 00:23:12,219
 Thumb drive (USB). / Oh ya.
 
-423
-00:23:14,221 --> 00:23:15,554
+424
+00:23:12,221 --> 00:23:13,554
 Ide bagus.
 
-424
-00:23:16,057 --> 00:23:17,289
+425
+00:23:14,057 --> 00:23:15,289
 Sudah.
 
-425
-00:23:20,061 --> 00:23:22,894
+426
+00:23:18,061 --> 00:23:20,894
 Jack? / Aku harus pergi.
 
-426
-00:23:24,165 --> 00:23:26,798
+427
+00:23:22,165 --> 00:23:24,798
 Ya. Tentu saja. Aku
 benar-benar mengerti.
 
-427
-00:23:28,135 --> 00:23:32,471
+428
+00:23:26,135 --> 00:23:30,471
 Aku lupa tentang sesuatu di kantor.
 
-428
-00:23:45,086 --> 00:23:46,885
+429
+00:23:43,086 --> 00:23:44,885
 Suara apa itu?
 
-429
-00:23:48,456 --> 00:23:49,253
+430
+00:23:46,456 --> 00:23:47,253
 Lari!
 
-430
-00:23:49,254 --> 00:23:50,318
+431
+00:23:47,254 --> 00:23:48,318
 Oke.
 
-431
-00:24:17,151 --> 00:24:20,193
+432
+00:24:15,151 --> 00:24:18,193
 Maaf, aku tidak mendengarmu.
 
-432
-00:24:20,194 --> 00:24:21,626
+433
+00:24:18,194 --> 00:24:19,626
 Kau teralihkan.
 
-433
-00:24:22,029 --> 00:24:23,162
+434
+00:24:20,029 --> 00:24:21,162
 Ketahuan.
 
-434
-00:24:24,231 --> 00:24:25,730
+435
+00:24:22,231 --> 00:24:23,730
 Jadi...
 
-435
-00:24:26,567 --> 00:24:28,033
+436
+00:24:24,567 --> 00:24:26,033
 Maaf tentang semalam.
 
-436
-00:24:28,035 --> 00:24:30,001
+437
+00:24:26,035 --> 00:24:28,001
 Ya. Ya, itu ...
 
-437
-00:24:30,003 --> 00:24:31,537
+438
+00:24:28,003 --> 00:24:29,537
 Itu menarik ... / Aneh.
 
-438
-00:24:32,273 --> 00:24:34,139
+439
+00:24:30,273 --> 00:24:32,139
 Mike tampak baik.
 
-439
-00:24:34,842 --> 00:24:37,642
+440
+00:24:32,842 --> 00:24:35,642
 Mungkin kita bisa melakukan
 kencan ganda kapan-kapan
 
-440
-00:24:38,645 --> 00:24:40,079
+441
+00:24:36,645 --> 00:24:38,079
 Ya...
 
-441
-00:24:41,014 --> 00:24:42,581
+442
+00:24:39,014 --> 00:24:40,581
 Aku benar-benar datang ke sini untuk
 berbicara denganmu tentang Jack.
 
-442
-00:24:45,119 --> 00:24:46,318
+443
+00:24:43,119 --> 00:24:44,318
 Aku telah menyelidikinya ...
 
-443
-00:24:46,320 --> 00:24:47,953
+444
+00:24:44,320 --> 00:24:45,953
 Ya, aku tahu.
 
-444
-00:24:50,124 --> 00:24:53,158
+445
+00:24:48,124 --> 00:24:51,158
 Lena, Biomax berbahaya
 dan dia menutupinya.
 
-445
-00:24:55,629 --> 00:24:57,463
+446
+00:24:53,629 --> 00:24:55,463
 Itu tidak benar.
 / Aku tidak berbohong.
 
-446
-00:24:58,665 --> 00:24:59,931
+447
+00:24:56,665 --> 00:24:57,931
 Nah, maka kau keliru.
 
-447
-00:25:00,667 --> 00:25:02,301
+448
+00:24:58,667 --> 00:25:00,301
 Jack takkan pernah menyakiti siapapun.
 
-448
-00:25:06,874 --> 00:25:09,274
+449
+00:25:04,874 --> 00:25:07,274
 Biomax versi 38.
 
-449
-00:25:09,410 --> 00:25:11,042
+450
+00:25:07,410 --> 00:25:09,042
 percobaan satu manusia.
 
-450
-00:25:17,651 --> 00:25:20,352
+451
+00:25:15,651 --> 00:25:18,352
 Dia menggunakan kawanan
 nano untuk membunuh orang.
 
-451
-00:25:21,622 --> 00:25:22,921
+452
+00:25:19,622 --> 00:25:20,921
 Siapa lagi yang tahu?
 
-452
-00:25:23,757 --> 00:25:25,023
+453
+00:25:21,757 --> 00:25:23,023
 Hanya kita.
 
-453
-00:25:27,595 --> 00:25:28,627
+454
+00:25:25,595 --> 00:25:26,627
 Aku takkan memintamu
 untuk menyembunyikannya,
 
-454
-00:25:28,629 --> 00:25:31,029
+455
+00:25:26,629 --> 00:25:29,029
 tapi tolong biarkan aku berbicara
 dengannya sebelum di umumkan.
 
-455
-00:25:31,865 --> 00:25:34,199
+456
+00:25:29,865 --> 00:25:32,199
 Lena, dia membunuh dua orang.
 
-456
-00:25:34,901 --> 00:25:36,401
+457
+00:25:32,901 --> 00:25:34,401
 Aku tahu bagaimana
 perasaanmu padanya,
 
-457
-00:25:36,403 --> 00:25:38,870
+458
+00:25:34,403 --> 00:25:36,870
 tetapi kau akan menjadi yang
 ketiga jika kau menghadapinya.
 
-458
-00:25:40,774 --> 00:25:43,308
+459
+00:25:38,774 --> 00:25:41,308
 Tolong berjanji padaku kau akan
 menjauh darinya dari sekarang.
 
-459
-00:25:43,310 --> 00:25:44,610
+460
+00:25:41,310 --> 00:25:42,610
 Ini untuk keselamatanmu sendiri.
 
-460
-00:25:49,283 --> 00:25:50,815
+461
+00:25:47,283 --> 00:25:48,815
 Terima kasih telah memberitahuku.
 
-461
-00:25:52,052 --> 00:25:53,985
+462
+00:25:50,052 --> 00:25:51,985
 Aku takkan pergi
 menemuinya, aku janji.
 
-462
-00:25:55,356 --> 00:25:56,588
+463
+00:25:53,356 --> 00:25:54,588
 Apa kau baik-baik saja?
 
-463
-00:25:58,692 --> 00:26:00,325
+464
+00:25:56,692 --> 00:25:58,325
 Aku benar-benar punya beberapa
 pekerjaan yang harus dilakukan.
 
-464
-00:26:00,327 --> 00:26:03,462
+465
+00:25:58,327 --> 00:26:01,462
 Apa kau keberatan, Kara?
 / Benar, ya. Tentu saja.
 
-465
-00:26:05,799 --> 00:26:07,065
+466
+00:26:03,799 --> 00:26:05,065
 Aku sangat menyesal.
 
-466
-00:26:08,235 --> 00:26:09,834
+467
+00:26:06,235 --> 00:26:07,834
 Kau hanya melakukan pekerjaanmu.
 
-467
-00:26:10,804 --> 00:26:12,437
+468
+00:26:08,804 --> 00:26:10,437
 Hanya itu yang bisa kita lakukan.
 
-468
-00:26:17,545 --> 00:26:18,710
+469
+00:26:15,545 --> 00:26:16,710
 Winn!
 
-469
-00:26:20,013 --> 00:26:23,682
+470
+00:26:18,013 --> 00:26:21,682
 Hei, bagaimana keadaan pacar paling
 menakjubkan di seluruh alam semesta?
 
-470
-00:26:24,458 --> 00:26:25,850
+471
+00:26:22,458 --> 00:26:23,850
 putaran pertama aku yang bayar.
 
-471
-00:26:26,234 --> 00:26:27,419
+472
+00:26:24,234 --> 00:26:25,419
 Sebenarnya, semuanya aku yang bayar.
 
-472
-00:26:27,421 --> 00:26:28,587
+473
+00:26:25,421 --> 00:26:26,587
 Selama-lamanya. Selalu.
 
-473
-00:26:28,589 --> 00:26:31,390
+474
+00:26:26,589 --> 00:26:29,390
 Dan aku memesan makanan
 penutup favoritmu.
 
-474
-00:26:32,660 --> 00:26:34,959
+475
+00:26:30,660 --> 00:26:32,959
 Hei, kau tidak perlu
 repot-repot padaku ...
 
-475
-00:26:35,587 --> 00:26:37,896
+476
+00:26:33,587 --> 00:26:35,896
 Kenapa kau perlu repot-repot padaku?
 
-476
-00:26:38,532 --> 00:26:39,698
+477
+00:26:36,532 --> 00:26:37,698
 Kau pintar.
 
-477
-00:26:41,569 --> 00:26:44,636
+478
+00:26:39,569 --> 00:26:42,636
 Dengar, aku ...
 
-478
-00:26:44,638 --> 00:26:47,739
+479
+00:26:42,638 --> 00:26:45,739
 Kau sedikit berlebihan
 
-479
-00:26:48,475 --> 00:26:50,375
+480
+00:26:46,475 --> 00:26:48,375
 dengan anak dari toko minuman keras.
 
-480
-00:26:50,377 --> 00:26:51,710
+481
+00:26:48,377 --> 00:26:49,710
 Oke.
 
-481
-00:26:52,446 --> 00:26:53,778
+482
+00:26:50,446 --> 00:26:51,778
 Kau benar.
 
-482
-00:26:54,648 --> 00:26:57,048
+483
+00:26:52,648 --> 00:26:55,048
 Aku akan lebih sabar
 dalam aksi berikutnya.
 
-483
-00:26:58,652 --> 00:27:01,553
+484
+00:26:56,652 --> 00:26:59,553
 Ya ... hanya saja
 tentang anak itu ...
 
-484
-00:27:04,057 --> 00:27:06,157
+485
+00:27:02,057 --> 00:27:04,157
 Jadi James dan aku, kami ...
 
-485
-00:27:06,159 --> 00:27:07,426
+486
+00:27:04,159 --> 00:27:05,426
 Kami...
 
-486
-00:27:07,428 --> 00:27:10,395
+487
+00:27:05,428 --> 00:27:08,395
 Kami sangat menghargai
 antusiasmemu
 
-487
-00:27:10,397 --> 00:27:11,763
+488
+00:27:08,397 --> 00:27:09,763
 dan partisipasimu,
 
-488
-00:27:11,765 --> 00:27:13,064
+489
+00:27:09,765 --> 00:27:11,064
 dan...
 
-489
-00:27:13,701 --> 00:27:16,602
+490
+00:27:11,701 --> 00:27:14,602
 Kami tidak bisa
 mengajakmu bersama kami.
 
-490
-00:27:18,839 --> 00:27:20,071
+491
+00:27:16,839 --> 00:27:18,071
 Untuk berapa lama?
 
-491
-00:27:21,623 --> 00:27:22,941
+492
+00:27:19,623 --> 00:27:20,941
 Nah, selamanya.
 
-492
-00:27:23,644 --> 00:27:24,976
+493
+00:27:21,644 --> 00:27:22,976
 Kau pikir aku gila?
 
-493
-00:27:24,978 --> 00:27:26,478
+494
+00:27:22,978 --> 00:27:24,478
 Tidak...
 
-494
-00:27:26,480 --> 00:27:28,813
+495
+00:27:24,480 --> 00:27:26,813
 Sebenarnya, kau ... bergairah!
 
-495
-00:27:28,815 --> 00:27:31,149
+496
+00:27:26,815 --> 00:27:29,149
 Penuh gairah itu bagus
 dalam situasi tertentu.
 
-496
-00:27:31,151 --> 00:27:32,618
+497
+00:27:29,151 --> 00:27:30,618
 Ini semua karena James, bukan?
 
-497
-00:27:32,620 --> 00:27:34,786
+498
+00:27:30,620 --> 00:27:32,786
 Aku tahu pria itu membenciku.
 
-498
-00:27:34,788 --> 00:27:36,388
+499
+00:27:32,788 --> 00:27:34,388
 Tidak! Tidak, dia ...
 
-499
-00:27:36,390 --> 00:27:39,791
+500
+00:27:34,390 --> 00:27:37,791
 Dia menyukaimu, sungguh.
 / Aku telah begitu baik padanya!
 
-500
-00:27:39,793 --> 00:27:40,925
+501
+00:27:37,793 --> 00:27:38,925
 Dan hanya karena
 dia teman terbaikmu.
 
-501
-00:27:40,927 --> 00:27:42,026
+502
+00:27:38,927 --> 00:27:40,026
 Percayalah, jika dia orang lain,
 
-502
-00:27:42,028 --> 00:27:43,100
+503
+00:27:40,028 --> 00:27:41,100
 Aku akan merobek rahangnya.
 
-503
-00:27:43,101 --> 00:27:45,497
+504
+00:27:41,101 --> 00:27:43,497
 Oke, sayang, kau tidak benar-benar
 membantu dengan argumen gila.
 
-504
-00:27:45,499 --> 00:27:47,098
+505
+00:27:43,499 --> 00:27:45,098
 Jadi kau setuju dengan ini.
 
-505
-00:27:47,901 --> 00:27:49,968
+506
+00:27:45,901 --> 00:27:47,968
 Aku akan membenturkan hidungku.
 
-506
-00:27:50,837 --> 00:27:53,572
+507
+00:27:48,837 --> 00:27:51,572
 Jangan di sini ketika aku kembali!
 
-507
-00:27:55,542 --> 00:27:57,276
+508
+00:27:53,542 --> 00:27:55,276
 Baiklah!
 
-508
-00:28:04,351 --> 00:28:05,717
+509
+00:28:02,351 --> 00:28:03,717
 Kau baik-baik saja?
 
-509
-00:28:14,595 --> 00:28:16,895
+510
+00:28:12,595 --> 00:28:14,895
 Apakah tidak ada pertemuan kelompok
 pendukung anonim Pinterest
 
-510
-00:28:16,897 --> 00:28:18,196
+511
+00:28:14,897 --> 00:28:16,196
 yang kau lewatkan sekarang?
 
-511
-00:28:18,198 --> 00:28:19,765
+512
+00:28:16,198 --> 00:28:17,765
 Bagaimana kau tahu itu aku?
 
-512
-00:28:19,767 --> 00:28:21,966
+513
+00:28:17,767 --> 00:28:19,966
 Aku bisa mencium bau
 putus asa bermil-mil jauhnya.
 
-513
-00:28:23,737 --> 00:28:25,170
+514
+00:28:21,737 --> 00:28:23,170
 Aku mendengar Supergirl
 menyelamatkanmu.
 
-514
-00:28:26,106 --> 00:28:28,273
+515
+00:28:24,106 --> 00:28:26,273
 Ya. Dia ada di sana. / Apa kau
 mengucapkan terima kasih?
 
-515
-00:28:28,275 --> 00:28:30,241
+516
+00:28:26,275 --> 00:28:28,241
 Sekali, untuk seorang
 pengacara perceraian.
 
-516
-00:28:30,243 --> 00:28:32,177
+517
+00:28:28,243 --> 00:28:30,177
 Itu tidak nyaman untuk
 semua orang yang terlibat.
 
-517
-00:28:36,483 --> 00:28:38,883
+518
+00:28:34,483 --> 00:28:36,883
 Apa ini? fakta-fakta
 yang lebih alternatif?
 
-518
-00:28:38,885 --> 00:28:40,319
+519
+00:28:36,885 --> 00:28:38,319
 Ini semua penelitianku
 tentang Spheerical.
 
-519
-00:28:40,321 --> 00:28:41,687
+520
+00:28:38,321 --> 00:28:39,687
 Kupikir aku akan membantu ceritamu.
 
-520
-00:28:44,925 --> 00:28:46,858
+521
+00:28:42,925 --> 00:28:44,858
 Apa untungnya bagimu, Ponytail?
 
-521
-00:28:46,860 --> 00:28:48,727
+522
+00:28:44,860 --> 00:28:46,727
 Aku tahu kita telah
 memiliki perselisihan ...
 
-522
-00:28:50,798 --> 00:28:53,131
+523
+00:28:48,798 --> 00:28:51,131
 Tapi aku telah belajar
 banyak darimu.
 
-523
-00:28:54,635 --> 00:28:57,235
+524
+00:28:52,635 --> 00:28:55,235
 Dan hal terbesar yang
 kupelajari adalah bahwa
 
-524
-00:28:57,237 --> 00:28:58,537
+525
+00:28:55,237 --> 00:28:56,537
 Bukanlah reporter yang penting,
 
-525
-00:28:58,539 --> 00:29:00,104
+526
+00:28:56,539 --> 00:28:58,104
 tapi kebenaran yang penting.
 
-526
-00:29:01,007 --> 00:29:03,308
+527
+00:28:59,007 --> 00:29:01,308
 Dan CatCo akan mendapatkan
 kebenaran untuk banyak orang.
 
-527
-00:29:04,611 --> 00:29:08,313
+528
+00:29:02,611 --> 00:29:06,313
 Juga, aku menerbitkan kebenaran begitu
 buruk bahwa aku tidak mematuhimu.
 
-528
-00:29:08,749 --> 00:29:10,349
+529
+00:29:06,749 --> 00:29:08,349
 Aku melanggar aturan.
 
-529
-00:29:11,618 --> 00:29:12,917
+530
+00:29:09,618 --> 00:29:10,917
 Kau benar.
 
-530
-00:29:14,355 --> 00:29:17,656
+531
+00:29:12,355 --> 00:29:15,656
 Aku beruntung ketika aku memasang
 blog pertamaku atas Cadmus tanpa izinmu.
 
-531
-00:29:19,125 --> 00:29:22,894
+532
+00:29:17,125 --> 00:29:20,894
 Aku mengecewakanmu,
 dan aku minta maaf.
 
-532
-00:29:25,165 --> 00:29:26,331
+533
+00:29:23,165 --> 00:29:24,331
 Akhirnya.
 
-533
-00:29:29,603 --> 00:29:31,703
+534
+00:29:27,603 --> 00:29:29,703
 Jadi, bagaimanapun,
 ini semua informasi yang
 
-534
-00:29:31,705 --> 00:29:33,271
+535
+00:29:29,705 --> 00:29:31,271
 kutemukan atas Spheerical,
 
-535
-00:29:33,273 --> 00:29:36,796
+536
+00:29:31,273 --> 00:29:34,796
 termasuk wawancara dengan
 informan bernama Joe Watkins.
 
-536
-00:29:36,797 --> 00:29:39,244
+537
+00:29:34,797 --> 00:29:37,244
 Percobaan manusia Biomax dipalsukan.
 
-537
-00:29:39,913 --> 00:29:41,312
+538
+00:29:37,913 --> 00:29:39,312
 Tidak buruk, Danvers.
 
-538
-00:29:41,314 --> 00:29:44,115
+539
+00:29:39,314 --> 00:29:42,115
 Aku mendapat konfirmasi yang sama
 dari sumber bernama Derrick Simmons.
 
-539
-00:29:44,117 --> 00:29:45,384
+540
+00:29:42,117 --> 00:29:43,384
 Sebelum dia dibunuh.
 
-540
-00:29:45,386 --> 00:29:46,951
+541
+00:29:43,386 --> 00:29:44,951
 Aku senang informasi kita segaris.
 
-541
-00:29:46,953 --> 00:29:49,688
+542
+00:29:44,953 --> 00:29:47,688
 Kecuali Jack Spheer mungkin bukan satu
 satunya yang terlibat dalam menutup-nutupi.
 
-542
-00:29:50,323 --> 00:29:51,490
+543
+00:29:48,323 --> 00:29:49,490
 Beth Breen menandatangani cek.
 
-543
-00:29:51,492 --> 00:29:53,191
+544
+00:29:49,492 --> 00:29:51,191
 Dia direktur keuangan Spheerical ini.
 
-544
-00:29:53,193 --> 00:29:56,227
+545
+00:29:51,193 --> 00:29:54,227
 Dan dia memiliki banyak kenaikan uang
 pada keberhasilan nanobots tersebut.
 
-545
-00:29:57,130 --> 00:29:59,831
+546
+00:29:55,130 --> 00:29:57,831
 Biomax gagal, ia
 kehilangan segalanya.
 
-546
-00:30:01,368 --> 00:30:02,567
+547
+00:29:59,368 --> 00:30:00,567
 Aku...
 
-547
-00:30:02,569 --> 00:30:04,503
+548
+00:30:00,569 --> 00:30:02,503
 Aku harus pergi.
 Terima kasih, Snapper.
 
-548
-00:30:09,276 --> 00:30:10,542
+549
+00:30:07,276 --> 00:30:08,542
 Jack?
 
-549
-00:30:12,880 --> 00:30:14,112
+550
+00:30:10,880 --> 00:30:12,112
 Hei.
 
-550
-00:30:16,116 --> 00:30:17,549
+551
+00:30:14,116 --> 00:30:15,549
 Ada apa?
 
-551
-00:30:20,954 --> 00:30:22,120
+552
+00:30:18,954 --> 00:30:20,120
 Kau berbohong padaku.
 
-552
-00:30:23,824 --> 00:30:25,924
+553
+00:30:21,824 --> 00:30:23,924
 Semua yang kukatakan tadi
 malam adalah kebenaran.
 
-553
-00:30:26,660 --> 00:30:27,793
+554
+00:30:24,660 --> 00:30:25,793
 Aku tidak berbicara
 tentang kita, Jack.
 
-554
-00:30:28,829 --> 00:30:30,028
+555
+00:30:26,829 --> 00:30:28,028
 Biomax.
 
-555
-00:30:30,431 --> 00:30:31,630
+556
+00:30:28,431 --> 00:30:29,630
 Ada apa dengan itu?
 
-556
-00:30:33,133 --> 00:30:34,599
+557
+00:30:31,133 --> 00:30:32,599
 Aku melihat video itu, Jack.
 
-557
-00:30:35,569 --> 00:30:37,402
+558
+00:30:33,569 --> 00:30:35,402
 Kau menyuntik
 sesuatu dalam dirimu.
 
-558
-00:30:38,104 --> 00:30:39,404
+559
+00:30:36,104 --> 00:30:37,404
 Memalsukan percobaan
 manusia. Kau...
 
-559
-00:30:40,774 --> 00:30:41,907
+560
+00:30:38,774 --> 00:30:39,907
 ... membunuh orang.
 
-560
-00:30:42,309 --> 00:30:43,475
+561
+00:30:40,309 --> 00:30:41,475
 Membunuh orang?
 
-561
-00:30:44,377 --> 00:30:45,477
+562
+00:30:42,377 --> 00:30:43,477
 Aku tidak tahu apa
 yang kau bicarakan.
 
-562
-00:30:45,479 --> 00:30:47,479
+563
+00:30:43,479 --> 00:30:45,479
 Kau tahu ... kita tahu
 tiga tahun yang lalu
 
-563
-00:30:47,481 --> 00:30:49,915
+564
+00:30:45,481 --> 00:30:47,915
 bahwa kawanan nano
 memiliki efek samping.
 
-564
-00:30:50,884 --> 00:30:52,851
+565
+00:30:48,884 --> 00:30:50,851
 Pengaruh otak tikus selamanya berubah.
 
-565
-00:30:52,853 --> 00:30:55,053
+566
+00:30:50,853 --> 00:30:53,053
 Mereka tidak punya kendali. Kita bisa membuat
 mereka melakukan apapun yang kita inginkan.
 
-566
-00:30:55,055 --> 00:30:56,621
+567
+00:30:53,055 --> 00:30:54,621
 Kau melakukan ini untuk diri sendiri!
 
-567
-00:30:56,623 --> 00:30:59,624
+568
+00:30:54,623 --> 00:30:57,624
 Lena, aku tidak tahu
 apa yang kau bicarakan.
 
-568
-00:31:04,765 --> 00:31:06,030
+569
+00:31:02,765 --> 00:31:04,030
 Ya Tuhan.
 
-569
-00:31:09,570 --> 00:31:11,069
+570
+00:31:07,570 --> 00:31:09,069
 Kau mengatakan yang sebenarnya.
 
-570
-00:31:11,705 --> 00:31:12,871
+571
+00:31:09,705 --> 00:31:10,871
 Ms. Luthor.
 
-571
-00:31:21,949 --> 00:31:23,448
+572
+00:31:19,949 --> 00:31:21,448
 Dia tidak bisa mendengarmu.
 
-572
-00:31:24,585 --> 00:31:26,017
+573
+00:31:22,585 --> 00:31:24,017
 Tidak ada yang bisa.
 
-573
-00:31:35,519 --> 00:31:37,279
+574
+00:31:33,519 --> 00:31:35,279
 Jadi siapa yang
 membunuh semua orang?
 
-574
-00:31:37,280 --> 00:31:38,761
+575
+00:31:35,280 --> 00:31:36,761
 Jack yang melakukannya.
 
-575
-00:31:38,762 --> 00:31:42,056
+576
+00:31:36,762 --> 00:31:40,056
 Dia tidak memilih untuk itu dan
 tidak ingat, tapi dia melakukannya.
 
-576
-00:31:48,370 --> 00:31:49,931
+577
+00:31:46,370 --> 00:31:47,931
 Kau telah mengendalikannya
 sepanjang waktu ini.
 
-577
-00:31:49,933 --> 00:31:52,033
+578
+00:31:47,933 --> 00:31:50,033
 Anak manis yang malang benar-benar
 ingin mengesampingkan semuanya
 
-578
-00:31:52,035 --> 00:31:55,036
+579
+00:31:50,035 --> 00:31:53,036
 hanya karena sedikit efek samping
 yang menghilangkan kehendak bebas.
 
-579
-00:31:55,639 --> 00:31:57,271
+580
+00:31:53,639 --> 00:31:55,271
 Tidak bertanggung jawab secara finansial.
 
-580
-00:31:57,273 --> 00:31:59,006
+581
+00:31:55,273 --> 00:31:57,006
 Untungnya, aku ada di
 sana untuk turun tangan.
 
-581
-00:31:59,776 --> 00:32:00,942
+582
+00:31:57,776 --> 00:31:58,942
 Kau tahu, itu benar apa
 yang mereka katakan.
 
-582
-00:32:00,944 --> 00:32:03,845
+583
+00:31:58,944 --> 00:32:01,845
 Setiap orang yang hebat, ada
 wanita yang kuat di belakangnya.
 
-583
-00:32:03,847 --> 00:32:05,146
+584
+00:32:01,847 --> 00:32:03,146
 Oh, aku tidak tahu.
 
-584
-00:32:05,816 --> 00:32:06,748
+585
+00:32:03,816 --> 00:32:04,748
 Aku tidak pernah berdiri
 di belakang seorang pria.
 
-585
-00:32:06,750 --> 00:32:08,316
+586
+00:32:04,750 --> 00:32:06,316
 Kau hanya beruntung
 setelah saudaramu.
 
-586
-00:32:09,519 --> 00:32:10,885
+587
+00:32:07,519 --> 00:32:08,885
 Idiot.
 
-587
-00:32:11,921 --> 00:32:13,287
+588
+00:32:09,921 --> 00:32:11,287
 Kau menjauh dari terobosan abad ini.
 
-588
-00:32:13,289 --> 00:32:14,322
+589
+00:32:11,289 --> 00:32:12,322
 Itu tak berhasil.
 
-589
-00:32:14,324 --> 00:32:16,691
+590
+00:32:12,324 --> 00:32:14,691
 Kupikir itu berhasil dengan indah.
 
-590
-00:32:16,693 --> 00:32:19,260
+591
+00:32:14,693 --> 00:32:17,260
 Aku memiliki boneka brilian yang
 akan melakukan semua perintahku.
 
-591
-00:32:20,163 --> 00:32:21,229
+592
+00:32:18,163 --> 00:32:19,229
 Seluruh dunia akan
 menyambut kawanan nano
 
-592
-00:32:21,231 --> 00:32:23,598
+593
+00:32:19,231 --> 00:32:21,598
 ke setiap rumah sakit, pangkalan
 militer, dan akhirnya, rumah.
 
-593
-00:32:24,468 --> 00:32:26,334
+594
+00:32:22,468 --> 00:32:24,334
 Astaga, kau menjijikkan.
 / aku seorang realis.
 
-594
-00:32:31,174 --> 00:32:33,541
+595
+00:32:29,174 --> 00:32:31,541
 Apa yang lucu? / Sekarang
 kau akan membunuhku.
 
-595
-00:32:33,543 --> 00:32:35,309
+596
+00:32:31,543 --> 00:32:33,309
 Itulah satu-satunya alasan
 kau bilang semua ini.
 
-596
-00:32:35,311 --> 00:32:38,680
+597
+00:32:33,311 --> 00:32:36,680
 Sekali lagi, sangat tidak
 bertanggung jawab secara finansial.
 
-597
-00:32:39,215 --> 00:32:40,915
+598
+00:32:37,215 --> 00:32:38,915
 Aku sudah mengontrol Jack.
 
-598
-00:32:41,818 --> 00:32:43,251
+599
+00:32:39,818 --> 00:32:41,251
 Mengapa aku akan membunuhmu
 ketika aku bisa mengendalikanmu
 
-599
-00:32:43,253 --> 00:32:44,919
+600
+00:32:41,253 --> 00:32:42,919
 dengan perluasan, L-Corp?
 
-600
-00:32:45,422 --> 00:32:46,388
+601
+00:32:43,422 --> 00:32:44,388
 Pikirkanlah jika bergabung.
 
-601
-00:32:47,156 --> 00:32:49,824
+602
+00:32:45,156 --> 00:32:47,824
 Oke, Jacky, letakkan, oke?
 
-602
-00:32:50,927 --> 00:32:53,561
+603
+00:32:48,927 --> 00:32:51,561
 Jack, dengar, aku tahu kau di
 sana di suatu tempat, oke?
 
-603
-00:32:54,163 --> 00:32:55,096
+604
+00:32:52,163 --> 00:32:53,096
 Kau mendengarku?
 
-604
-00:32:58,535 --> 00:33:00,435
+605
+00:32:56,535 --> 00:32:58,435
 Apa kau baik-baik saja? / Ya.
 
-605
-00:33:08,589 --> 00:33:10,111
+606
+00:33:06,589 --> 00:33:08,111
 Kau harus keluar dari sini.
 
-606
-00:33:10,113 --> 00:33:11,479
+607
+00:33:08,113 --> 00:33:09,479
 Tidak, aku punya ide yang lebih baik.
 
-607
-00:33:11,481 --> 00:33:12,947
+608
+00:33:09,481 --> 00:33:10,947
 Buatlah mereka sibuk.
 
-608
-00:33:22,626 --> 00:33:23,758
+609
+00:33:20,626 --> 00:33:21,758
 Apa aku menyebutkan
 bahwa aku sabuk hitam?
 
-609
-00:33:24,895 --> 00:33:26,394
+610
+00:33:22,895 --> 00:33:24,394
 Apa aku menyebutkan
 aku seorang Luthor?
 
-610
-00:33:46,215 --> 00:33:47,649
+611
+00:33:44,215 --> 00:33:45,649
 Jack, berhentilah!
 
-611
-00:33:55,692 --> 00:33:56,858
+612
+00:33:53,692 --> 00:33:54,858
 Lena.
 
-612
-00:34:02,098 --> 00:34:03,364
-Tidak!
-
 613
-00:34:03,867 --> 00:34:05,299
+00:34:00,098 --> 00:34:01,364
 Tidak!
 
 614
-00:34:10,206 --> 00:34:11,806
-Tidak! / Lena!
+00:34:01,867 --> 00:34:03,299
+Tidak!
 
 615
-00:34:12,709 --> 00:34:15,343
-Jack! / Lena, tolong! Mainframe.
+00:34:08,206 --> 00:34:09,806
+Tidak! / Lena!
 
 616
-00:34:19,749 --> 00:34:21,649
-Kupikir aku bisa membatalkannya!
+00:34:10,709 --> 00:34:13,343
+Jack! / Lena, tolong! Mainframe.
 
 617
-00:34:22,385 --> 00:34:24,418
-Lena, cepat!
+00:34:17,749 --> 00:34:19,649
+Kupikir aku bisa membatalkannya!
 
 618
-00:34:29,759 --> 00:34:31,626
+00:34:20,385 --> 00:34:22,418
+Lena, cepat!
+
+619
+00:34:27,759 --> 00:34:29,626
 Aku hampir selesai, oke?
 / Kau akan membunuhnya.
 
-619
-00:34:32,395 --> 00:34:34,896
+620
+00:34:30,395 --> 00:34:32,896
 Pembatalan menghancurkan nanobots.
 
-620
-00:34:34,898 --> 00:34:37,665
+621
+00:34:32,898 --> 00:34:35,665
 Mereka bergabung bersamanya. Kau
 membunuh mereka, kau membunuhnya.
 
-621
-00:34:49,145 --> 00:34:50,512
+622
+00:34:47,145 --> 00:34:48,512
 Maaf, Jacky.
 
-622
-00:34:51,915 --> 00:34:53,882
+623
+00:34:49,915 --> 00:34:51,882
 Lakukan. Kumohon.
 
-623
-00:35:01,825 --> 00:35:02,891
+624
+00:34:59,825 --> 00:35:00,891
 <i><font color="#FF8000">SISTEM DIBATALKAN.</font></i>
 
-624
-00:35:26,082 --> 00:35:27,381
+625
+00:35:24,082 --> 00:35:25,381
 Jack.
 
-625
-00:35:34,985 --> 00:35:39,985
+626
+00:35:32,985 --> 00:35:37,985
 <i>Kunjungi <font color="#FF8000">acmbet.org</font>
 Agen Bola terpercaya kami</i>
 
-626
-00:35:45,780 --> 00:35:47,179
+627
+00:35:43,780 --> 00:35:45,179
 Itu indah.
 
-627
-00:35:47,181 --> 00:35:49,248
+628
+00:35:45,181 --> 00:35:47,248
 Aku berharap ada lebih banyak
 yang bisa kulakukan untuk membantu.
 
-628
-00:35:51,352 --> 00:35:53,319
+629
+00:35:49,352 --> 00:35:51,319
 Oh, kau datang menemuiku.
 Itu lebih dari cukup.
 
-629
-00:35:56,091 --> 00:35:57,690
+630
+00:35:54,091 --> 00:35:55,690
 Beth di penjara. / Bagus.
 
-630
-00:36:03,098 --> 00:36:04,463
+631
+00:36:01,098 --> 00:36:02,463
 Bagaimana perasaanmu?
 
-631
-00:36:05,366 --> 00:36:07,433
+632
+00:36:03,366 --> 00:36:05,433
 Ketika Lex ditangkap,
 ibuku ada di sana.
 
-632
-00:36:07,936 --> 00:36:09,602
+633
+00:36:05,936 --> 00:36:07,602
 Ibu melihat anaknya
 
-633
-00:36:09,604 --> 00:36:11,738
+634
+00:36:07,604 --> 00:36:09,738
 diseret, berdarah dan
 mengoceh dari rumahnya.
 
-634
-00:36:11,740 --> 00:36:14,440
+635
+00:36:09,740 --> 00:36:12,440
 Dan ketika aku sampai di sana,
 Lillian merapikan kamarnya
 
-635
-00:36:14,442 --> 00:36:17,209
+636
+00:36:12,442 --> 00:36:15,209
 seperti dia hanya pergi
 untuk perjalanan bisnis.
 
-636
-00:36:19,347 --> 00:36:20,647
+637
+00:36:17,347 --> 00:36:18,647
 Itulah yang kurasakan.
 
-637
-00:36:21,582 --> 00:36:23,783
+638
+00:36:19,582 --> 00:36:21,783
 Dingin dan tenang.
 
-638
-00:36:25,386 --> 00:36:27,153
+639
+00:36:23,386 --> 00:36:25,153
 Sampai aku berpikir
 tentang Beth mati di penjara,
 
-639
-00:36:27,155 --> 00:36:28,855
+640
+00:36:25,155 --> 00:36:26,855
 dan kemudian aku
 merasa hangat sebentar.
 
-640
-00:36:28,857 --> 00:36:30,690
+641
+00:36:26,857 --> 00:36:28,690
 Kau mengalami shock,
 Lena. / Aku tidak tahu.
 
-641
-00:36:31,492 --> 00:36:33,026
+642
+00:36:29,492 --> 00:36:31,026
 Kerugian melakukan hal-hal
 aneh untuk keluargaku,
 
-642
-00:36:33,028 --> 00:36:34,226
+643
+00:36:31,028 --> 00:36:32,226
 dan aku telah kehilangan banyak orang.
 
-643
-00:36:34,228 --> 00:36:35,928
+644
+00:36:32,228 --> 00:36:33,928
 Nah, kau takkan kehilanganku.
 
-644
-00:36:37,165 --> 00:36:39,298
+645
+00:36:35,165 --> 00:36:37,298
 Kupikir ketika aku
 merasakan sesuatu lagi,
 
-645
-00:36:42,070 --> 00:36:43,836
+646
+00:36:40,070 --> 00:36:41,836
 Aku akan sangat takut ...
 
-646
-00:36:46,107 --> 00:36:47,606
+647
+00:36:44,107 --> 00:36:45,606
 dari diriku yang mungkin terjadi.
 
-647
-00:36:50,444 --> 00:36:52,645
+648
+00:36:48,444 --> 00:36:50,645
 Kau tidak perlu takut.
 
-648
-00:36:54,716 --> 00:36:56,448
+649
+00:36:52,716 --> 00:36:54,448
 Aku disini.
 
-649
-00:36:57,018 --> 00:36:58,151
+650
+00:36:55,018 --> 00:36:56,151
 Aku tidak pergi kemana-mana.
 
-650
-00:36:58,653 --> 00:37:00,086
+651
+00:36:56,653 --> 00:36:58,086
 Janji?
 
-651
-00:37:02,123 --> 00:37:03,923
+652
+00:37:00,123 --> 00:37:01,923
 Aku akan selalu menjadi temanmu.
 
-652
-00:37:05,093 --> 00:37:07,393
+653
+00:37:03,093 --> 00:37:05,393
 Dan aku akan selalu melindungimu.
 
-653
-00:37:08,629 --> 00:37:10,196
+654
+00:37:06,629 --> 00:37:08,196
 Aku berjanji.
 
-654
-00:37:15,194 --> 00:37:15,601
+655
+00:37:13,194 --> 00:37:13,601
 Apa yang terjadi?
 
-655
-00:37:15,603 --> 00:37:17,737
+656
+00:37:13,603 --> 00:37:15,737
 Ya? Baiklah.
 
-656
-00:37:19,140 --> 00:37:20,707
+657
+00:37:17,140 --> 00:37:18,707
 Jadi...
 
-657
-00:37:20,819 --> 00:37:25,578
+658
+00:37:18,819 --> 00:37:23,578
 Kita punya kucing hitam dan putih
 
-658
-00:37:25,580 --> 00:37:27,546
+659
+00:37:23,580 --> 00:37:25,546
 terjebak di pohon, 4th and Main.
 
-659
-00:37:27,548 --> 00:37:29,015
+660
+00:37:25,548 --> 00:37:27,015
 Winn ...
 
-660
-00:37:30,168 --> 00:37:32,418
+661
+00:37:28,168 --> 00:37:30,418
 Aku menyesal tentang apa
 yang terjadi dengan Lyra.
 
-661
-00:37:33,221 --> 00:37:34,286
+662
+00:37:31,221 --> 00:37:32,286
 Yeah, tiga orang
 kebanyakan, bukan?
 
-662
-00:37:35,223 --> 00:37:36,322
+663
+00:37:33,223 --> 00:37:34,322
 Kau tahu, aku bisa saja
 menanganinya secara berbeda.
 
-663
-00:37:36,324 --> 00:37:39,992
+664
+00:37:34,324 --> 00:37:37,992
 Aku seharusnya meletakkan beberapa
 aturan dasar untuknya dulu.
 
-664
-00:37:41,562 --> 00:37:43,196
+665
+00:37:39,562 --> 00:37:41,196
 Oke.
 
-665
-00:37:44,132 --> 00:37:46,065
+666
+00:37:42,132 --> 00:37:44,065
 Sudah lama sejak aku
 punya teman terbaik.
 
-666
-00:37:49,137 --> 00:37:50,502
+667
+00:37:47,137 --> 00:37:48,502
 Kau saudaraku.
 
-667
-00:37:53,241 --> 00:37:56,242
+668
+00:37:51,241 --> 00:37:54,242
 Dan aku belum merasa
 seperti itu sejak Clark.
 
-668
-00:37:58,113 --> 00:38:01,147
+669
+00:37:56,113 --> 00:37:59,147
 Dan bekerja denganmu,
 itu membuatku bahagia.
 
-669
-00:38:01,449 --> 00:38:02,782
+670
+00:37:59,449 --> 00:38:00,782
 Aku juga.
 
-670
-00:38:04,585 --> 00:38:06,385
+671
+00:38:02,585 --> 00:38:04,385
 Tapi kau tahu...
 
-671
-00:38:06,988 --> 00:38:08,187
+672
+00:38:04,988 --> 00:38:06,187
 Bung, begitu juga Lyra.
 
-672
-00:38:08,623 --> 00:38:10,022
+673
+00:38:06,623 --> 00:38:08,022
 Dengan mengatakan itu ...
 
-673
-00:38:12,160 --> 00:38:14,660
+674
+00:38:10,160 --> 00:38:12,660
 Hei, apa yang kau
 lakukan di sini?
 
-674
-00:38:14,662 --> 00:38:16,262
+675
+00:38:12,662 --> 00:38:14,262
 James mengundangku.
 
-675
-00:38:18,399 --> 00:38:19,598
+676
+00:38:16,399 --> 00:38:17,598
 Apa kau yakin?
 
-676
-00:38:22,603 --> 00:38:24,303
+677
+00:38:20,603 --> 00:38:22,303
 Apa kau benar-benar
 ingin membantu orang?
 
-677
-00:38:24,639 --> 00:38:25,972
+678
+00:38:22,639 --> 00:38:23,972
 Kebanyakan hari.
 
-678
-00:38:27,842 --> 00:38:29,976
+679
+00:38:25,842 --> 00:38:27,976
 Oke, maka kau akan mendengarkan
 semua yang kukatakan.
 
-679
-00:38:30,611 --> 00:38:32,111
+680
+00:38:28,611 --> 00:38:30,111
 Terdengar bagus untukku.
 
-680
-00:38:35,780 --> 00:38:36,916
+681
+00:38:33,780 --> 00:38:34,916
 Sekarang,
 
-681
-00:38:36,918 --> 00:38:39,351
+682
+00:38:34,918 --> 00:38:37,351
 apa aku mendengar tentang
 kucing terjebak di pohon?
 
-682
-00:38:39,353 --> 00:38:40,452
+683
+00:38:37,353 --> 00:38:38,452
 Aku kelaparan.
 
-683
-00:38:45,693 --> 00:38:47,426
+684
+00:38:43,693 --> 00:38:45,426
 Dia bercanda, kan?
 
-684
-00:38:47,962 --> 00:38:49,528
+685
+00:38:45,962 --> 00:38:47,528
 Kau tahu, aku tidak yakin.
 
-685
-00:38:53,534 --> 00:38:56,568
+686
+00:38:51,534 --> 00:38:54,568
 Ms. Tessmacher! Di
 mana kue Danish-ku?
 
-686
-00:38:57,906 --> 00:39:00,539
+687
+00:38:55,906 --> 00:38:58,539
 Keberhasilan kue pertamaku.
 
-687
-00:39:00,541 --> 00:39:01,941
+688
+00:38:58,541 --> 00:38:59,941
 Danish, baru diangkat dari oven.
 
-688
-00:39:03,511 --> 00:39:06,445
+689
+00:39:01,511 --> 00:39:04,445
 Caranya adalah ... garam laut,
 sebenarnya, karena ...
 
-689
-00:39:06,447 --> 00:39:09,381
+690
+00:39:04,447 --> 00:39:07,381
 garam laut dapat menggabungkan
 baik dengan adonan.
 
-690
-00:39:10,318 --> 00:39:11,750
+691
+00:39:08,318 --> 00:39:09,750
 Aku tidak tahu kau suka memanggang.
 
-691
-00:39:11,752 --> 00:39:14,153
+692
+00:39:09,752 --> 00:39:12,153
 Ada banyak tentangku
 yang kau tidak tahu, Danvers.
 
-692
-00:39:15,990 --> 00:39:17,723
+693
+00:39:13,990 --> 00:39:15,723
 Aku punya sesuatu, juga.
 
-693
-00:39:21,223 --> 00:39:23,963
+694
+00:39:19,223 --> 00:39:21,963
 Terima kasih untuk tidak
 menyeret Jack ke pernyataan.
 
-694
-00:39:25,466 --> 00:39:26,999
+695
+00:39:23,466 --> 00:39:24,999
 Lihatlah byline.
 
-695
-00:39:27,408 --> 00:39:29,102
+696
+00:39:25,408 --> 00:39:27,102
 <i><font color="#FF8000">PHEERICAL MENGHENTIKAN PERUBAHAN
 Oleh Snapper Carr dan Kara Danvers</font></i>
 
-696
-00:39:29,103 --> 00:39:30,536
+697
+00:39:27,103 --> 00:39:28,536
 Kau menempatkan namaku di byline?
 
-697
-00:39:30,538 --> 00:39:32,504
+698
+00:39:28,538 --> 00:39:30,504
 wawancaramu dengan informan itu
 
-698
-00:39:32,506 --> 00:39:37,243
+699
+00:39:30,506 --> 00:39:35,243
 berperan penting dalam berita kami dari setiap
 organisasi berita besar lainnya di luar sana.
 
-699
-00:39:38,813 --> 00:39:40,213
+700
+00:39:36,813 --> 00:39:38,213
 Kau...
 
-700
-00:39:42,683 --> 00:39:44,283
+701
+00:39:40,683 --> 00:39:42,283
 Kau melakukan dengan baik, Danvers.
 
-701
-00:39:46,520 --> 00:39:47,786
+702
+00:39:44,520 --> 00:39:45,786
 Terima kasih.
 
-702
-00:39:51,292 --> 00:39:52,491
+703
+00:39:49,292 --> 00:39:50,491
 Sama-sama.
 
-703
-00:39:56,769 --> 00:39:59,198
+704
+00:39:54,769 --> 00:39:57,198
 Aku akan mulai memuat
 untuk sampul besok.
 
-704
-00:39:59,200 --> 00:40:02,068
+705
+00:39:57,200 --> 00:40:00,068
 Benar ... yeah, aku
 akan keluar dari sini.
 
-705
-00:40:02,070 --> 00:40:05,604
+706
+00:40:00,070 --> 00:40:03,604
 Oh, jadi sekarang kau
 berbagi byline denganku,
 
-706
-00:40:05,606 --> 00:40:07,073
+707
+00:40:03,606 --> 00:40:05,073
 Kau terlalu bagus
 untuk bekerja lembur?
 
-707
-00:40:08,243 --> 00:40:10,343
+708
+00:40:06,243 --> 00:40:08,343
 Tapi kupikir ... / Aku hanya bilang kau
 melakukan pekerjaan yang baik, Danvers.
 
-708
-00:40:10,345 --> 00:40:11,643
+709
+00:40:08,345 --> 00:40:09,643
 Kau tidak menyerah,
 
-709
-00:40:12,480 --> 00:40:14,180
+710
+00:40:10,480 --> 00:40:12,180
 bahkan ketika informan itu terbunuh.
 
-710
-00:40:15,449 --> 00:40:17,984
+711
+00:40:13,449 --> 00:40:15,984
 Kau tidak takut untuk mengejar
 kebenaran, tidak peduli apa risikonya.
 
-711
-00:40:17,986 --> 00:40:20,186
+712
+00:40:15,986 --> 00:40:18,186
 Dan kita perlu lebih wartawan seperti itu.
 
-712
-00:40:21,722 --> 00:40:25,491
+713
+00:40:19,722 --> 00:40:23,491
 wartawan lebih sepertimu,
 yang peduli kebenaran.
 
-713
-00:40:30,064 --> 00:40:31,430
+714
+00:40:28,064 --> 00:40:29,430
 Jadi aku punya pekerjaanku kembali?
 
-714
-00:40:31,432 --> 00:40:33,832
+715
+00:40:29,432 --> 00:40:31,832
 Kecuali kau berpikir untuk
 memulai kerja di truk makanan.
 
-715
-00:40:40,508 --> 00:40:42,008
+716
+00:40:38,508 --> 00:40:40,008
 Jangan kerja di truk makanan.
 
-716
-00:40:44,245 --> 00:40:45,411
+717
+00:40:42,245 --> 00:40:43,411
 Aku akan mengambil kopi.
 
-717
-00:40:50,170 --> 00:40:55,170
+718
+00:40:48,170 --> 00:40:53,170
 <i>Kunjungi <font color="#FF8000">acmbet.org</font>
 Agen Bola terpercaya kami</i>
 
-718
-00:40:58,492 --> 00:41:00,026
+719
+00:40:56,492 --> 00:40:58,026
 Lena Luthor.
 
-719
-00:41:00,028 --> 00:41:01,493
+720
+00:40:58,028 --> 00:40:59,493
 Aku tidak mau bertemu
 siapapun sekarang.
 
-720
-00:41:01,495 --> 00:41:03,963
+721
+00:40:59,495 --> 00:41:01,963
 Aku mendengar tentang
 rekanmu, Mr. Spheer.
 
-721
-00:41:04,399 --> 00:41:05,631
+722
+00:41:02,399 --> 00:41:03,631
 Aku turut berduka.
 
-722
-00:41:09,715 --> 00:41:10,883
+723
+00:41:07,715 --> 00:41:08,883
 Siapa kau?
 
-723
-00:41:14,704 --> 00:41:16,042
+724
+00:41:12,704 --> 00:41:14,042
 Namaku Rhea.
 
-724
-00:41:17,130 --> 00:41:19,211
+725
+00:41:15,130 --> 00:41:17,211
 Aku memiliki tawaran bisnis untukmu.
 
-725
-00:41:19,212 --> 00:41:24,887
+726
+00:41:17,212 --> 00:41:22,887
 <i><b><font color="#8080FF">Translated By
 Reivano Diego R.</font></b></i>
-
